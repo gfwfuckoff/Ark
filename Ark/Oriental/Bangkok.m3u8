@@ -22,13 +22,13 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
+https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/NTV7.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/NTV7.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/8TV.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV9.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/TV9.m3u8
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
@@ -38,17 +38,17 @@ https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
+https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV7 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/NTV7.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/NTV7.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/8TV.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV9.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/TV9.m3u8
 #EXTINF:-1 tvg-ID="TVS.MY" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malaysia",TV Sarawak
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/DramaSangat.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
@@ -236,7 +236,7 @@ http://210.210.155.66/h/h28/01.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",tVOne
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/TvOne.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/TvOne.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
@@ -371,7 +371,7 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png" group-title="Pilipinas",One Sports
 http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/chunklist_w730697820_b628000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Pilipinas",PTV 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/PH/PTVPH.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
 #EXTINF:-1 tvg-logo="https://www.knowledgechannel.org/wp-content/uploads/2020/06/2020WEBLOGO_1.png" group-title="Pilipinas",Knowledge
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8|X-Forwarded-For=45.134.224.4
 #EXTINF:-1 tvg-logo="http://cltv36.tv/assets/img/logo127.png" group-title="Pilipinas",Central Luzon Television
@@ -474,13 +474,13 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="Thai",TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 #EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="Thai",New18
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/TH/NEW18.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/TH/NEW18.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="Thai",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
 #EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="Thai",Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thai",Workpoint
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/WPTV.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Thai",GMM 25
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="Thai",ช่อง 8
