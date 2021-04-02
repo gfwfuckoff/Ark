@@ -501,9 +501,9 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w16838
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Français",CNews
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/FR/CNews.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/FR/C8.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/FR/C8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ab1.tv/images/media/logo-ab1.png" group-title="Français",AB1
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
@@ -597,11 +597,11 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TFX.fr.png" group-title="Français",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/LCP.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Français",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/PSenat.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/PSenat.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/6ter.fr.png" group-title="",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
@@ -725,7 +725,7 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/KontraChannel.gr.png" group-title="Ελλάδα",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvstar.gr/images/tvstar-images/logos/logo.png" group-title="Ελλάδα",Star Κεντρικής Ελλάδας 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/StarL.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/StarL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.smiletvcyprus.com/gr/images/logo/logo.png" group-title="Ελλάδα",Smile TV
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/Star.gr.png" group-title="Ελλάδα",Star TV
