@@ -409,6 +409,31 @@ http://185.180.12.34:8080/SPORTSKATV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.stv.hr/images/stories/stv-logo.png" group-title="Hrvatska",Televizija Slavonije
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/CT1.cz.png" group-title="Česká",CT1
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaInternational.cz.png" group-title="Česká",Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Nova2.cz.png" group-title="Česká",Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/cze.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaGold.cz.png" group-title="Česká",Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaCinema.cz.png" group-title="Česká",Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaAction.cz.png" group-title="Česká",Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Ocko.cz.png" group-title="Česká",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/OckoExpres.cz.png" group-title="Česká",Ocko Express
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/OckoStar.cz.png" group-title="Česká",Ocko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Filmbox.cz.png" group-title="Česká",FilmBox
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Eurosport1.cz.png" group-title="Česká",Eurosport 1 Czech
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/DiscoveryChannel.cz.png group-title="Česká",Discovery
+http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Česká",FashionTV Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.filmpro.cz/filmpro/images/logo-300.gif" group-title="Česká",Filmpro
@@ -501,9 +526,9 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w16838
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Français",CNews
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/FR/CNews.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/FR/C8.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/FR/C8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ab1.tv/images/media/logo-ab1.png" group-title="Français",AB1
 http:///cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/AB1_live/index.m3u8
@@ -597,11 +622,11 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TFX.fr.png" group-title="Français",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/LCP.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Français",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/PSenat.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/PSenat.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/6ter.fr.png" group-title="",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
@@ -725,7 +750,7 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/KontraChannel.gr.png" group-title="Ελλάδα",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvstar.gr/images/tvstar-images/logos/logo.png" group-title="Ελλάδα",Star Κεντρικής Ελλάδας 
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/StarL.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/StarL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.smiletvcyprus.com/gr/images/logo/logo.png" group-title="Ελλάδα",Smile TV
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/Star.gr.png" group-title="Ελλάδα",Star TV
@@ -1556,30 +1581,40 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norge",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Jednotka.svg/225px-Jednotka.svg.png" group-title="Slovensko",Jednotka
-https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Dvojka.svg/225px-Dvojka.svg.png" group-title="Slovensko",Dvojka
-https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV1.sk.png" group-title="Slovensko",Jednotka
+https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV2.sk.png" group-title="Slovensko",Dvojka
+https://n14.stv.livebox.sk/stv-tv/cdb8d2c5e458f65b032821bd2eac3663/stv2.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV3.sk.png" group-title="Slovensko",Trojka
+https://n14.stv.livebox.sk/stv-tv/cdb8d2c5e458f65b032821bd2eac3663/stv2.smil/chunklist_b2691072.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV3.sk.png" group-title="Slovensko",Šport
+https://n3.stv.livebox.sk/stv-tv/3b55cf6b9f2666f9be62f746654b9410/stv6.smil/chunklist_b5251072.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovensko",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovensko",Joj Plus
-https://ocko-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/slo/live_lq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovensko",Markiza
-https://ocko-live.ssl.cdn.cra.cz/channels/markiza/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/markiza_plus1_basic_full_rgb_hd-499.PNG" group-title="Slovensko",Markíza Plus
-http://173.249.28.105:8000/play/markizaplus1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/JOJPlus.sk.png" group-title="Slovensko",Joj Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Jojko.png group-title="Slovensko",TV Jojko
+https://nn.geo.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Joj_Family_logo.png" group-title="Slovensko",Joj Family
+https://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/Wau.sk.png" group-title="Slovensko",Wau
+https://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/Markiza.sk.png" group-title="Slovensko",Markíza
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4000v102.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/TeleviziaLux.sk.png" group-title="Slovensko",Lux Televizia
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4002v102.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/TA3.sk.png" group-title="Slovensko",TA3
+http://213.151.233.20:8000/dna-5108-tv-pc/hls/4000v102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dusanhoo.webnode.sk/_files/200000514-b0e0eb1db2/LOGO%20CETV.jpg" group-title="Slovensko",CETV
 http://213.81.153.221:8080/cetv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvhronka.sk/engine/wp-content/themes/hronkatv/images/logo.png" group-title="Slovensko",Hronka
 http://213.81.153.221:8080/hronka
 #EXTINF:-1 tvg-id="" tvg-logo="http://icedreamkosice.com/wp-content/uploads/2016/04/kosice-dnes-logo.jpg" group-title="Slovensko",Košice:dnes
-http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
+https://lb.streaming.sk/tvnasa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lifetv.sk/documents/12145064/12463415/Logo+Life+Tv+Bendo_Snapseed.jpg" group-title="Slovensko",Life.TV
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvlocall.eu/wp-content/uploads/2017/10/logo_vkek.png" group-title="Slovensko",LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvlux.sk/project/tvlux/design/img/mainLogoClear.png" group-title="Slovensko",Lux
-http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zpiestan.sk/uploads/tv-karpaty2-480x311.jpg" group-title="Slovensko",Karpaty
 http://213.81.153.221:8080/karpaty
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nztv.eu/img/logo-nztv-white.png" group-title="Slovensko",Nové Zámky
@@ -1602,13 +1637,10 @@ http://213.81.153.221:8080/puchov
 https://live01.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/avc,576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jazykovymentoring.sk/wp-content/uploads/2017/11/logo_w-1-300x147.png" group-title="Slovensko",Raj TV
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
-https://romana.tv/wp-content/uploads/2019/03/romana_2.png
 #EXTINF:-1 tvg-id="" tvg-logo="https://romana.tv/wp-content/uploads/2019/03/romana_2.png" group-title="Slovensko",TV Romana
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.krajskakniznicazilina.sk/menu/okniz/part/sever_logo.png" group-title="Slovensko",TV Severka
 http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.joj.sk/rx/895390a549fcf7c27afca7bba11c100f.png" group-title="Slovensko",Rik
-http://nn2.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvr.sk/sites/all/themes/tvr/logo.png" group-title="Slovensko",Ruzinov
 http://213.81.153.221:8080/ruzinov
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvsen.sk/templates/page/img/logo.png" group-title="Slovensko",Sen TV
@@ -1617,12 +1649,8 @@ http://213.81.153.221:8080/senica
 http://109.74.144.130/live/senzihity/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.lucnica.sk/images/2015/10/logo-severka.jpg" group-title="Slovensko",Severka
 http://213.81.153.221:8080/severka
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ta3.com/ver-4.4/public/img/logo.png" group-title="Slovensko",TA 3
-http://70.32.0.9:5000/live/43/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mtt.sk/up/img/mtt-logo4.png" group-title="Slovensko",Trnava
 http://213.81.153.221:8080/trnava
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.joj.sk/rx/logowau.png" group-title="Slovensko",Wau TV
-https://ocko-live.ssl.cdn.cra.cz/channels/wau/playlist/slo/live_lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.vegatv.sk/images/logo.png" group-title="Slovensko",Vega TV
 http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 
