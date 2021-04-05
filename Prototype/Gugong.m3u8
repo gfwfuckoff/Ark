@@ -296,13 +296,13 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Malaysia",Astro AEC
-http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1 tvg-id="ARE.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="Malaysia",Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AOD.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="Malaysia",Astro AOD
-http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="CIT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia",Astro Citra
@@ -327,6 +327,10 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="XTY.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/344_300.png" group-title="Malaysia",Astro 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-id="HHT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="Malaysia",Astro 欢喜台
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="HLT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="Malaysia",Astro 华丽台
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
@@ -620,13 +624,13 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Sports",Astro Supersport
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Sports",Astro SuperSport 2
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Sports",Astro Supersport 3
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Sports",Astro SuperSport 4
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF: -1 tvg-id="BT1.UK" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
