@@ -936,6 +936,8 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yeshuachai.tv/sites/default/files/logo.png" group-title="ישראל",Yeshua Chai
 http://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/il-kabbalah-tv-1048.jpg" group-title="ישראל",Kabbalah
+https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Türkiye",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
