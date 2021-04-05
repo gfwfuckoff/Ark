@@ -513,7 +513,7 @@ https://songtvam.ru/hd/playlist.m3u8
 https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/am/ShantTVLocalRU.am.png" group-title="Հայաստան",Shant TV
 http://ott-cdn.ucom.am/s3/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
-#EXTINF:-1 tvg-logo="https://static.epg.best/am/ShoghakatTV.am.png group-title="Հայաստան",Shoghakat
+#EXTINF:-1 tvg-logo="https://static.epg.best/am/ShoghakatTV.am.png" group-title="Հայաստան",Shoghakat
 http://ott-cdn.ucom.am/s13/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 #EXTINF:-1 tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg" group-title="Հայաստան",US Armenia
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
