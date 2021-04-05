@@ -43,10 +43,6 @@ http://61.238.6.49:8000/bysid/96
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="香港",Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8
-#EXTINF:-1 tvg-id="18T.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="香港",18台
-https://flv3948069e.live.126.net/live/7664a97ab4a9f47650ccde6d7ff18c87.flv
-#EXTINF:-1 tvg-id="603.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",603台
-https://ws.matchupstream.tuboshu.com/live/b77a48db6b829f09bb63216ab7311ffc.flv
 #EXTINF:-1 tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="香港",澳亞衛視
 http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 #EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
