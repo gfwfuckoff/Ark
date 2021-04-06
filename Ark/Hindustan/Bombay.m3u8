@@ -19,18 +19,7 @@ http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/11/ne_live_logo_black_tag.png" group-title="অসমীয়া",Northeast Live
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV.NP" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="ेपाली",Nepal TV
-https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="ेपाली",Nepal Plus
-https://np.nettvnepal.com.np/pulltest/hd-NtvPlus-1500.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="ेपाली",Nepal News
-https://np.nettvnepal.com.np/pulltest/hd-NtvNews-1500.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="ेपाली",Nepal Kohalpur
-https://np.nettvnepal.com.np/pulltest/hd-NTVKOHALPUR.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="ेपाली",Nepal Itahari
-https://np.nettvnepal.com.np/pulltest/ntvithari.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://imagekhabar.com/frontend/img/iklogo.png" group-title="ेपाली",Image Khabar 
-http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" group-title="ेपाली",Kantipur TV
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
