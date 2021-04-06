@@ -367,8 +367,6 @@ http://136.243.177.164/TLC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/Travel.bg.png" group-title="България",Travel Channel България
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/auto_motor_sport_channel.png" group-title="България",Auto Motor Sport TV
 https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png" group-title="България",Automoto TV
@@ -459,7 +457,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://stream-6.mazana.tv/slagr.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.starnet.cz/tv/slagr2.png" group-title="Česká",Šlágr 2
 https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://slagrtv.cz/files/logo-slagr-footer.png" group-title="Česká",Šlágr 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://slagrtv.cz/files/logo-slagr-footer.png" group-title="Česká",Šlágr Premium
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="Česká",Východočeská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
@@ -1610,8 +1608,8 @@ http://213.151.233.20:8000/dna-5106-tv-pc/hls/4000v102.m3u8
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4002v102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/TA3.sk.png" group-title="Slovensko",TA3
 http://213.151.233.20:8000/dna-5108-tv-pc/hls/4000v102.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dusanhoo.webnode.sk/_files/200000514-b0e0eb1db2/LOGO%20CETV.jpg" group-title="Slovensko",CETV
-http://213.81.153.221:8080/cetv
+#EXTINF:-1 tvg-id="" tvg-logo="http://cetv.sk/wp-content/uploads/2019/10/TV-Central-logo-zellow-bolt.png" group-title="Česká",CETV
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvhronka.sk/engine/wp-content/themes/hronkatv/images/logo.png" group-title="Slovensko",Hronka
 http://213.81.153.221:8080/hronka
 #EXTINF:-1 tvg-id="" tvg-logo="http://icedreamkosice.com/wp-content/uploads/2016/04/kosice-dnes-logo.jpg" group-title="Slovensko",Košice:dnes
