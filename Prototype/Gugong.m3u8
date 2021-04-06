@@ -681,7 +681,7 @@ https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="Europe",BBC 1(UK)
-https://photocall.tv/k7Ej/ftv?ch=bbcone
+https://vs-dash-uk.live.cf.md.bbci.co.uk/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/pc_hd_abr_v2_dash.mpd|X-Forwarded-For=185.44.77.61
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="Europe",BBC 2(UK)
 https://photocall.tv/k7Ej/ftv?ch=bbctwo
 #EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="Europe",BBC 4(UK)
