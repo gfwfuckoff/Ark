@@ -389,25 +389,29 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Hrvatska",HRT 1 
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ottresource.aviion.tv/61e8d2843cc7412db3a5482855a069ce.png" group-title="Hrvatska",HRT 2 
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ottresource.aviion.tv/53ca566392544337862d5bce54444097.png" group-title="Hrvatska",HRT 3 
+http://195.29.70.67/PLTV/88888888/224/3221226139/04.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/Htv2.hr.png" group-title="Hrvatska",HRT 2 
+http://195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/Htv3.hr.png" group-title="Hrvatska",HRT 3 
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" group-title="Hrvatska",HRT 4 
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hr/DomaTv.hr.png" group-title="Hrvatska",Doma
-http://62.210.205.41:8080/DOMATV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hr/NovaTv.hr.png" group-title="Hrvatska",Nova
-http://62.210.205.41:8080/NOVATV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/Htv4.hr.png" group-title="Hrvatska",HRT 4 
+http://195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hr/Rtl.hr.png" group-title="Hrvatska",RTL
-http://62.210.205.41:8080/RTL/index.m3u8
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvaurora.tv/wp-content/themes/sw/img/logo.png" group-title="Hrvatska",Aurora TV
 http://85.94.81.190:8844/sdi/aurora.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://sptv.hr/app/images/logo_white.png" group-title="Hrvatska",Sportska TV
-http://185.180.12.34:8080/SPORTSKATV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.stv.hr/images/stories/stv-logo.png" group-title="Hrvatska",Televizija Slavonije
 http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newsbar.hr/wp-content/uploads/2020/01/nb_logo.png" group-title="Hrvatska",MAXtv Promo Kanal
+http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newsbar.hr/wp-content/uploads/2020/01/nb_logo.png" group-title="Hrvatska",NewsBar
+http://195.29.70.67/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-27290-_00000.png" group-title="Hrvatska",Radio Televizija Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-27290-_00000.png" group-title="Hrvatska",Radio Televizija Banovina
+https://5b57bb229a2e6.streamlock.net/live/smil:banovina.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/z1-tv-sljeme.png" group-title="Hrvatska",Z1
+https://dcunilive139-lh.akamaihd.net/i/dclive_1@73131/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/CT1.cz.png" group-title="Česká",CT1
 http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
