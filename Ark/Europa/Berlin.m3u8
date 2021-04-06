@@ -1585,13 +1585,13 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV1.sk.png" group-title="Slovensko",Jednotka
-https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hq.m3u8
+https://n5.stv.livebox.sk/stv-tv/541bb0cf09dfd913ab850ecd676c7e94/SK-stv1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV2.sk.png" group-title="Slovensko",Dvojka
-https://n14.stv.livebox.sk/stv-tv/cdb8d2c5e458f65b032821bd2eac3663/stv2.smil/chunklist_b2691072.m3u8
+https://n14.stv.livebox.sk/stv-tv/cdb8d2c5e458f65b032821bd2eac3663/stv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV3.sk.png" group-title="Slovensko",Trojka
-https://n14.stv.livebox.sk/stv-tv/cdb8d2c5e458f65b032821bd2eac3663/stv2.smil/chunklist_b2691072.m3u8
+https://n11.stv.livebox.sk/stv-tv/62ac4a4ca36f0f22200e11ca01f41a92/SK-stv3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/STV3.sk.png" group-title="Slovensko",Šport
-https://n3.stv.livebox.sk/stv-tv/3b55cf6b9f2666f9be62f746654b9410/stv6.smil/chunklist_b5251072.m3u8
+https://n11.stv.livebox.sk/stv-tv/145a312347ce14dc5bd833d50f2e47fb/SK-stv6.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovensko",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/JOJPlus.sk.png" group-title="Slovensko",Joj Plus
