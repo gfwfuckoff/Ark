@@ -1567,14 +1567,14 @@ https://stream.veseljak.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="Norge",NRK 1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="Norge",NRK 1
+http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
 #EXTINF:-1 tvg-id="NR2.NO" tvg-logo="https://static.epg.best/no/NRK2.no.png" group-title="Norge",NRK 2
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-id="NR3.NO" tvg-logo="https://static.epg.best/no/NRK3.no.png" group-title="Norge",NRK 3
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-id="" tvg-logo="http://chanlogos.xmltv.se/fatstone.tv.png" group-title="Norge",Fatstone TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norge",Nrk 1
-http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kanal10.se/Images/Logga/kanal10.png" group-title="Norge",Kanal 10 Norge
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://einnsyn.stortinget.no/einnsyn/Content/Custom/style/logo/Stortinget-logo-hvit-tekst-svart.png" group-title="Norge",Stortinget
@@ -1657,6 +1657,11 @@ http://213.81.153.221:8080/trnava
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.vegatv.sk/images/logo.png" group-title="Slovensko",Vega TV
 http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="Sverige",SVT 1
+http://83.56.24.104:9981/stream/channelid/1275802491?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Sverige",TV4
+http://83.56.24.104:9981/stream/channelid/1329177212?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Sverige",TV4
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Sverige",TV 4 Nyheterna
