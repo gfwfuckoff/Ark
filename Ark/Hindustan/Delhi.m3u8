@@ -221,7 +221,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539832370_f3de7c09000880c4b818d0284612101b_v.png" group-title="मनोरंजन",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 tvg-logo="http://www.hulchulradio.com/frontend/images/hulchal-radio-logo.png" group-title="मनोरंजन",Hulchul TV
+#EXTINF:-1 tvg-logo="http://www.hulchulradio.com/frontend/images/hulchallogo.png" group-title="मनोरंजन",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nagaratv.com/wp-content/uploads/elementor/thumbs/LOGO-copy-oadotfwmb2lzz0wrzvsh4r232odpmw5c4lgcva0qem.png" group-title="मनोरंजन",Nagara TV
 https://cdn.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
