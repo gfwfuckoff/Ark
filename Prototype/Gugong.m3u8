@@ -379,7 +379,7 @@ https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
 https://pcccw.github.io/pcccw.github.io/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="Southeast Asia",ONE 31(Thailand)
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://one31.net/_nuxt/img/Watermark-ONE.c307b49.png" group-title="Southeast Asia",ONE 31(Thailand)
 https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
 #EXTINF:-1 tvg-id="GML.PH" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="Southeast Asia",GMA Life(Phillppines)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
