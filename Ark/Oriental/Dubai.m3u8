@@ -174,7 +174,7 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="لبنان",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
-https://hiplayer.hibridcdn.net/p/rotana-lbc/playlist.m3u8
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" group-title="لبنان",New Vision TV
 https://master.starmena-cloud.com/hls/newv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="لبنان",Nabaa TV
@@ -363,27 +363,23 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="ماراتيين",Abu Dhabi Al Oula
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="ماراتيين",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png" group-title="ماراتيين",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/2020223115944993BD.png" group-title="ماراتيين",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/20202231159595728K.png" group-title="ماراتيين",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/20202231201493129.png" group-title="ماراتيين",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="ماراتيين",Alaan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.admedia.ae/images/Brands/2020223115838103WJ.png" group-title="ماراتيين",Al Emarat
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-id="" tvg-logo="http://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="ماراتيين",Al Dafrah
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="ماراتيين",Al Dafrah
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="ماراتيين",Al Dafrah
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/0f905c68c3eb7a06454f4953614c32684970496a4c70616a537336554e54.png" group-title="ماراتيين",Al Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
