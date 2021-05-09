@@ -674,8 +674,6 @@ http://51.52.156.22:8888/http/007
 
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1(France)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2(France)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 #EXTINF:-1 tvg-id="M6I.FR" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Europe",M6 International
@@ -701,8 +699,6 @@ http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 http://ott-cdn.ucom.am/s4/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 #EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="Europe",één(Belgium)
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
-#EXTINF:-1 tvg-id="BN1.BG" tvg-logo="https://static.epg.best/bg/BNT1.bg.png" group-title="Europe",BNT 1(Bulgaria)
-http://136.243.177.164/BNT1/playlist.m3u8
 #EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Europe",HRT 1(Croatia)
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Europe",DR 1(Denmark)
@@ -723,8 +719,6 @@ http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Europe",Joj(Slovakia)
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Europe",Slovenija 1(Slovenia)
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Europe",UA:Перший(Ukraine)
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 
@@ -819,7 +813,7 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 https://hiplayer.hibridcdn.net/p/rotana-drama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="Middle East",Abu Dhabi Al Oula(UAE)
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DUB.AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="Middle East",Dubai TV(UAE)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 
@@ -850,6 +844,6 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3
 http://iptv.repl.co/Arabic/Al_summaria
 
 #EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="Middle East",LBC Int(Lebanon)
-https://hiplayer.hibridcdn.net/p/rotana-lbc/playlist.m3u8
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="NES.TN" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title=""Middle East",Nessma TV(Tunisia)
 https://pcccw.github.io/pcccw.github.io/M3U8/Token/TN/NES.m3u8
