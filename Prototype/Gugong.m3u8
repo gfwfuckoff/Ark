@@ -34,17 +34,9 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" group-title="香港",ViuTVsix
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
-http://61.238.6.49:8000/bysid/99
+http://teslagram.com/live/channel_99.m3u8
 #EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="香港",Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8
-#EXTINF:-1 tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="香港",澳亞衛視
-http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
-#EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
-http://106.53.212.251/daili/gztv.php?id=tvs2
-#EXTINF:-1 tvg-id="ZJP.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",珠江頻道
-http://106.53.212.251/daili/gztv.php?id=zjpd
-#EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",NOW 新聞台
-https://flv3948069e.live.126.net/live/2903c67e10f54f6a2d5c3e0eb0f5afba.flv
 
 #EXTINF:-1 tvg-id="ZST.TW" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="台湾",中視
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
