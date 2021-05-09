@@ -116,7 +116,7 @@ http://82.212.74.100:8000/live/hls/8131.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kaifatv.com/images/logo1.jpg" group-title="الْأُرْدُنّ",Kaifa TV
 http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/AlRoyaTV.jo.png" group-title="الْأُرْدُنّ",Ro'ya TV
-https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="الكويت",Kuwait 1
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
@@ -390,7 +390,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeo-abudhabi-hd.png" group-title="ماراتيين",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="ماراتيين",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="ماراتيين",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" group-title="ماراتيين",Dubai Zaman
@@ -1446,6 +1446,9 @@ http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 #EXTINF:-1 tvg-id="NTI.NG" tvg-logo="https://api.visionip.tv/portals/VisionTVUK/entertainment/thumbs/visiontvuk-entertainment-ntai-hsslive-25f-4x3-thumb-large.jpg.png" group-title="Naija",NTAi(Nigeria)
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hsslive-25f-4x3-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ortn.ne/wp-content/uploads/2019/12/LOGO-site-TS.png" group-title="Niger",Télé Sahel
+https://iptv--iptv.repl.co/French/tele_sahel/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
