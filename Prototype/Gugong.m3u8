@@ -847,7 +847,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-id="SYR.SY" tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="Middle East",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DRA.SY" tvg-logo="https://media.elcinema.com/tvguide/1300_1.png" group-title="Middle East",Syria Drama(Syria)
-http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="Middle East",2M Monde(Morocco)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
