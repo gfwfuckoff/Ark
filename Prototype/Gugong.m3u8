@@ -656,39 +656,21 @@ https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="Europe",BBC 1(UK)
-https://vs-dash-uk.live.cf.md.bbci.co.uk/pool_902/live/uk/bbc_one_hd/bbc_one_hd.isml/pc_hd_abr_v2_dash.mpd|X-Forwarded-For=185.44.77.61
+http://51.52.156.23:8888/http/011
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="Europe",BBC 2(UK)
-https://photocall.tv/k7Ej/ftv?ch=bbctwo
-#EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="Europe",BBC 4(UK)
-https://photocall.tv/k7Ej/ftv?ch=bbcfour
-#EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="Europe",CBBC(UK)
-https://photocall.tv/k7Ej/ftv?ch=cbbc
-#EXTINF:-1 tvg-id="C.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="Europe",Cbeebies(UK)
-https://photocall.tv/k7Ej/ftv?ch=cbeebies
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Europe",ITV(UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="Europe",ITV 2(UK)
-https://photocall.tv/k7Ej/ftv?ch=itv2
+http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="Europe",Channel 4(UK)
-http://photocall.tv/kR8g/ftv.m3u8?ch=channel4
-#EXTINF:-1 tvg-id="MO4.UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="Europe",More4(UK)
-http://photocall.tv/kR8g/ftv.m3u8?ch=more4
-#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="Europe",Channel 5(UK)
-http://photocall.tv/kR8g/ftv.m3u8?ch=channel5
-#EXTINF:-1 tvg-id="EE4.UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="Europe",E4(UK)
-http://photocall.tv/kR8g/ftv.m3u8?ch=e4
-
+http://51.52.156.21:8888/http/003
 #EXTINF:-1 tvg-id="BBL.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="Europe",BBC Lifestyle(UK)
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="Europe",ITV 3(UK)
-https://photocall.tv/k7Ej/ftv?ch=itv3
+http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="Europe",ITV 4(UK)
-https://photocall.tv/k7Ej/ftv?ch=itv4
-#EXTINF:-1 tvg-id="ITB.UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" group-title="Europe",ITV BE(UK)
-https://photocall.tv/k7Ej/ftv?ch=itvbe
-
-#EXTINF:-1 tvg-id="ITB.UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" group-title="Europe",America
-https://photocall.tv/k7Ej/yt?ch=america
+http://51.52.156.22:8888/http/007
 
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1(France)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
@@ -697,10 +679,6 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 
-#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Europe",Canale 5(Italy)
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8|X-Forwarded-For=37.120.201.68
-#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Europe",Italia 1(Italy)
-https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8|X-Forwarded-For=37.120.201.68
 #EXTINF:-1 tvg-ID="RA1.IT" tvg-logo="https://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png" group-title="Europe",Rai 1(Italy)
 http://92.43.140.249/s29/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 
@@ -712,8 +690,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
-http://51.52.156.23:8888/http/009
-#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One(Germany)
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 
 #EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1(Albania)
