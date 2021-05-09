@@ -1197,9 +1197,7 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 http://58.26.3.54/PLTV/88888888/224/3221226265/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/TVM.mt.png" group-title="Malta",TVM
-https://live.23video.com/live/amlst:lpfmlf2dts1n00vb0kpqt9vpm1:16966825-2ca040dbfeea9e5cb868.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/TVM2.mt.png" group-title="Malta",TVM 2
-https://live.23video.com/live/amlst:d7k20htaq6gshnvfstela6jdk5:16973314-1185a91eaad15f019b1b.mp4/chunklist.m3u8
+https://iptv--iptv.repl.co/Maltese/TVM/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mk/MRT2.mk.png" group-title="Македонија",MRT 2
 https://t2.tvmak.com/tv/MRT2.m3u8
