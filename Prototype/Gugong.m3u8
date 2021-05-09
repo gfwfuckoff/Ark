@@ -350,7 +350,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV1.ID" tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/TvOne.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/TvOne.m3u8
 
 #EXTINF:-1 tvg-id="CIT.ID" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png" group-title="Indonesia",Citra Entertainment
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
@@ -362,7 +362,7 @@ https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
 #EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Southeast Asia",Mono 29(Thailand)
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/WPTV.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://one31.net/_nuxt/img/Watermark-ONE.c307b49.png" group-title="Southeast Asia",ONE 31(Thailand)
 https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
 #EXTINF:-1 tvg-id="GML.PH" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="Southeast Asia",GMA Life(Phillppines)
@@ -374,7 +374,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Southeast Asia",5 Network(Phillppines)
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Southeast Asia",PTV(Phillppines)
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/PH/PTVPH.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/mrtv.png" group-title="Southeast Asia",MRTV(Myanmar)
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="Southeast Asia",MNTV(Myanmar)
@@ -414,7 +414,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-ID="Ari.KR" logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="News",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="News",Africa News
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/Int/AfricaNews.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/Int/AfricaNews.m3u8
 #EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="News",Bloomberg
@@ -792,4 +792,4 @@ http://iptv.repl.co/Arabic/Al_summaria
 #EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="Middle East",LBC Int(Lebanon)
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="NES.TN" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title=""Middle East",Nessma TV(Tunisia)
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/TN/NES.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/TN/NES.m3u8
