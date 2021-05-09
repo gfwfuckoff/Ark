@@ -401,14 +401,12 @@ http://203.81.84.130/hls/mwd/index.m3u8
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Southeast Asia",Mahar TV(Myanmar)
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Southeast Asia",VTV 6(Vietnam)
+#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="Southeast Asia",VTV 6(Vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="VT7.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Southeast Asia",VTV 7(Vietnam)
+#EXTINF:-1 tvg-id="VT7.VN" tvg-logo="https://mytv.com.vn/upload/channel/php3w6cE3_5d75c22f80382.png" group-title="Southeast Asia",VTV 7(Vietnam)
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="VT9.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv9-hd-1.png" group-title="Southeast Asia",VTV 9(Vietnam)
+#EXTINF:-1 tvg-id="VT9.VN" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="Southeast Asia",VTV 9(Vietnam)
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
-#EXTINF-1 tvg-id="VC3.VN" tvg-logo="https://mytv.com.vn/upload/channel/83.png" group-title="Southeast Asia",VTC 3(Vietnam)
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
