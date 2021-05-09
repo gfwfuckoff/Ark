@@ -403,7 +403,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="عربى",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="DRA.SY" tvg-logo="http://www.ortas.online/DramaTV/images/logo_header.png" group-title="عربى",Syria Drama
-http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.IQ" tvg-logo="https://static.epg.best/iq/MBCIraq.iq.png" group-title="عربى",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
