@@ -11,17 +11,17 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Boing.it.png" group-title="Italia",Boing
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Cartoonito.it.png" group-title="Italia",Cartoonito
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LA)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LA)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Italia",Canale 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/cine34.jpg" group-title="Italia",Cine 34
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(B6)/index.m3u8
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(B6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryDMAX.uk.png" group-title="Italia",Dmax
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/FocusTv.it.png" group-title="Italia",Focus
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Frisbee.it.png" group-title="Italia",Frisbee
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Giallo.it.png" group-title="Italia",Giallo
@@ -29,33 +29,33 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="Italia",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La5.it.png" group-title="Italia",La 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Iris.it.png" group-title="Italia",Iris
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Italia",Italia 1
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia2.it.png" group-title="Italia",Italia 2
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/20Mediaset.it.png" group-title="Italia",20 Mediaset
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/MediasetExtra.it.png" group-title="Italia",Mediaset Extra
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KQ)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/MotorTrend.it.png" group-title="Italia",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/NOVE.it.png" group-title="Italia",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.105.net/images/logos/3/logo_colored.jpg" group-title="Italia",Radio 101
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.105.net/images/logos/3/logo_colored.jpg" group-title="Italia",Radio 105
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(EC)/index.m3u8
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(EC)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital.png" group-title="Italia",Radio Capital
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="https://static-radioitalia.akamaized.net/img/2020/web/logo_radioitalia_forma_new2.png" group-title="Italia",Radio Italia
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg" group-title="Italia",Radio Montecarlo
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/ReteQuattro.it.png" group-title="Italia",Rete 4
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(R4)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(R4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Spike.uk.png" group-title="Italia",Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/2rfpp2o.png" group-title="Italia",Sky TG 24
@@ -63,9 +63,9 @@ http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="T2K.IT" tvg-logo="https://i.imgur.com/wbxjxXr.jpg"group-title="Italia",TV2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Tgcom24.it.png" group-title="Italia",TGCom 24
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/TopCrime.it.png" group-title="Italia",Top Crime
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italia",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
@@ -928,7 +928,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jio-tv.com/uploads/tv_image/antofagasta-tv.jpg" group-title="Chile",Antofagasta TV
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/08/adn-radio-chile-en-vivo.png" group-title="Chile",ADN Radio TV
+#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/08/adnchile-en-vivo.png" group-title="Chile",ADN Radio TV
 http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="Chile",Canal 21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
