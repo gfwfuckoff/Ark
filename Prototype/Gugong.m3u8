@@ -678,19 +678,22 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+#EXTINF:-1 tvg-id="M6I.FR" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Europe",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 
-#EXTINF:-1 tvg-ID="RA1.IT" tvg-logo="https://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png" group-title="Europe",Rai 1(Italy)
-http://92.43.140.249/s29/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One(Germany)
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Europe",Russia 1(Russia)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Europe",Russia 24(Russia)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 
-#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One(Germany)
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-ID="RA1.IT" tvg-logo="https://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png" group-title="Europe",Rai 1(Italy)
+http://92.43.140.249/s29/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+
 
 #EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1(Albania)
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
