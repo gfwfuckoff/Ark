@@ -682,8 +682,6 @@ https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 #EXTINF:-1 tvg-ID="RA1.IT" tvg-logo="https://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png" group-title="Europe",Rai 1(Italy)
 http://92.43.140.249/s29/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 
-#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Europe",Channel 1(Russia)
-http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Europe",Russia 1(Russia)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Europe",Russia 24(Russia)
