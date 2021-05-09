@@ -183,7 +183,7 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/db/5c/8a/db5c8ace-ebb6-9ad9-2e5d-58be1716a725/source/512x512bb.jpg" group-title="تفریح",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.eawaz.com/wp-content/uploads/2020/05/EAWAZ-TV-radio-LOGO.png" group-title="تفریح",Eawaz TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.eawaz.com/wp-content/uploads/2020/05/EAWAZ-TVLOGO.png" group-title="تفریح",Eawaz TV
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="تفریح",Express Entertainment
 https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
