@@ -95,18 +95,12 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="YXW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾",臺新聞
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
-#EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="日韩",KBS 1
-http://95.217.44.77:80/kbs1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="日韩",KBS 2
-http://95.217.44.77:80/kbs2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="日韩",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="日韩",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 tvg-ID="JTB.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="日韩",JTBC
-http://95.217.44.77:80/jtbc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="日韩",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="EB1.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="日韩",EBS 1
@@ -118,7 +112,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="日韩",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="日韩",Chosun TV
-http://live.cdn.tvchosun.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+http://live.cdn.tvchosun.com/live/_definst_/tvchosun3.stream/chunklist_w1009305381.m3u8
 #EXTINF:-1 tvg-id="MBN.KR" tvg-logo="https://static.epg.best/kr/MBN.kr.png" group-title="日韩",MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 #EXTINF:-1 tvg-id="ONE.KR" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="日韩",One
