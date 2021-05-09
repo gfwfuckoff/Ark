@@ -374,7 +374,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Southeast Asia",ดูทีวีสีช่อง 3 (Thailand)
 https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Southeast Asia",ช่อง 7(Thailand)
-http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
 #EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Southeast Asia",Mono 29(Thailand)
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
