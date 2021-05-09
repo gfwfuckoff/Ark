@@ -18,13 +18,13 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
+https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/NTV7.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/NTV7.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/8TV.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV9.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/MY/TV9.m3u8
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
@@ -120,7 +120,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="Berita",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="Berita",Africa News
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/AfricaNews.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="Berita",BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Berita",Bloomberg
@@ -641,7 +641,7 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
 #EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="Asian TV",Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Asian TV",Workpoint
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/WPTV.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Asian TV",GMM 25
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="Asian TV",ช่อง 8
@@ -649,7 +649,7 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Asian TV",Mono 29
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
 #EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="Asian TV",MCOT
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/TH/MCOT.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/TH/MCOT.m3u8
 #EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="Asian TV",ONE 31
 http://203.154.243.31:23005
 #EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Asian TV",Thairath TV
