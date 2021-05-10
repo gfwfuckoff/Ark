@@ -499,7 +499,7 @@ http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="Hindustan(മലയാളം)",Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live4/chunks.m3u8
 #EXTINF:-1 tvg-id="ASP.IN" tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png" group-title="Hindustan(മലയാളം)",Asianet Plus
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="DDM.IN" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-malayalam.png" group-title="Hindustan(മലയാളം)",DD Malayalam
@@ -521,7 +521,7 @@ https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ARM.PK" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="Hindustan(اردو)",ARY Musik
 https://stream.arylive.com/MusikLive/index.m3u8
-#EXTINF:-1 tvg-id=ARZ.PK"" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Hindustan(اردو)",ARY Zindagi
+#EXTINF:-1 tvg-id="ARZ.PK" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Hindustan(اردو)",ARY Zindagi
 https://stream.arylive.com/ZindagiLive/index.m3u8
 #EXTINF:-1 tvg-id="KA2.PK" tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="Hindustan(اردو)",Kay2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
