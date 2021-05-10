@@ -8,12 +8,12 @@ All the M3U-playlist is very very experimental at the moment. The GoCast playlis
 
 At the moment I maintain 2 playlists at the GoCast2 section for an Malaysian/Singaporean audience:<br />
 
-- https://pcccw.github.io/pcccw.github.io/Prototype/Gugong.m3u8 (Orient focused playlist - Chinese,Korean,Japanese)<br />
-- https://pcccw.github.io/pcccw.github.io/Prototype/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia,Indonesia,Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
+- https://pcccw.github.io/Ark/Prototype/Gugong.m3u8 (Orient focused playlist - Chinese,Korean,Japanese)<br />
+- https://pcccw.github.io/Ark/Prototype/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia,Indonesia,Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
 
 And an very very very very very very experiemental EPG:<br />
-https://pcccw.github.io/pcccw.github.io/EPG/guide_71.xml<br />
-https://pcccw.github.io/pcccw.github.io/EPG/guide_71.zip (In zip format)<br />
+https://pcccw.github.io/Ark/EPG/guide_71.xml<br />
+https://pcccw.github.io/Ark/EPG/guide_71.zip (In zip format)<br />
 
 ## Complaints FAQ
 
@@ -106,8 +106,8 @@ Ans:<br /> Because no one published a tv guide for your channel on the internet.
 3. Why the tv guide for my channel does not appear,despite it being in the EPG?
 
 Ans:
-1) Please check that the address for EPG in your player is https://pcccw.github.io/pcccw.github.io/EPG/guide_71.xml <br />
-2) Please keep and don't alter the tvg-id="". It is there for a reason. Only alter the tvg-id="" if you are not using the EPG @ https://pcccw.github.io/pcccw.github.io/EPG/guide_71.xml or https://pcccw.github.io/pcccw.github.io/EPG/guide_71.zip <br />
+1) Please check that the address for EPG in your player is https://pcccw.github.io/Ark/EPG/guide_71.xml <br />
+2) Please keep and don't alter the tvg-id="". It is there for a reason. Only alter the tvg-id="" if you are not using the EPG @ https://pcccw.github.io/Ark/EPG/guide_71.xml or https://pcccw.github.io/Ark/EPG/guide_71.zip <br />
 
 
 5. Why do I have to follow the tvg-id="" value?
