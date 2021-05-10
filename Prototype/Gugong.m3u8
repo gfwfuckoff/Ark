@@ -390,8 +390,6 @@ https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
-#EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="India",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live4/chunks.m3u8
 #EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="India",Astro Vaanavil
@@ -488,6 +486,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="Asian Movies",シネフィルWOWOW
 http://203.162.235.41:16916
+#EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="Asian Movies",Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Asian Movies",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
@@ -501,7 +503,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="Kids",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-id="POM.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="Kids",POP Max
 http://51.52.156.25:8888/http/002
 
