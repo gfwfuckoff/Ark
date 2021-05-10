@@ -332,7 +332,7 @@ https://livestreaming-google-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 tvg-id="MYT.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="Indonesia",MyTV
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6711_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Indonesia",Net
+#EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png" group-title="Indonesia",Net
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="OCH.ID" tvg-logo="https://www.ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="Indonesia",O Channel
