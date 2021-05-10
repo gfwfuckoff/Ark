@@ -1294,7 +1294,7 @@ http://connectiktv.ddns.net:8080/vibe/index.m3u8
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="مَصر",Alhayat
-https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="مَصر",Alhorreya
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvtolive.com/wp-content/uploads/Al-Fath-TV.tvtolive.com_.jpg" group-title="مَصر",Al Fath
