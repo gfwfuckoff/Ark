@@ -1206,20 +1206,54 @@ http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/eb/9f/c4/eb9fc443126911cf0a1b5e71ce6996d0.jpg" group-title="Türkiye",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="الدزاير",Canal Algérie
-http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Algeria3.png" group-title="الدزاير",القناة الجزائرية الثالثة‎
-https://pcccw.github.io/IPTV/M3U8/Token/ThalithaA3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.algsat.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-EL-DJAZAIR-N1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-2020.jpg" group-title="الدزاير",El Djazair N1
-http://82.212.74.5:8000/live/hls/7728.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" group-title="الدزاير",ENTV
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="الدزاير",Canal Algérie 2
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png" group-title="الدزاير",Canal Algérie 3
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" group-title="الدزاير",Canal Algérie 4
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png" group-title="الدزاير",Canal Algérie 5
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" group-title="الدزاير",Canal Algérie 6
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" group-title="الدزاير",Canal Algérie 7
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" group-title="الدزاير",Canal Algérie 8
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alkompis.se/iptv/wp-content/uploads/2019/05/28ufcvwr9v3oukq.png" group-title="الدزاير",Ennahar TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png"" group-title="الدزاير",Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.echoroukonline.com/wp-content/themes/echorouk-channels/images/large-logo.png" group-title="الدزاير",Echorouk News
-http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.echoroukonline.com/wp-content/themes/echorouk-channels/images/large-logo.png" group-title="الدزاير",Echorouk TV
-http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/118_picture.png" group-title="الدزاير",Echorouk News
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" group-title="الدزاير",Echorouk TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" group-title="الدزاير",Bahia TV
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.pngg" group-title="الدزاير",Beur tv
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" group-title="الدزاير",El Bilad
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" group-title="الدزاير",El Hayat TV
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" group-title="الدزاير",El Heddaf
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" group-title="الدزاير",Alanis tv
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png" group-title="الدزاير",El Djazairia TV
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/htatv/EL_DJAZAIRIA_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" group-title="الدزاير",El Djazair N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" group-title="الدزاير",El Fadjr TV
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png" group-title="الدزاير",Lina
+https://cdn02.hta.dz/abr_htatv/Lina_TV/htatv/Lina_TV_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" group-title="الدزاير",Samira tv
+https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tcv.cv/images/LogoNatal2.png" group-title="Africa Islands",TCV(Cabo Verde)
 http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w1661838962_b2688000_sleng.m3u8
