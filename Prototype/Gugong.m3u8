@@ -376,20 +376,25 @@ https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
+https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live4/chunks.m3u8
 #EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="India",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1  tvg-id="DAN.IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="India",Dangal TV
+https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2020/09/new-3d-logo-2.jpg" group-title="India",Chardik Time
 https://rtmp.smartstream.video/cttvindia/cttvindia/chunklist.m3u8
-#EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="India",Pitaara
-https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",மக்கள் தொலைக்காட்சி
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="International (India)",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
@@ -462,8 +467,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="PAR.Asia" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SCM.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="Asian Movies",天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="SCL.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/d379ac903dbb14e08f450d5d234aecf17e4e47bb.png" group-title="Asian Movies",天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Asian Movies",Red by HBO
@@ -472,6 +475,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="Asian Movies",シネフィルWOWOW
 http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Asian Movies",Pitaara
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 #EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="Asian Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Asian Movies",Zee Bangla Cinema
@@ -622,6 +627,10 @@ http://ott-cdn.ucom.am/s4/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Europe",HRT 1(Croatia)
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 tvg-id="NOV.CZ" tvg-logo="https://static.epg.best/cz/NovaInternational.cz.png" group-title="Europe",Nova(Czech Republic)
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Europe",DR 1(Denmark)
+http://tv.dansk.live:8080/5ydbqxNuVN/2LnH3tvpaW/16
 #EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Europe",ETV(Estonia)
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Europe",ANT 1(Greece)
@@ -638,7 +647,7 @@ http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Europe",Joj(Slovakia)
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="TV4.SE" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Europe",TV4(Sweden)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/TV4.se.png" group-title="Europe",TV4(Sweden)
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Europe",UA:Перший(Ukraine)
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
