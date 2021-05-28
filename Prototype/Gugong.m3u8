@@ -376,26 +376,28 @@ https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
-https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
-#EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live4/chunks.m3u8
 #EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="India",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:-1 tvg-id="BIG.IN" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bgmagic.png" group-title="India",Big Magic
+#EXTINF:-1 tvg-id="BIG.IN" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="India",Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2020/09/new-3d-logo-2.jpg" group-title="India",Chardik Time
+#EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/05/logo-272x90-1.png" group-title="India",Chardik Time
 https://rtmp.smartstream.video/cttvindia/cttvindia/chunklist.m3u8
 #EXTINF:-1 tvg-id="DAN.IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="India",Dangal TV
 https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
+#EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
+https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
+#EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",மக்கள் தொலைக்காட்சி
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
@@ -504,9 +506,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Asian Movies",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/04/rishtey-cineplex.jpg" group-title="Asian Movies",Rishtey Cineplex
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Asian Movies",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.zee.com/wp-content/uploads/2020/04/Zee-Anmol-Cinema.jpg" group-title="Asian Movies",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Asian Movies",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="Asian Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
