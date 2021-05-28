@@ -160,11 +160,17 @@ https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="తెలుగు",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv9telugu.com/wp-content/themes/tv9telugu/images/Tv9_Logo_57%20x%2057.png" group-title="తెలుగు",TV9 Telugu News
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="తెలుగు",TV9 Telugu News
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
+http://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
+http://dr1zhpsuem5f4.cloudfront.net/master_300.m3u8
+#EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
+http://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title="മലയാളം",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="മലയാളം",Asianet News
