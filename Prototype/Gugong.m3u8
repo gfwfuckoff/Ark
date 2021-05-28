@@ -625,6 +625,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Europe",ITV(UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="Europe",BBC News
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-id="BBL.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="Europe",BBC Lifestyle(UK)
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
