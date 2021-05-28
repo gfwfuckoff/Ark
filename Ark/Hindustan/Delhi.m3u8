@@ -67,9 +67,9 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="न्यूज़",आज तक
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak_6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/tezlogo.png" group-title="न्यूज़",तेज
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/TEZ.in.png" group-title="न्यूज़",तेज
 https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="न्यूज़",दिल्ली न्यूज़
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="न्यूज़",दिल्ली न्यूज़
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://spiderimg.amarujala.com/assets/images/2020/05/24/amarujala_1590344677.png" group-title="न्यूज़",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
