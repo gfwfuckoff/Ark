@@ -396,6 +396,8 @@ https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="TEZ.IN" tvg-logo="https://static.epg.best/in/TEZ.in.png" group-title="India",तेज
+https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan
@@ -408,9 +410,8 @@ https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/tezlogo.png" group-title="India",तेज
-https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="India",दिल्ली न्यूज़
+
+#EXTINF:-1 tvg-id="ABP.IN" tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="India",दिल्ली न्यूज़
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
@@ -507,9 +508,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Asian Movies",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Asian Movies",Rishtey Cineplex
+#EXTINF:-1 tvg-id="RIC.IN" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Asian Movies",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Asian Movies",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="ZAC.IN" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Asian Movies",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="Asian Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
