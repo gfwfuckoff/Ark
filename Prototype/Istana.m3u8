@@ -414,7 +414,7 @@ https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="عربى",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindustan(हिन्दी)",Aaj Tak
+#EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="Hindustan(हिन्दी)",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AND.IN" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Hindustan(हिन्दी)",And TV
