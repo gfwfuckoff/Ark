@@ -37,7 +37,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.independent24.com/assets/img/independent_tv.png" group-title="খবর",News 24
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/NewsTimeBangla.in.png" group-title="খবর",News Time Bangla
-https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8
+https://itvoign.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.independent24.com/assets/img/independent_tv.png" group-title="খবর",Independent
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.somoynews.tv/img/logo.png" group-title="খবর",Somoy TV
@@ -46,7 +46,7 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="সিনেমা",Enter 10 Bangla
-https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+https://itvoign.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="সিনেম",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
@@ -72,7 +72,7 @@ https://rhridoy136.shortcm.li/boishakhitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/www.bangladeshcircle.com/wp-content/uploads/2014/07/Bangla-TV-logo.jpg" group-title="বাংলা",Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/296.jpg" group-title="বাংলা",Bangla Time
-https://itvorigin.multitvsolution.com/idvo/banglatimetv.m3u8
+https://itvoign.multitvsolution.com/idvo/banglatimetv.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="http://bijoy.tv/wp-content/uploads/2020/11/logo-120-1.gif" group-title="বাংলা",Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="বাংলা",Channel I
@@ -102,13 +102,13 @@ https://rhridoy136.shortcm.li/gazitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="বাংলা",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/khushboo-bangla-tv-channel-logo-150x150.jpg" group-title="বাংলা",Khusboo Bangla
-https://itvorigin.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+https://itvoign.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jadurbakso.com/wp-content/uploads/2019/03/ktv-croped.pngg" group-title="বাংলা",KTV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://madanichannel.tv/img/logo.png" group-title="বাংলা",Madani TV Bengali
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-vod.wixmp.com/ceb800c0-c2cc-4726-8014-162eec7e4e04/images/e22df72ff92643f6890df7a483359eac~mv2/v1/fill/w_330,h_330/file.png" group-title="বাংলা",Orange TV
-https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8
+https://itvoign.multitvsolution.com/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mohona.tv/wp-content/uploads/2016/10/logo.png" group-title="বাংলা",Mohona TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://maasranga.tv/wp-content/uploads/2020/03/M-TV-Logo100-PX.gif" group-title="বাংলা",Maasranga TV
@@ -120,7 +120,7 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6634/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rtvonline.com/templates/rtv-v1/images/logo.png" group-title="বাংলা",RTV
 https://rhridoy136.shortcm.li/rtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg/revision/latest/scale-to-width-down/250?cb=20191230183047" group-title="বাংলা",R Plus Gold
-https://itvorigin.multitvsolution.com/idvo/rplusgold.m3u8
+https://itvoign.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="বাংলা",SATV
 https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://uttarbangla.com/Images/CompanyLogo.jpg" group-title="বাংলা",Uttar Bangla
@@ -146,7 +146,7 @@ https://vidcdn.vidgyor.com/tv9gujarati-origin/live/tv9gujarati-origin/live4/chun
 https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/DD_Odia.png" group-title="ଓଡ଼ିଆ",DD Odia
-https://itvorigin.multitvsolution.com/idvo/ddodia.m3u8
+https://itvoign.multitvsolution.com/idvo/ddodia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.odishatv.in/wp-content/uploads/2018/05/logo-new-black.png" group-title="ଓଡ଼ିଆ",Odisha TV
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kanaknews.com/wp-content/uploads/2015/11/kanak_logo11.png" group-title="ଓଡ଼ିଆ",Kanak News
