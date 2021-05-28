@@ -944,6 +944,9 @@ https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8|X-Forwarded-For=53.35.148.45
+
 #EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://static.epg.best/de/ARDalpha.de.png" group-title="Deutschland",ADR Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="ART.DE" tvg-logo="https://i.imgur.com/xXRYZd6.png"  group-title="Deutschland",Arte Deutsch
