@@ -378,6 +378,10 @@ https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="ABP.IN" tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="India",दिल्ली न्यूज़
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="AMR.IN" tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="India",Amrita
+http://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 #EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="India",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
@@ -394,35 +398,31 @@ https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
 #EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="TEZ.IN" tvg-logo="https://static.epg.best/in/TEZ.in.png" group-title="India",तेज
-https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan
 https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+#EXTINF:-1 tvg-id="N24.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="REP.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="SAD.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
+#EXTINF:-1 tvg-id="TEZ.IN" tvg-logo="https://static.epg.best/in/TEZ.in.png" group-title="India",Tez
+https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="తెలుగు",TV9 Telugu News
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ABP.IN" tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="India",दिल्ली न्यूज़
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2k7qun4ucuqn1.cloudfront.net/wp-content/themes/tv9bharavarsh/images/logo.png" group-title="India",TV9 Bharatvarsh
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
