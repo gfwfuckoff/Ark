@@ -940,14 +940,9 @@ https://vermmd.mmdlive.lldns.net/vermmd/eaf457c2f751497ea510298cb1685b8f/manifes
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
-http://51.52.156.23:8888/http/009
 
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",ZDF Info
-http://51.52.156.23:8888/http/010
 
 #EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://static.epg.best/de/ARDalpha.de.png" group-title="Deutschland",ADR Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
