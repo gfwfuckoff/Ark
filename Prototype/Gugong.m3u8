@@ -632,7 +632,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
-#EXTINF:-1 tvg-id="M6I.FR" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Europe",M6 International
+#EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Europe",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
