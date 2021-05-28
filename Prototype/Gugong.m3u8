@@ -416,7 +416,7 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
 #EXTINF:-1 tvg-id="TEZ.IN" tvg-logo="https://static.epg.best/in/TEZ.in.png" group-title="India",Tez
 https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="తెలుగు",TV9 Telugu News
+#EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="India",TV9 Telugu News
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
