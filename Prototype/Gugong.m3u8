@@ -376,8 +376,10 @@ https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
+#EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="India",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live4/chunks.m3u8
 #EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="India",Astro Vaanavil
@@ -394,19 +396,18 @@ https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",மக்கள் தொலைக்காட்சி
+#EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan
+https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+#EXTINF:-1 tvg-id="SAD.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan Tv
-https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="India",Aaj Tak
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/tezlogo.png" group-title="India",तेज
 https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="India",दिल्ली न्यूज़
@@ -500,9 +501,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="Asian Movies",シネフィルWOWOW
 http://203.162.235.41:16916
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="Asian Movies",Maha Movie
+#EXTINF:-1 tvg-id="MAH.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="Asian Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="Asian Movies",Manoranjan Movies
+#EXTINF:-1 tvg-id="MAM.IN" tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="Asian Movies",Manoranjan Movies
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Asian Movies",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
