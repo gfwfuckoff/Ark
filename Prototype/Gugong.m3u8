@@ -344,9 +344,9 @@ https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Southeast Asia",ดูทีวีสีช่อง 3 (Thailand)
 https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Southeast Asia",ช่อง 7(Thailand)
-https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Southeast Asia",Mono 29(Thailand)
-https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
 https://pcccw.github.io/Ark/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://one31.net/_nuxt/img/e9c7a7b.png" group-title="Southeast Asia",ONE 31(Thailand)
