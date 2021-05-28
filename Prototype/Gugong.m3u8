@@ -622,8 +622,6 @@ http://ott-cdn.ucom.am/s4/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Europe",HRT 1(Croatia)
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Europe",DR 1(Denmark)
-https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Europe",ETV(Estonia)
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Europe",ANT 1(Greece)
