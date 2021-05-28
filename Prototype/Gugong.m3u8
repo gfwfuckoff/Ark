@@ -349,7 +349,7 @@ https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
 https://pcccw.github.io/Ark/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://one31.net/_nuxt/img/Watermark-ONE.c307b49.png" group-title="Southeast Asia",ONE 31(Thailand)
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://one31.net/_nuxt/img/e9c7a7b.png" group-title="Southeast Asia",ONE 31(Thailand)
 https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
 #EXTINF:-1 tvg-id="GML.PH" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="Southeast Asia",GMA Life(Phillppines)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
@@ -357,8 +357,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://static.epg.best/sa/GMANewsTVEn.sa.png" group-title="Southeast Asia",GMA News(Phillppines)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
-#EXTINF:-1 tvg-id="GMN.PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Southeast Asia",5 Network(Phillppines)
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Southeast Asia",PTV(Phillppines)
 https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/mrtv.png" group-title="Southeast Asia",MRTV(Myanmar)
