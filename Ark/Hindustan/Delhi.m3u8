@@ -12,10 +12,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="मनोरंजन",Dangal TV
-https://itvorigin.multitvsolution.com/idvo/dangal_540p/index.m3u8
+https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="मनोरंजन",Manoranjan Tv
-https://itvorigin.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title=""Hindustan(বাংলা)",Enter 10 আনন্দ
+https://itvoign.multitvsolution.com/idvo/enter10_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV ME
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8
@@ -42,7 +45,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-id="" tvg-logo="http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="International (India)",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="International (India)",News X
-https://itvorigin.multitvsolution.com/hls/newsx_720p/index.m3u8
+https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="International (India)",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="International (India)",NDTV 24X7
@@ -55,6 +58,8 @@ https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeworld.tv/images/logo/newwebtrans.png" group-title="International (India)",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="International (India)",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="न्यूज़",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
