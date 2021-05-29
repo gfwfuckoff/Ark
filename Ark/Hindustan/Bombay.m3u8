@@ -44,6 +44,8 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://rplus.rahul.ac.in/images/logo.png" group-title="খবর",R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://rplus.rahul.ac.in/images/logo.png" group-title="খবর",R Plus News)
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="সিনেমা",Enter 10 Bangla
 https://itvoign.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
@@ -151,10 +153,14 @@ https://itvoign.multitvsolution.com/idvo/ddodia.m3u8
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kanaknews.com/wp-content/uploads/2015/11/kanak_logo11.png" group-title="ଓଡ଼ିଆ",Kanak News
 https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2018/08/Kalinga-TV-Logo-for-website.png" group-title="ଓଡ଼ିଆ",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.naxatranews.com/images/logos/logo.png" group-title="ଓଡ଼ିଆ",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="ଓଡ଼ିଆ",Prameya News 7
-http://news7.mycast.in/encode/news7/playlist.m3u8
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.odia.news18.com/odia/uploads/2020/03/odia.png" group-title="ଓଡ଼ିଆ",News 18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ptv.com.pk/user/assets/images/ptvhomelogo.png" group-title="تفریح",PTV Home
 http://ccdn2.jazztv.pk:8085/appchannel/174M/playlist.m3u8
