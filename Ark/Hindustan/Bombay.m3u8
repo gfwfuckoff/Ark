@@ -22,8 +22,11 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" group-title="ेपाली",Kantipur TV
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="খবর",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.com/frontend/images/nw-bengali.png" group-title="খবর",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.com/frontend/images/nw-bengali.png" group-title="খবর",ABP Ananda
+https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="খবর",ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="খবর",Calcutta News
@@ -129,11 +132,11 @@ https://rhridoy136.shortcm.li/satv.m3u8
 http://209.58.164.245/uttarbanglahls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="भोजपुरी",Anjan
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22677/matv-live/logo_20191213_010243.png" group-title="ગુજરાતી",MATV
 https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.com/wp-content/themes/abp-gujrati/images/logo/asmita_logo.png" group-title="ગુજરાતી",ABP Asmita
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.com/frontend/images/nw-gujarati.png" group-title="ગુજરાતી",ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gstv.in/wp-content/uploads/2019/03/cropped-cropped-logo-1.png" group-title="ગુજરાતી",GS TV
 https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="ગુજરાતી",CNBC Bajar 
@@ -157,6 +160,8 @@ https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.naxatranews.com/images/logos/logo.png" group-title="ଓଡ଼ିଆ",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_400/https://nandighoshatv.com/wp-content/uploads/2020/07/Nandighosa-logo-2.png" group-title="ଓଡ଼ିଆ",Nandighosha
+https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="ଓଡ଼ିଆ",Prameya News 7
 https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.odia.news18.com/odia/uploads/2020/03/odia.png" group-title="ଓଡ଼ିଆ",News 18 Odia
