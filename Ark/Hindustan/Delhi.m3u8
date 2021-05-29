@@ -327,20 +327,14 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 
 #EXTINF:-1 tvg-id="ANEWSJATTTVBhangraFlava.in" tvg-name="A NEWSJATT TV- Bhangra Flava" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="Music",A NEWSJATT TV- Bhangra Flava (720p)
 http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="AshrafiChannel.in" tvg-name="Ashrafi Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Ashrafi Channel
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="Lifestyle",Ayush TV (720p)
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+
 #EXTINF:-1 tvg-id="BritCom.in" tvg-name="BritCom" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",BritCom (720p)
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 tvg-id="DesiBeatsHD.in" tvg-name="Desi Beats HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Desi Beats HD (720p)
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HarvestTVUSA.in" tvg-name="Harvest TV USA" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="",Harvest TV USA (720p)
 https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jan TV (360p)
-http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="JanataaTV.in" tvg-name="Janataa TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Janataa TV [Not 24/7]
-http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
 #EXTINF:-1 tvg-id="PopularScience.in" tvg-name="Popular Science" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",Popular Science
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="PrudentMedia.in" tvg-name="Prudent Media" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Prudent Media (576p)
