@@ -65,6 +65,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="International (India)",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prudentmedia.in/images/logo.png" group-title="International (India)",Prudent Media
+https://prudentmedia.livebox.co.in/prudenthls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="न्यूज़",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
@@ -122,6 +124,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
+https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/20190530_183654.jpg" group-title="फ़िल्म",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="फ़िल्म",Manoranjan Movies
@@ -240,8 +244,6 @@ http://104.237.60.234/live/gabruutv.m3u8
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="http://lifepunjabitv.weebly.com/uploads/2/3/3/2/23327972/1378295607.png" group-title="मनोरंजन".Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.nagaratv.com/wp-content/uploads/elementor/thumbs/LOGO-copy-oadotfwmb2lzz0wrzvsh4r232odpmw5c4lgcva0qem.png" group-title="मनोरंजन",Nagara TV
-https://cdn.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.punjabizindabad.com/images/logo.png" group-title="मनोरंजन".Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Punjabi/5bed7f1ca609d2ecf700001d/large_16_9.jpg" group-title="मनोरंजनShemaroo Punjabi TV
@@ -288,8 +290,6 @@ https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png" group-title="ਸੰਗੀਤ",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://steelbirdmusic.tv/assets/images/logo1.png" group-title="ਸੰਗੀਤ",Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="ਫਿਲਮਾਂ",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dreamdth.com/wp-content/uploads/2019/12/Maha-Punjabi-1024x579.jpg" group-title="फ़िल्म",Maha Punjabi
@@ -327,21 +327,3 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 
 #EXTINF:-1 tvg-id="ANEWSJATTTVBhangraFlava.in" tvg-name="A NEWSJATT TV- Bhangra Flava" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="Music",A NEWSJATT TV- Bhangra Flava (720p)
 http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BritCom.in" tvg-name="BritCom" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",BritCom (720p)
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-id="DesiBeatsHD.in" tvg-name="Desi Beats HD" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Desi Beats HD (720p)
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HarvestTVUSA.in" tvg-name="Harvest TV USA" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="",Harvest TV USA (720p)
-https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PopularScience.in" tvg-name="Popular Science" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="PrudentMedia.in" tvg-name="Prudent Media" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Prudent Media (576p)
-https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-id="Sanskaar.in" tvg-name="Sanskaar" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sanskaar
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-#EXTINF:-1 tvg-id="XploreChannel.in" tvg-name="Xplore Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Xplore Channel (720p)
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee TV
-http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
