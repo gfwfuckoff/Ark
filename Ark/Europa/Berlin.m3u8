@@ -1357,10 +1357,6 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",B1
 http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://stvron.com/canale/512/bollywood-tv.png" group-title="România",Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-logo="http://storage.alltvplay.com/images/channels/57d2bd47bc33b1566d8b46a1.png" group-title="România",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.credo.tv/wp-content/uploads/2019/07/logo-2.png" group-title="România",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://inedittv.ro/wp-content/uploads/2019/02/itvhd_web-1.png" group-title="România",Inedit TV
