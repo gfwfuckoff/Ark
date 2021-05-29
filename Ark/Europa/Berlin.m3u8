@@ -233,137 +233,55 @@ http://37.59.21.217:8809/live/tv5web.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtopsound.com/design/topsound.png" group-title="Bosna",Top Sound
 https://cdn.tvtopsound.com:1443/TopSoundTV/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/BNT1.bg.png" group-title="България",BNT 1
-http://136.243.177.164/BNT1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/BNT3.bg.png" group-title="България",BNT 2
-http://136.243.177.164/BNT2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/BNT3.bg.png" group-title="България",BNT 3
-http://136.243.177.164/BNT3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/BNT4.bg.png" group-title="България",BNT 4
-http://136.243.177.164/BNT4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/24Kitchen.tr.png" group-title="България",24 Kitchen България
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/24Kitchen.tr.png" group-title="България",24 Kitchen България
-http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://sedemosmi.tv/wp-content/uploads/2019/11/logotype_white-300x137.png"" group-title="България",78 TV
 https://ms3.sedemosmi.tv/live/Mmk1amVkZ2RvM2kzaWZqdDYyN3FucnRnOTVxdmswaXU/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alfa.bg/images/logo_alfa.jpg" group-title="България",Alfa TV
 http://alfa.bg:1935/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="България",AMC България
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvaction.png" group-title="България",bTV Action
-http://136.243.177.164/BTVACTION/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvlady.png" group-title="България",bTV Lady
-http://136.243.177.164/BTVLADY/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvcinema.png" group-title="България",bTV Cinema
 https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvcinema.png" group-title="България",bTV Cinema
-http://136.243.177.164/BTVCINEMA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvcomedy.png" group-title="България",bTV Comedy
 https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvcinema.png" group-title="България",bTV Comedy
-http://136.243.177.164/BTVCOMEDY/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/onair.png" group-title="България",Bulgaria on Air
 https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://city.bg/theme_assets/city/images/logo.png" group-title="България",City TV
-http://136.243.177.164/CITYTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/DiemaSport.bg.png" group-title="България",Diema 
-http://136.243.177.164/DIEMA/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://diemaxtra.nova.bg/img/diema_family_logo.png" group-title="България",Diema Family
-http://136.243.177.164/DIEMAFAMILY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/DiemaSport.bg.png" group-title="България",Diema Sport
-http://136.243.177.164/DIEMASPORT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/DiemaSport.bg.png" group-title="България",Diema Sport 2
-http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ekids.bg/wp-content/uploads/bfi_thumb/ekids_logo-36go5dl4ni7rfy3rytpiq2@2x.png" group-title="България",EKids
 https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="България",Eurosport 1 България
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png" group-title="България",Eurosport 2 България
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="България",Eurosport 1 България
-http://136.243.177.164/EUROSPORT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png" group-title="България",Eurosport 2 България
-http://136.243.177.164/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/DuckTV.sk.png" group-title="България",Duck
 https://cdn1.mobiletv.bg/T14/ATV/duck_tv/duck_tv_ATV987654321.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="България",Fox България
 https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="България",Fox България
-http://136.243.177.164/FOX/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="България",Fox Crime България
-http://136.243.177.164/FOXCRIME/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="България",Fox Life България
-http://136.243.177.164/FOXLIFE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/Fentv_new.png" group-title="България",FEN TV
 https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/Fentv_new.png" group-title="България",FEN TV
-http://136.243.177.164/FENTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://kanal3.bg/assets/css/images/logo.png" group-title="България",Kanal 3
-http://kanal3.cdn.netbadgers.com/bg030/bg031/bg031_sd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nstatic.nova.bg/files/kino/img/logo_new.png" group-title="България",Kino Nova
-http://136.243.177.164/KINONOVA/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/MAXSport1.bg.png" group-title="България",Max Sports 1
-http://136.243.177.164/MAXSPORT1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/MAXSport2.bg.png" group-title="България",Max Sports 2
-http://136.243.177.164/MAXSPORT2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/MAXSport3.bg.png" group-title="България",Max Sports 3
-http://136.243.177.164/MAXSPORT3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/MAXSport4.bg.png" group-title="България",Max Sports 4
-http://136.243.177.164/MAXSPORT4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/NovaTV.bg.png" group-title="България",Nova
-http://136.243.177.164/NOVATV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/novasport.png" group-title="България",Nova Sports
 https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/novasport.png" group-title="България",Nova Sports
-http://136.243.177.164/NOVASPORT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Kanal_4_Bulgaria.png" group-title="България",Kanal 4
 https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.planeta.tv/img/logo-header.png" group-title="България",Planeta
 https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mmtv.bg/mmtv.png" group-title="България",MM-TV
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/RING_2015_logo.png" group-title="България",Ring
-http://136.243.177.164/RINGBG/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thevoice.bg/share/default/img/The_Voice_black_logo.png" group-title="България",The Voice
 https://bss.neterra.tv/rtplive/thevoice_live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/920557-axn.png" group-title="България",AXN България
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="България",Animal Planet България
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/de/CartoonNetwork.de.png" group-title="България",Cartoon Network България
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Cinemax.cz.png" group-title="България",Cinemax 1 България
-http://136.243.177.164/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Cinemax2.cz.png" group-title="България",Cinemax 2 България
-http://136.243.177.164/CINEMAX2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="България",Discovery България
-http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="България",HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/HBO2.hr.png" group-title="България",HBO 2 България
-http://136.243.177.164/HBO2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/HBO3.hr.png" group-title="България",HBO 3 България
-http://136.243.177.164/HBO3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/InvestigationDiscovery.uk.png" group-title="България",ID 
-http://136.243.177.164/IDXTRA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="България",National Geo България
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="България",National Geo България
-http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/NatGeoWild.us.png" group-title="България",National Geo Wild България
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/de/Nickelodeon.de.png" group-title="България",Nickelodeon България
-http://136.243.177.164/NICKELODEON/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ee/NickJr.ee.png" group-title="България",Nick JR България
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/SkatTV.bg.png" group-title="България",Скат
 https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="България",TLC България
 https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="България",TLC България
-http://136.243.177.164/TLC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/Travel.bg.png" group-title="България",Travel Channel България
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
 
