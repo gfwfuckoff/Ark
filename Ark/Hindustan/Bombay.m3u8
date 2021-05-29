@@ -162,6 +162,8 @@ https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvonepk.tv/wp-content/uploads/2019/04/tvone-logo.png" group-title="تفریح",TV One
 http://cdn2.jazztv.pk:8085/jazzauth/TV1-129/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-ashrafi-channe.jpg" group-title="تفریح",UAshrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn61.liveonlineservices.com/upload/images/TGl2ZSBUViAtIERhbm5rYSAjMjM5MjA=/1496175.png" group-title="تفریح",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
