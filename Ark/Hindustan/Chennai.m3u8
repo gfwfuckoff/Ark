@@ -152,12 +152,16 @@ https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="மதம்",SVBC 2
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ayushtv.com/assets/images/ayush-tv-logo.png" group-title="ಕನ್ನಡ",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="ಕನ್ನಡ",Prajaa Kannada TV
 http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068224865843335170/BfSzKc5O_400x400.jpg" group-title="ಕನ್ನಡ",Sakkat
 https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dighvijay-tv-24x7-news-channel-logo-300x300.jpg" group-title="ಕನ್ನಡ",Dighvijay
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://janataatv.in/images/tooplate_logo.png" group-title="ಕನ್ನಡ",Janataa TV
+http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
 #EXTINF:-1 tvg-logo="https://publictv.in/wp-content/themes/publictv-2017/images/public-tv.png" group-title="ಕನ್ನಡ",Public TV Kannada
 https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="ಕನ್ನಡ",Public Music
