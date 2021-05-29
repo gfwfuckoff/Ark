@@ -639,10 +639,6 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One(Germany)
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="3SA.DE" tvg-logo="http://static.epg.best/at/3sat.at.png" group-title="Europe",3 Sat(Germany)
-https://kikahls-i.akamaihd.net/hls/live/1006267/livetvkika_ww/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",ZDF
-https://kikahls-i.akamaihd.net/hls/live/1006267/livetvkika_ww/master.m3u8|X-Forwarded-For=53.35.148.45
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Europe",Channel One(Russia)
 http://92.43.140.249/s14/04.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Europe",Russia 1(Russia)
@@ -651,7 +647,7 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 
 #EXTINF:-1 tvg-ID="RA1.IT" tvg-logo="https://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png" group-title="Europe",Rai 1(Italy)
-http://92.43.140.249/s29/index.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+http://92.43.140.249/s29/04.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 
 
 #EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1(Albania)
