@@ -161,6 +161,7 @@ https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="संगीत",9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="संगीत",Big Magic
