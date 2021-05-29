@@ -323,7 +323,3 @@ http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
 http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sikhchannel.tv/wp-content/uploads/2019/04/SC-web-logo.png" group-title="ਧਰਮ",Sikh Channel USA
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams 
-
-
-#EXTINF:-1 tvg-id="ANEWSJATTTVBhangraFlava.in" tvg-name="A NEWSJATT TV- Bhangra Flava" tvg-country="IN" tvg-language="Malayalam" tvg-logo="" group-title="Music",A NEWSJATT TV- Bhangra Flava (720p)
-http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
