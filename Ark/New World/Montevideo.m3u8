@@ -216,6 +216,8 @@ http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
 
 #EXTINF:-1 tvg-ID="REC.BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="Português/Brasil",Record TV
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 tvg-ID="REC.BR" tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="Latino",Record News
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
