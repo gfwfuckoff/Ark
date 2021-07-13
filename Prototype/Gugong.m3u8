@@ -726,8 +726,6 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="CLA.ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="Latino",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
-#EXTINF:-1 tvg-id="GOL.es" tvg-logo="" group-title="Latino",GOL (720p) [Geo-blocked]
-https://api.goltelevision.com/api/v1/stream/live/stream.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-id="TLS.ES" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Latino",Telesur
 http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-ID="TVN.CL" tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="Latino",TVN Chile
