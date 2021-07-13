@@ -286,9 +286,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
 #EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia",Global TV
-https://livestreaming-google-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Indonesia",Indosiar
-https://livestreaming-google-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",Jak TV
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_5415_720p/index.m3u8
 
@@ -302,7 +302,7 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 #EXTINF:-1 tvg-id="INW.ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INews
-https://livestreaming-google-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-id="KOM.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
@@ -311,7 +311,7 @@ https://livestreaming-google-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="MNC.ID" tvg-id="" tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
-https://livestreaming-google-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1 tvg-id="MYT.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="Indonesia",MyTV
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_6711_720p/index.m3u8
@@ -323,10 +323,10 @@ https://livestreaming-google-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_206_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
-https://livestreaming-google-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
-https://livestreaming-google-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
