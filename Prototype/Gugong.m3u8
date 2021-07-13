@@ -426,7 +426,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://static.epg.best/qa/AlJazeeraMubasher.qa.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-ID="Ari.KR" logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="News",Arirang
@@ -688,15 +687,15 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Europe",UA:Перший(Ukraine)
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 
-#EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC
+#EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc1_selected.png" group-title="Australia",ABC
 https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc2_selected.png" group-title="Australia",ABC TV Plus
 https://c.mjh.nz/abc2/
 #EXTINF:-1 tvg-ID="A24.AU" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="Australia",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Australia",ABC Kids
+#EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc4kids_selected.png" group-title="Australia",ABC Kids
 https://c.mjh.nz/101002210222/
-#EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Australia",ABC ME
+#EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc3_selected.png" group-title="Australia",ABC ME
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="Australia",SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
