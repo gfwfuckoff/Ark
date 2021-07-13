@@ -115,7 +115,7 @@ https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" group-title="日韩",フジテレビ
 https://fujitv.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日韩",日テレ
-http://203.162.235.41:16905
+https://ntv1.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日韩",日テレNEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="日韩",AT-X
