@@ -88,11 +88,13 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩",SBS
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8 
 #EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="日韩",tvN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
 #EXTINF:-1 tvg-ID="JTB.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="日韩",JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="日韩",Mnet
+#EXTINF:-1 tvg-ID="MNT.KR" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="日韩",Mnet
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+#EXTINF:-1 tvg-ID="CHA.KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Channel_A_Logo_transparent.png" group-title="日韩",Channel A
+http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
 #EXTINF:-1 tvg-id="EB1.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="日韩",EBS 1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EB2.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs2.png" group-title="日韩",EBS 2
@@ -102,7 +104,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="日韩",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="日韩",Chosun TV
-http://live.cdn.tvchosun.com/live/_definst_/tvchosun3.stream/chunklist_w1009305381.m3u8
+http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.KR" tvg-logo="https://static.epg.best/kr/MBN.kr.png" group-title="日韩",MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 #EXTINF:-1 tvg-id="ONE.KR" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="日韩",One
