@@ -498,8 +498,6 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-F
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="112.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png" group-title="Sports",Eleven Sports 2 Polandia
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 tvg-id="GOL.ES" tvg-logo="https://usa.goltv.tv/images/misc/goltv_logo.png" group-title="Sports",GOL TV
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="Sports",Sky Racing 1
