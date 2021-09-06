@@ -233,9 +233,9 @@ http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://akaalchannel.tv/assets/images/logo.png" group-title="मनोरंजन",Channel Akkal
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2021/05/logo-272x90-1.png" group-title="मनोरंजन",Chardik Time
+#EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="मनोरंजन",Chardik Time
 https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2021/05/logo-272x90-1.png" group-title="मनोरंजन",Chardik Time NA
+#EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="मनोरंजन",Chardik Time NA
 https://443-1.autopo.st/100/ckmedia/TV3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.desichannel.in/wp-content/uploads/2019/12/desi-logo.png" group-title="मनोरंजन",Desi Channel
