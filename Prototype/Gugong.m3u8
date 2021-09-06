@@ -112,7 +112,7 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="日韩",NHK総合
-https://nhk.mov3.co/hls/nhk.m3u8
+https://nhk1.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://static.epg.best/jp/eTele.jp.png" group-title="日韩",NHK教育
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日韩",テレビ朝日
@@ -122,7 +122,7 @@ http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日韩",TBSテレビ
 https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://static.epg.best/jp/BSFuji2K.jp.png" group-title="日韩",フジテレビ
-https://fujitv.mov3.co/hls/fujitv.m3u8
+https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日韩",日テレ
 https://ntv1.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日韩",日テレNEWS24
