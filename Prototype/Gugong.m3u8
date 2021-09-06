@@ -80,8 +80,6 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 #EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="日韩",KBS 2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-#EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="日韩",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="日韩",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩",SBS
@@ -312,16 +310,10 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Southeast Asia",ดูทีวีสีช่อง 3 (Thailand)
-http://27.254.130.62/feed/ch3hd/mono.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Southeast Asia",ช่อง 7(Thailand)
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Southeast Asia",Mono 29(Thailand)
-http://27.254.130.62/feed/chonehd/mono.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
-http://27.254.130.62/feed/chworkpoint/mono.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://one31.net/_nuxt/img/e9c7a7b.png" group-title="Southeast Asia",ONE 31(Thailand)
-http://27.254.130.62/feed/chonehd/mono.m3u8
+https://pcccw.github.io/Ark/M3U8/Token/TH/WPTV.m3u8
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Southeast Asia",PTV(Phillppines)
 https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/mrtv.png" group-title="Southeast Asia",MRTV(Myanmar)
@@ -334,14 +326,6 @@ http://203.81.84.130/hls/mwd/index.m3u8
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Southeast Asia",Mahar TV(Myanmar)
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="Southeast Asia",VTV 6(Vietnam)
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="VT7.VN" tvg-logo="https://mytv.com.vn/upload/channel/php3w6cE3_5d75c22f80382.png" group-title="Southeast Asia",VTV 7(Vietnam)
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="VT9.VN" tvg-logo="https://mytv.com.vn/upload/channel/117.png" group-title="Southeast Asia",VTV 9(Vietnam)
-https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
@@ -440,10 +424,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Movies",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies",HBO Family
@@ -452,17 +432,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="War.Asia" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/140735-WarnerTV.png" group-title="Movies",WarnerTV
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="PAR.Asia" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Network
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCL.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/d379ac903dbb14e08f450d5d234aecf17e4e47bb.png" group-title="Asian Movies",天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Asian Movies",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Asian Movies",KIX
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="Asian Movies",シネフィルWOWOW
 http://203.162.235.41:16916
 #EXTINF:-1 tvg-id="MAH.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="Asian Movies",Maha Movie
@@ -480,10 +454,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Asian Movies",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DUC.Int" tvg-logo="https://static.epg.best/sk/DuckTV.sk.png" group-title="Kids",Duck TV
@@ -495,58 +465,27 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="Kids",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Documentary",Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBE.Asia" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Documentary",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Documentary",Crime + Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-id="GCN.CN" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Documentary",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="Documentary",Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="PBS.UK" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" group-title="Documentary",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Documentary",National Geographic
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="Documentary",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Entertainment",Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="AXN.Asia" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/920557-axn.png" group-title="Entertainment",AXN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="Entertainment",Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Entertainment",Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-ID="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="Entertainment",Channel [V]
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Entertainment",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Entertainment",FOX
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="Entertainment",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Entertainment",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Entertainment",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Entertainment",Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
@@ -557,19 +496,10 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-F
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="112.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png" group-title="Sports",Eleven Sports 2 Polandia
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
 #EXTINF:-1 tvg-id="GOL.ES" tvg-logo="https://usa.goltv.tv/images/misc/goltv_logo.png" group-title="Sports",GOL TV
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8|X-Forwarded-For=24.37.42.20
-
 #EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="Sports",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 tvg-ID="SK2.AU" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="Sports",Sky Racing 2
@@ -587,11 +517,6 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Europe",ITV(UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="Europe",BBC News
-https://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
-#EXTINF:-1 tvg-id="BBL.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="Europe",BBC Lifestyle(UK)
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1(France)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
