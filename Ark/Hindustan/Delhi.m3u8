@@ -234,7 +234,10 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://akaalchannel.tv/assets/images/logo.png" group-title="मनोरंजन",Channel Akkal
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2021/05/logo-272x90-1.png" group-title="मनोरंजन",Chardik Time
-https://rtmp.smartstream.video/cttvindia/cttvindia/chunklist.m3u8
+https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2021/05/logo-272x90-1.png" group-title="मनोरंजन",Chardik Time NA
+https://443-1.autopo.st/100/ckmedia/TV3/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.desichannel.in/wp-content/uploads/2019/12/desi-logo.png" group-title="मनोरंजन",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ektatv.com/wp-content/uploads/2018/07/01-1.png" group-title="मनोरंजन",Fastway TV
@@ -303,7 +306,7 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/5992517923.jpg" group-title="ਧਰਮ",Amritvaani
 https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8
 #EXTINF:-1 tvg-logo="http://live.timetv.news/uploads/tv_image/gurbani-tv.jpg" group-title="ਧਰਮ",Chardik Gurbani
-http://radio.lapunjabiradio.com/hls/gtv.m3u8
+https://443-1.autopo.st/100/ckmedia/TV4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanshitv.co.uk/themes/custom/kanshitv/bootstrap/assets/images/kanshitv-logo.png" group-title="ਧਰਮ",Gurbaanihealing
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jhanjartvindia.com/images/Jhanjar_Logo.png" group-title="ਧਰਮ",Jhanjar
