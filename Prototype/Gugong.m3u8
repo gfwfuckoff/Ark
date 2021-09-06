@@ -394,7 +394,7 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-id="BIG.IN" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="India",Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/05/logo-272x90-1.png" group-title="India",Chardik Time
-https://rtmp.smartstream.video/cttvindia/cttvindia/chunklist.m3u8
+https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
 #EXTINF:-1 tvg-id="DAN.IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="India",Dangal TV
 https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
