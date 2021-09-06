@@ -256,6 +256,8 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-ID="TVS.MY" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malaysia",TV Sarawak
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
 #EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Malaysia",TV Alhijrah
