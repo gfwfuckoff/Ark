@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5(Singapore IP)
 https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道
+#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道(Singapore IP)
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="Singapore",U频道
+#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="Singapore",U频道(Singapore IP)
 https://d3inlz9elsutjl.cloudfront.net/hls/clr4ctv_chu/master.m3u8
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="Singapore",Suria 
+#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="Singapore",Suria(Singapore IP) 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Vasantham
+#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Vasantham(Singapore IP)
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -256,9 +256,9 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil
+#EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil(Malaysia IP) 
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:-1 tvg-ID="TVS.MY" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malaysia",TV Sarawak
+#EXTINF:-1 tvg-ID="TVS.MY" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malaysia",TV Sarawak(Malaysia IP) 
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
 #EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Malaysia",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
@@ -268,7 +268,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AOD.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="Malaysia",Astro AOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello(Malaysia IP) 
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="CIT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
