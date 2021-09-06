@@ -296,13 +296,15 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288
 #EXTINF:-1 tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 #EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Indonesia",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+https://cdn-livetv-studio.metube.id/idxchannel_480/index.m3u8
 #EXTINF:-1 tvg-id="INW.ID" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8.m3u8
 #EXTINF:-1 tvg-id="MET.ID" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="Indonesia",Metro
 https://pcccw.github.io/Ark/M3U8/Token/ID/Metro.m3u8
 #EXTINF:-1 tvg-id="MNC.ID" tvg-id="" tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_256000=8.m3u8
+#EXTINF:-1 tvg-id="MNN.ID" tvg-id="" tvg-logo="https://img.inews.co.id/files/inews_new/2019/11/28/mnc_news_logo_ver2.png" group-title="Indonesia",MNC News
+https://cdn-livetv-studio.metube.id/mncnews_240/index.m3u8
 #EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_256000=8.m3u8
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Indonesia",Trans TV
