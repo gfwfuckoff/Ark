@@ -460,24 +460,24 @@ http://82.212.74.3:8000/live/hls/7506.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="ایران",IRIB 1
-https://sdm.telewebion.com/live/tv1/tv1-720p/index.m3u8
+https://ss.90minlive.online/live/tv1-h/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV2English.ir.png" group-title="ایران",IRIB 2
-https://sdm.telewebion.com/live/tv2/tv2-240p/index.m3u8
+https://ss.90minlive.online/live/tv2-h/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="ایران",IRIB 3 
-https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
+https://ss.90minlive.online/live/tv3-h/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/ChannelFour.ir.png" group-title="ایران",IRIB 4
-https://sdm.telewebion.com/live/tv4/tv4-576p/index.m3u8
+https://s-cloud.irib.ir/live/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="ایران",IRIB 5
-https://sdm.telewebion.com/live/tehran/tehran_dvr-240p/index.m3u8
+https://bozz.bebinhd.com/live/tehran0/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/AmoozeshFarsi.ir.png" group-title="ایران",IRIB Amoozesh
-https://sdm.telewebion.com/live/amouzesh/amouzesh_dvr-240p/index.m3u8
+https://sdw.telewebion.com/live/amouzesh/amouzesh_dvr-240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alalamtv.net/sites/2-1/style/image/logo_new_alalam.png" group-title="ایران",IRIB Al-Alam
 https://live2.alalamtv.net/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sepehr.irib.ir/uploads/channel/ayam.png" group-title="ایران",IRIB Ayam
 https://cdn1.shimaiptv.ir/187/bazarmohtava/1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM
-https://sdm.telewebion.com/live/ifilm/ifilm_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/ifilm/ifilm_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="ایران",iFILM Farsi
 https://live1.presstv.com/live/ifilm2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="ایران",iFILM Arabic
@@ -485,9 +485,9 @@ https://live1.presstv.com/live/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="ایران",iFILM English
 https://live1.presstv.com/live/ifilmen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.irinn.ir/client/themes/fa/main/img/r_logo4.png" group-title="ایران",IRIB Irinn
-https://sdm.telewebion.com/live/irinn/irinn-480p/index.m3u8
+https://sdw.telewebion.com/live/irinn/irinn-480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irankala.png" group-title="ایران",Iran Kala
-https://sdm.telewebion.com/live/irankala/irankala_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/irankala/irankala_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irankala.png" group-title="ایران",Iran Thaqalein
 https://cdn1.shimaiptv.ir/livelive2/sp2/newChannel/tha.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="ایران",Hispan TV
@@ -495,106 +495,106 @@ https://live1.presstv.com/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jjtvn.ir/img/jam/header.jpg" group-title="ایران",IRIB Jame Jam
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/MostanadFarsi.ir.png" group-title="ایران",IRIB Mostanad
-https://sdm.telewebion.com/live/mostanad/mostanad_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/mostanad/mostanad_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Breeze.ir.png" group-title="ایران",IRIB Nasim
-https://sdm.telewebion.com/live/nasim/nasim_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/nasim/nasim_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/NamayeshFarsi.ir.png" group-title="ایران",IRIB Namayesh
-https://sdm.telewebion.com/live/namayesh/namayesh_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/namayesh/namayesh_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.imvbox.com/channels/2f1016467f1d8553c71b7d57ea748303.png" group-title="ایران",IRIB Pooya
-https://sdm.telewebion.com/live/pooya/pooya_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/pooya/pooya_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/QuranFarsi.ir.png" group-title="ایران",IRIB Quran
-https://sdm.telewebion.com/live/quran/quran-480p/index.m3u8
+https://sdw.telewebion.com/live/quran/quran-480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Horizon.ir.png" group-title="ایران",IRIB Ofogh
-https://sdm.telewebion.com/live/ofogh/ofogh_dvr-240p/index.m3u8
+https://sdw.telewebion.com/live/ofogh/ofogh_dvr-240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://omidtv.ir/img/omid-arm-naam2.jpg" group-title="ایران",IRIB Omid
-https://sdm.telewebion.com/live/omid/omid_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/omid/omid_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://salamattv.ir/img/logob5.png" group-title="ایران",IRIB Salamat
-https://sdm.telewebion.com/live/salamat/salamat-480p/index.m3u8
+https://sdw.telewebion.com/live/salamat/salamat-480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/shiran.png" group-title="ایران",IRIB Shiran
-https://sdm.telewebion.com/live/shiran/shiran_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/shiran/shiran_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/IRIB_Shoma_TV%27s_new_logo.png/200px-IRIB_Shoma_TV%27s_new_logo.png" group-title="ایران",Shoma TV Network
-https://sdm.telewebion.com/live/shoma/shoma-480p/index.m3u8
+https://sdw.telewebion.com/live/shoma/shoma-480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Watch.ir.png" group-title="ایران",IRIB Tamasha
-https://sdm.telewebion.com/live/tamasha/tamasha-480p/index.m3u8
+https://sdw.telewebion.com/live/tamasha/tamasha-480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="ایران",IRIB Varzesh
 https://livetv.farsiland.com/varzesh.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/abadan.png" group-title="ایران",IRIB Abadan
-https://sdm.telewebion.com/live/abadan/abadan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/abadan/abadan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="ایران",IRIB Aflak
-https://sdm.telewebion.com/live/aflak/aflak_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/aflak/aflak_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/aftab.png" group-title="ایران",IRIB Aftab
-https://sdm.telewebion.com/live/aftab/aftab_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/aftab/aftab_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="ایران",IRIB Alborz
-https://sdm.telewebion.com/live/alborz/alborz_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/alborz/alborz_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/atrak.png" group-title="ایران",IRIB Atrak
-https://sdm.telewebion.com/live/atrak/atrak_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/atrak/atrak_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png" group-title="ایران",IRIB Azarbayjangharbi
-https://sdm.telewebion.com/live/azarbayjangharbi/azarbayjangharbi_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/azarbayjangharbi/azarbayjangharbi_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/baran.png" group-title="ایران",IRIB Baran
-https://sdm.telewebion.com/live/baran/baran_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/baran/baran_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/bushehr.png" group-title="ایران",IRIB Bushehr
-https://sdm.telewebion.com/live/bushehr/bushehr_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/bushehr/bushehr_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/dena.png" group-title="ایران",IRIB Dena
-https://sdm.telewebion.com/live/dena/dena_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/dena/dena_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/esfahan.png" group-title="ایران",IRIB Esfahan
-https://sdm.telewebion.com/live/esfahan/esfahan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/esfahan/esfahan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/eshragh.png" group-title="ایران",IRIB Eshragh
-https://sdm.telewebion.com/live/eshragh/eshragh_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/eshragh/eshragh_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/fars.png" group-title="ایران",IRIB Fars
-https://sdm.telewebion.com/live/fars/fars_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/fars/fars_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/hamoon.png" group-title="ایران",IRIB Hamoon
-https://sdm.telewebion.com/live/hamoon/hamoon_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/hamoon/hamoon_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ilam.png" group-title="ایران",IRIB Ilam
-https://sdm.telewebion.com/live/ilam/ilam_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/ilam/ilam_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/jam.png" group-title="ایران",IRIB Jam
-https://sdm.telewebion.com/live/jam/jam_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/jam/jam_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/javaneh.png" group-title="ایران",IRIB Javaneh
-https://sdm.telewebion.com/live/javaneh/javaneh_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/javaneh/javaneh_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/jahanbin.png" group-title="ایران",IRIB Jahanbin
-https://sdm.telewebion.com/live/jahanbin/jahanbin_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/jahanbin/jahanbin_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="ایران",IRIB Kerman
-https://sdm.telewebion.com/live/kerman/kerman_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/kerman/kerman_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="ایران",IRIB Khalijefars
-https://sdm.telewebion.com/live/khalijefars/khalijefars_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/khalijefars/khalijefars_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="ایران",IRIB Khavaran
-https://sdm.telewebion.com/live/khavaran/khavaran_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/khavaran/khavaran_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="ایران",IRIB Khorasanrazavi
-https://sdm.telewebion.com/live/khorasanrazavi/khorasanrazavi_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/khorasanrazavi/khorasanrazavi_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="ایران",IRIB Khoozestan
-https://sdm.telewebion.com/live/khoozestan/khoozestan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/khoozestan/khoozestan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ilam.png" group-title="ایران",IRIB Kish
-https://sdm.telewebion.com/live/kish/kish_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/kish/kish_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="ایران",IRIB Kordestan
-https://sdm.telewebion.com/live/kordestan/kordestan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/kordestan/kordestan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/qazvin.png" group-title="ایران",IRIB Qazvin
-https://sdm.telewebion.com/live/qazvin/qazvin_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/qazvin/qazvin_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nama.png" group-title="ایران",IRIB Mahabad
-https://sdm.telewebion.com/live/mahabad/mahabad_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/mahabad/mahabad_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nama.png" group-title="ایران",IRIB Nama
-https://sdm.telewebion.com/live/nama/nama_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/nama/nama_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nava.png" group-title="ایران",IRIB Nava
-https://sdm.telewebion.com/live/nava/nava_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/nava/nava_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/noor.png" group-title="ایران",IRIB Noor
 https://sdw.telewebion.com/live/noor/noor_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabz.png" group-title="ایران",IRIB Sabz
-https://sdm.telewebion.com/live/sabz/sabz_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/sabz/sabz_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabalan.png" group-title="ایران",IRIB Sabalan
-https://sdm.telewebion.com/live/sabalan/sabalan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/sabalan/sabalan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/Sahand.png" group-title="ایران",IRIB Sahand
-https://sdm.telewebion.com/live/sahand/sahand_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/sahand/sahand_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/semnan.png" group-title="ایران",IRIB Semnan
-https://sdm.telewebion.com/live/semnan/semnan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/semnan/semnan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sepehr.png" group-title="ایران",IRIB Sepehr
-https://sdm.telewebion.com/live/sepehr/sepehr_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/sepehr/sepehr_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sina.png" group-title="ایران",IRIB Sina
-https://sdm.telewebion.com/live/sina/sina_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/sina/sina_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/taban.png" group-title="ایران",IRIB Taban
-https://sdm.telewebion.com/live/taban/taban_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/taban/taban_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png" group-title="ایران",IRIB Tabarestan
-https://sdm.telewebion.com/live/tabarestan/tabarestan_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/tabarestan/tabarestan_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabz.png" group-title="ایران",IRIB Zagros
-https://sdm.telewebion.com/live/zagros/zagros_dvr-576p/index.m3u8
+https://sdw.telewebion.com/live/zagros/zagros_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="ایران",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
@@ -951,25 +951,25 @@ http://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/master.m3u8
 https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Türkiye",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/TRT_2_logosu.png" group-title="Türkiye",TRT 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTAvaz.tr.png" group-title="Türkiye",TRT Avaz
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTBelgesel.tr.png" group-title="Türkiye",TRT Belgesel
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRC.TR" tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="Türkiye",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTHaber.tr.png" group-title="Türkiye",TRThaber
-https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTHaber.tr.png" group-title="Türkiye",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTMuzik.tr.png" group-title="Türkiye",TRT Muzik
-https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTKurdi.tr.png" group-title="Türkiye",TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTTurk.tr.png" group-title="Türkiye",TRT Turk
-https://tv-trtturk.live.trt.com.tr/master.m3u8
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trtspor.com.tr/static/img/trt-spor-canli-izle.png" group-title="Türkiye",TRT Spor
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trtspor.com.tr/static/img/trt-spor-2-canli-izle.png" group-title="Türkiye",TRT Spor 2
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/TRTAlArabiya.tr.png" group-title="Türkiye",TRT Arabi
@@ -1108,7 +1108,7 @@ https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvnet.com.tr/dist/img/live-image.jpg" group-title="Türkiye",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-jOo4x2W1kmk/XBkkLFgz7qI/AAAAAAAAChE/hrgq9hk4ic0-SDM7ijwPPcUDhwLw9t_zwCLcBGAs/s1600/vizyon-58.png" group-title="Türkiye",Vizyon TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-jOo4x2W1kmk/XBkkLFgz7qI/AAAAAAAAChE/hrgq9hk4ic0-sdw7ijwPPcUDhwLw9t_zwCLcBGAs/s1600/vizyon-58.png" group-title="Türkiye",Vizyon TV
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ulke.weebly.com/uploads/2/2/7/7/22770432/766621_orig.png" group-title="Türkiye",Ulke TV
 https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b3128000.m3u8
