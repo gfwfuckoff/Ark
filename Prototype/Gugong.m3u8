@@ -372,6 +372,10 @@ https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-logo="" group-title="India",Star Plus
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="UtsavGold.in" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="Indaia",Utsav Gold
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
