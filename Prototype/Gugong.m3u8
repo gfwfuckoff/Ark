@@ -623,7 +623,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="USA",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://www.get.tv/sites/all/themes/responsive/responsive_gettv_2/logo.png" group-title="USA",getTV:
+#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://www.get.tv/sites/all/themes/responsive/responsive_gettv_2/logo.png" group-title="USA",getTV
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="USA",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
