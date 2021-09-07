@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="मनोरंजन",And Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="मनोरंजन",And Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
@@ -22,19 +22,19 @@ https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 https://itvoign.multitvsolution.com/idvo/enter10_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV ME
-https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/ztvme/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV Apac
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV USA
-https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV Canada
-https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV Russia
-https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/russia/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/MW0Ae9SQ_zee_smile-scaled.jpeg" group-title="मनोरंजन",Zee Smile
-https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Zest-Logo.jpg" group-title="मनोरंजन",Zee Zest
-https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/medium_16_9.jpg" group-title="मनोरंजन",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
@@ -56,15 +56,15 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="International (India)",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/WION.in.png" group-title="International (India)",Wion
-https://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/wion/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeemagic.png" group-title="International (India)",Zee Magic
-https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="International (India)",Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeworld.tv/images/logo/newwebtrans.png" group-title="International (India)",Zee World
-https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="International (India)",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.prudentmedia.in/images/logo.png" group-title="International (India)",Prudent Media
 https://prudentmedia.livebox.co.in/prudenthls/live.m3u8
 
@@ -112,14 +112,14 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2020/03/Hindi1.png group-title="्यूज़",News 18 Jharkhand
 https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="्यूज़",Zee Rajasthan
-https://y5w8j4a9.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-bihar-jharkhand-45.png" group-title="न्यूज़",Zee News Bihar Jharkhand
-https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-mpcg-45.png" group-title="न्यूज़",Zee News MPCG
-https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="फ़िल्म",And Pictures
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
@@ -139,23 +139,23 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="फ़िल्म",Shemaroo Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="फ़िल्म",Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/PORTRAIT/gZMfypMa.png" group-title="फ़िल्म",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="फ़िल्म",Zee Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="फ़िल्म",Zee Classic 
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema Middle East
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema UK
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeTalkies.in.png" group-title="फ़िल्म",Zee Talkies
-https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="संगीत",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
@@ -165,9 +165,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="संगीत",9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="संगीत",Big Magic
-https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="संगीत",Big Ganga
-https://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Dil Se
@@ -218,7 +218,7 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Alpha_ETC_Punjabi.PNG" group-title="मनोरंजन",Alpha ETC Punjabi
-https://y5w8j4a9.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="मनोरंजन",DD Punjabi
 https://hls.media.nic.in/hls/live/ddpunjabi/ddpunjabi.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png" group-title="मनोरंजन",5aab TV
@@ -276,7 +276,7 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/news18-punjab-haryana-himachal.gif" group-title="ਫਿਲਮਾਂ",News18 Punjab
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-phh-45.png" group-title="ਫਿਲਮਾਂ",Zee Punjabi
-https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="ਸੰਗੀਤ",5aab Music
 http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
