@@ -432,9 +432,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="Movies",Fox
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="SCL.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/d379ac903dbb14e08f450d5d234aecf17e4e47bb.png" group-title="Asian Movies",天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Asian Movies",Red by HBO
@@ -619,8 +616,12 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="USA",CMT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 #EXTINF:-1 tvg-ID="GSN.CA" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="USA",Game Show Network
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="USA",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="FRE.US" tvg-logo="https://static.epg.best/us/Freeform.us.png" group-title="USA",Freeform
 https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="USA",Fashion TV
@@ -650,25 +651,22 @@ https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
 #EXTINF:-1 tvg-ID="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="USA",Channel [V]
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
-
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="Canada",CBC News
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="Canada",CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="Canada",CBC Quebec
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="Canada",CBC Ontario
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="Canada",CBC News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png" group-title="Canada",City TV
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png" group-title="Canada",CTV
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="Canada",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/ca/TVO.ca.png" group-title="Canada",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png" group-title="Canada",CityTV
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="News",CBC Ottawa
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Quebec
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Ontario
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1(Saudi Arabia)
