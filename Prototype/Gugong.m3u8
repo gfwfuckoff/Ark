@@ -576,8 +576,6 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Australia",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
-#EXTINF:-1 tvg-id="CAN5.MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Latino",Canal 5
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1 tvg-id="AZ1.MX" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="Latino",Azteca Uno
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="AZ7.MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="Latino",Azteca 7
@@ -591,7 +589,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="CLA.ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="Latino",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-id="TLS.ES" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Latino",Telesur
-http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-ID="TVN.CL" tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="Latino",TVN Chile
 http://unlimited1-cl.dps.live/tvn/tvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Latino",RTP Internacional
