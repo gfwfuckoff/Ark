@@ -267,14 +267,14 @@ https://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://just4jolly.com/wp-content/uploads/2016/07/tcvthrissur1.png" group-title="മലയാളം",Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://zeekeralam.zee5.com/wp-content/uploads/sites/29/2020/07/zee-kerlam-1.png" group-title="മലയാളം",Zee Keralam
-https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.abplive.com/frontend/images/nw-marathi.png" group-title="मराठी ",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
 #EXTINF:-1 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" group-title="मराठी ",TV9 Marathi
 https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="मराठी ",Zee Marathi
-https://y5w8j4a9.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.lokmat.news18.com/ibnlokmat/uploads/2020/03/lokmat.png" group-title="मराठी ",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
