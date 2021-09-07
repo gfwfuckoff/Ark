@@ -419,7 +419,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="SCL.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/d379ac903dbb14e08f450d5d234aecf17e4e47bb.png" group-title="Asian Movies",天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
