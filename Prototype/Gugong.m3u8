@@ -431,9 +431,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="SCL.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/d379ac903dbb14e08f450d5d234aecf17e4e47bb.png" group-title="Asian Movies",天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Asian Movies",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="Asian Movies",シネフィルWOWOW
+#EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://cdn.wowow.co.jp/ml/cinefil/sp_img/title.png" group-title="Asian Movies",シネフィルWOWOW
 http://203.162.235.41:16916
 #EXTINF:-1 tvg-id="MAH.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="Asian Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
