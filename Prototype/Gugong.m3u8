@@ -348,6 +348,8 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 #EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="GNT.IN" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="India",GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
@@ -362,23 +364,18 @@ https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="REP.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png" group-title="India",Surya Music
-https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
 #EXTINF:-1 tvg-id="SAD.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
-#EXTINF:-1 tvg-id="TEZ.IN" tvg-logo="https://static.epg.best/in/TEZ.in.png" group-title="India",Tez
-https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="India",TV9 Telugu News
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="UTG.IN" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="India",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="UTG.IN" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="India",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
@@ -445,12 +442,14 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Asian Movies",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="RIC.IN" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Asian Movies",Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="ZAC.IN" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Asian Movies",Zee Anmol Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="Asian Movies",Zee Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema Middle East
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaUSA.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Zee Cinema USA
+https://f8e7y4c6.ssl.ssl.hwcdn.net/cinemausa/playlist.m3u8
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Asian Movies",Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
