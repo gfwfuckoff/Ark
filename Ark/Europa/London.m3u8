@@ -418,10 +418,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Infotainment",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Infotainment",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="Infotainment",BBC Lifestyle
-https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Infotainment",Crime + Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Infotainment",CGTN Documentary
@@ -606,18 +602,14 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="Oceania",Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
-#EXTINF:1,STV
-https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
 #EXTINF:1,Dave HD
 https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
-#EXTINF:1,Only Motors TV HD
-https://lineartv001.broadcastcdn.net/liveuk/CLOUDIETV-OMTVUK/index.m3u8
 #EXTINF:1,Dave JA Vu
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/tracks-v1a1/mono.m3u8
+#EXTINF:1,Only Motors TV HD
+https://lineartv001.broadcastcdn.net/liveuk/CLOUDIETV-OMTVUK/index.m3u8
 #EXTINF:1,Quest Red
 https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
-#EXTINF:1,Drama 
-https://cdnuk001.broadcastcdn.net/KUK-DRAMA/tracks-v1a1/mono.m3u8
 #EXTINF:1,Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
 #EXTINF:1,Yanga! HD
