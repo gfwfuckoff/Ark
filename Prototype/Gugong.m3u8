@@ -354,6 +354,9 @@ https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="GNT.IN" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="India",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",इंडिया टीवी
+https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
+    
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INT.IN" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India",India Today
