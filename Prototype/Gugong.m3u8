@@ -308,7 +308,8 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 #EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Southeast Asia",Mahar TV(Myanmar)
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
 
-
+#EXTINF:-1 tvg-id="1st.IN" tvg-logo="https://firstindianews.com/images/logo.png" group-title="India",1st इंडिया
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="24N.IN" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="India",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
@@ -357,6 +358,8 @@ https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="10B.BD" tvg-logo="https://static.epg.best/in/Enterr10.in.png" group-title="India",Enter 10 Bangla
 https://itvoign.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-ID="CAP.IN" tvg-logo="http://captainmedia.in/media/images/logo.png" group-title="India",Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="India",Chardik Time
 https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
 #EXTINF:-1 tvg-ID="CAZ.IN" tvg-logo="https://static.epg.best/in/CNBCAwaaz.in.png" group-title="India",CNBC Awaaz
@@ -399,9 +402,6 @@ http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="India",Jaihind
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-
-http://103.199.161.254/Content/Thanthi/Live/Channel(Thanthi)/index.m3u8
-Thanthi
 #EXTINF:-1 tvg-id="JNT.IN" tvg-logo="https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2020/03/jantantra-tv-new.png" group-title="India",Jantantra TV
 https://thelegitpro.in/hls8/jantantratv/index.m3u8
 #EXTINF:-1 tvg-id="JAT.IN" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="India",Janta TV
@@ -446,6 +446,8 @@ http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="KAG.IN" tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2018/08/Kalinga-TV-Logo-for-website.png" group-title="India",Kalinga TV
 https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="KAK.IN" tvg-logo="http://kanaknews.com/wp-content/uploads/2015/11/kanak_logo11.png" group-title="India",Kanak News
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KAS.IN" tvg-logo="https://exchange4media.gumlet.io/news-photo/115092-pic41.jpg" group-title="India",Kasthuri
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
@@ -462,6 +464,8 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.m3u8
 #EXTINF:-1 tvg-id="MIR.IN" tvg-logo="https://static.epg.best/in/MirrorNow.in.png" group-title="India",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-id="MON.IN" tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="India",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="NTP.IN" tvg-logo="https://static.epg.best/in/NDTVPrime.in.png" group-title="India",NDTV Prime
@@ -474,6 +478,8 @@ https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="NEX.IN" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India",News X
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
+#EXTINF:-1 tvg-id="NE7.IN" tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="ଓଡ଼ିଆ",Prameya News 7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png" group-title="India",News 11 Bharat
 https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
 #EXTINF:-1 tvg-id="18L.IN"  tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="India",News18
@@ -576,6 +582,8 @@ https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live3/chunks
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV.IN" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="India",VTV Gujarati
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist.m3u8
+#EXTINF:-1 tvg-id="VAS.IN" tvg-logo="https://vasanth.tv/wp-content/uploads/2018/07/VASANTH-TV-LOGO-FINAL-1.png" group-title="India",Vasanth TV
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/chunklist.m3u8
 #EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-ID="ZNW.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="India",Zee News
