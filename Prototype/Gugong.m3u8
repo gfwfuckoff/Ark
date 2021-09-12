@@ -835,22 +835,22 @@ https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="FOD.UK" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="UK",Food Network
 https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FOR.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="UK",Forces TV
+https://cdnuk001.broadcastcdn.net/KUK-FORCESTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="UK",POP Max
+https://cdnuk001.broadcastcdn.net/KUK-POPMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="QRU.UK" tvg-logo="https://static.epg.best/gb/QuestRed.uk.png" group-title="UK",Quest Red
 https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RLY.UK" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="UK",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STV.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/150px-STV_logo_2014.png" group-title="UK",STV
 https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FOR.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="UK",Forces TV
-https://cdnuk001.broadcastcdn.net/KUK-FORCESTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="YES.UK" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png group-title="UK",Yesterday
-https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="UK",POP Max
-https://cdnuk001.broadcastcdn.net/KUK-POPMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="UK",Tiny Pop
 https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="YES.UK" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png group-title="UK",Yesterday
+https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
