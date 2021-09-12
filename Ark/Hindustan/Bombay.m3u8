@@ -24,8 +24,6 @@ https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.com/frontend/images/nw-bengali.png" group-title="খবর",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.abplive.com/frontend/images/nw-bengali.png" group-title="খবর",ABP Ananda
-https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://calcuttanews.tv/images/cnwotag.png" group-title="খবর",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
@@ -93,7 +91,7 @@ https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",VTV ગુજરાતી
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",Zee 24 Kalak
+#EXTINF:-1 tvg-id="ZZK.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-24-kalak-small-97x45.png" group-title="ગુજરાતી",Zee 24 Kalak
 https://f8e7y4c6.ssl.hwcdn.net/kalak/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv9gujarati.com/wp-content/themes/tv9gujarati/images/TV9Gujarati57x57.png" group-title="ગુજરાતી",TV9 Gujarati
 https://vidcdn.vidgyor.com/tv9gujarati-origin/live/tv9gujarati-origin/live4/chunks.m3u8
@@ -237,5 +235,3 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-1
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhaj.tv/images/Minhaj-TV-logo.png" group-title="موسیقی",Raham TV
 http://cdn71.liveonlineservices.com/hls/rahamtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/8e/96/58/8e965854-c275-8a1e-b445-e9047949ae96/source/512x512bb.jpg" group-title="مذہب",Tehzeeb
-http://streamer64.ebound.tv/tv/tehzeeb/chunks.m3u8
