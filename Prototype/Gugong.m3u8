@@ -326,6 +326,9 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 #EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Southeast Asia",Mahar TV(Myanmar)
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
 
+
+#EXTINF:-1 tvg-id="24N.IN" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" group-title="India",24 News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="9JW.IN" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="India",9X Jalwa
