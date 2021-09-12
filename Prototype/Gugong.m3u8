@@ -550,10 +550,20 @@ https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-ID="ZZT.IN"  tvg-logo="https://static.epg.best/in/ZeeTalkies.in.png" group-title="India",Zee Talkies
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
+#EXTINF:-1 tvg-id="ZZK.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-24-kalak-small-97x45.png" group-title="ગુજરાતી",Zee 24 Kalak
+https://f8e7y4c6.ssl.hwcdn.net/kalak/index.m3u8
 #EXTINF:-1 tvg-ID="ZKE.IN" tvg-logo="https://zeekeralam.zee5.com/wp-content/uploads/sites/29/2020/07/zee-kerlam-1.png" group-title="India",Zee Keralam
-https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/index.m3u8
+#EXTINF:-1 tvg-ID="ZMR.IN" tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="India ",Zee Marathi
+https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-ID="ZHH.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-phh-45.png" group-title="India",Zee Punjab Haryana Himachal Pradesh
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-ID="ZRA.IN"  tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="्यूज़",Zee Rajasthan
+https://f8e7y4c6.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-ID="ZBJ.IN"  tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-bihar-jharkhand-45.png" group-title="न्यूज़",Zee News Bihar Jharkhand
+https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-ID="ZMP.IN"  tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-mpcg-45.png" group-title="न्यूज़",Zee News MPCG
+https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
