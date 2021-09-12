@@ -488,7 +488,7 @@ https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="NEX.IN" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India",News X
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
-#EXTINF:-1 tvg-id="NE7.IN" tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="ଓଡ଼ିଆ",Prameya News 7
+#EXTINF:-1 tvg-id="NE7.IN" tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="India",Prameya News 7
 https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png" group-title="India",News 11 Bharat
 https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
