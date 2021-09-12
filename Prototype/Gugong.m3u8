@@ -786,17 +786,18 @@ https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1(France)
 http://stream.tvtap.net:8081/live/fr-tf1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="" group-title="Europe",France 3
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Europe",France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="" group-title="Europe",France 4
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="Europe",France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr"  group-title="Europe",France 5
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="Europe",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 #EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Europe",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One(Germany)
