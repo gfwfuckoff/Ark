@@ -336,6 +336,8 @@ http://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/53/2e/b9/532eb9ab-e614-7972-8b4c-fc7726bd2f4d/source/512x512bb.jpg" group-title="India",Argus News
+https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="India",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BIG.IN" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="India",Big Magic
@@ -387,6 +389,10 @@ https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/lin
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
 #EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://i.imgur.com/jsC8FC7.png" group-title="India",Surya Music
+https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
+#EXTINF:-1 tvg-id="SUR.IN" tvg-logo="https://i.imgur.com/ENrptYg.png" group-title="India",Surya TV
+https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 #EXTINF:-1 tvg-id="T9B.IN" tvg-logo="https://cdn1.tv9hindi.com/wp-content/themes/tv9bharavarsh/images/logo.png group-title="India",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="India",TV9 Telugu News
@@ -399,6 +405,8 @@ https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-ID="ZZT.IN"  tvg-logo="https://static.epg.best/in/ZeeTalkies.in.png" group-title="India",Zee Talkies
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
+#EXTINF:-1 tvg-ID="ZKE.IN" tvg-logo="https://zeekeralam.zee5.com/wp-content/uploads/sites/29/2020/07/zee-kerlam-1.png" group-title="India",Zee Keralam
+https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
