@@ -389,9 +389,9 @@ https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/lin
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
 #EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://i.imgur.com/jsC8FC7.png" group-title="India",Surya Music
+#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://static.epg.best/in/SuryaMusic.in.png" group-title="India",Surya Music
 https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
-#EXTINF:-1 tvg-id="SUR.IN" tvg-logo="https://i.imgur.com/ENrptYg.png" group-title="India",Surya TV
+#EXTINF:-1 tvg-id="SUR.IN" tvg-logo="https://static.epg.best/in/Surya.in.png" group-title="India",Surya TV
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 #EXTINF:-1 tvg-id="T9B.IN" tvg-logo="https://cdn1.tv9hindi.com/wp-content/themes/tv9bharavarsh/images/logo.png group-title="India",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
