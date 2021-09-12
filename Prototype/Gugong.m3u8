@@ -372,6 +372,8 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="N24.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png group-title="India",News 11 Bharat
+https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist_w7918377.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg group-title="India",Sudarshan News
