@@ -52,8 +52,6 @@ https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="International (India)",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/WION.in.png" group-title="International (India)",Wion
-https://f8e7y4c6.ssl.hwcdn.net/wion/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeemagic.png" group-title="International (India)",Zee Magic
 https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="International (India)",Zee Cafe
@@ -119,8 +117,7 @@ https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/20190530_183654.jpg" group-title="फ़िल्म",B4U Kadak
