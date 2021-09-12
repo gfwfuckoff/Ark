@@ -390,6 +390,8 @@ https://itvoign.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 https://rtmp.smartstream.video/fatehtv/fatehtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="FLO.IN" tvg-logo="https://static.epg.best/in/Flowers.in.png" group-title="India",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="GUL.IN" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg" group-title="India",Gulistan News
+https://rtmp.smartstream.video/gulistannews/gulistannews/chunklist.m3u8
 #EXTINF:-1 tvg-id="GNN.IN" tvg-logo="http://www.goodnesstv.in/images/logo.png" group-title="India",Goodness
 http://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
 #EXTINF:-1 tvg-id="GOD.Asia" tvg-logo="https://static.epg.best/us/GodTV.us.png" group-title="India",God TV Asia
@@ -402,6 +404,8 @@ https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/inde
 http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 #EXTINF:-1 tvg-id="JAM.IN" tvg-logo="https://janamtv.com/wp-content/uploads/2021/05/janamtv-online-logo@2x.png" group-title="India",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="JAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Jantvlogo3.png" group-title="India",JAN TV
+http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="India",Jaihind
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1 tvg-id="JNT.IN" tvg-logo="https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2020/03/jantantra-tv-new.png" group-title="India",Jantantra TV
@@ -410,8 +414,6 @@ https://thelegitpro.in/hls8/jantantratv/index.m3u8
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="JEE.IN" tvg-logo="https://image3.mouthshut.com/images/imagesp/925856227s.png" group-title="India",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 tvg-id="KAU.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="India",Kaumudy
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",IBC 24
 https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
 #EXTINF:-1 tvg-id="I27.IN" tvg-logo="http://inhnews.in/images/logos/logo.png" group-title="India",Inh24
@@ -452,6 +454,10 @@ https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u
 https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KAS.IN" tvg-logo="https://exchange4media.gumlet.io/news-photo/115092-pic41.jpg" group-title="India",Kasthuri
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="KAU.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="India",Kaumudy
+https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="KAH.IN" tvg-logo="https://www.kashishnews.com/front/images/logo-bg.png" group-title="India",Kashish News
+https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-logo-feb.png" group-title="India",Manorama News
@@ -550,6 +556,8 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w3050640
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 tvg-id="SAF.IN" tvg-logo="https://www.safaritvchannel.com/img/logo_new_small.png" group-title="India",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SAM.IN" tvg-logo="https://gumlet.assettype.com/saamtv/2021-08/0917f5c7-36b8-4fbf-9305-ea99e7313f3a/saamTVLogo.png" group-title="India",Saam
+https://8ovgdkm5rmpw-hls-live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg" group-title="India",Sudarshan News
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w818597005.m3u8
 #EXTINF:-1 tvg-id="SHM.IN" tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="India",Shemaroo
