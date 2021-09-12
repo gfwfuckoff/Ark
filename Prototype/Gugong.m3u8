@@ -442,7 +442,7 @@ http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/ind
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-id="NAM.IN" tvg-logo="https://nambikkaitv.com/images/logo.png" group-title="India",Nambikkai
 https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="18L.IN"  tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="्यूज़",News18
+#EXTINF:-1 tvg-id="18L.IN"  tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="India",News18
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="18E.IN" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/nw18assam-new.gif" group-title="India",News18 Assam North East
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
@@ -450,13 +450,13 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="18G.IN" tvg-logo="https://static.gujarati.news18.com/static-guju/uploads/2020/03/gujarati.png" group-title="India",News18 Gujarati
 https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="18J.IN" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2020/03/Hindi1.png" group-title="्यूज़",News18 Jharkhand
+#EXTINF:-1 tvg-id="18J.IN" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2020/03/Hindi1.png" group-title="India",News18 Jharkhand
 https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="18K.IN" tvg-logo="https://ik.imagekit.io/tv9media/kannada/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="India",News18 Kannda
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="18N.IN" tvg-id="18K.IN" tvg-logo="https://static.malayalam.news18.com/malayalam/uploads/2020/03/malyalam1.png" group-title="India",News18 Kerala
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="18L.IN"  tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/3/38/News18logo.jpg" group-title="्यूज़",News18 Lokmat
+#EXTINF:-1 tvg-id="18L.IN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/News18logo.jpg" group-title="India",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_2_av-p.m3u8
 #EXTINF:-1 tvg-id="18M.IN" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-chhattisgarh.gif" group-title="India",News18 MPCG
 https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8
