@@ -10,7 +10,7 @@ http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/i
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Pratidin_Time_logo.jpeg" group-title="অসমীয়া ",Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/nw18assam-new.gif" group-title="অসমীয়া ",News18 Assam North East
+#EXTINF:-1 tvg-id="18E.IN" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/nw18assam-new.gif" group-title="অসমীয়া ",News18 Assam North East
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Jonack_logo.png/revision/latest/smart/width/200/height/200?cb=20191219100522" group-title="অসমীয়া",Jonakk Tv
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
@@ -40,7 +40,7 @@ https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://rplus.rahul.ac.in/images/logo.png" group-title="খবর",R Plus News
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="সিনেমা",Enter 10 Bangla
+#EXTINF:-1 tvg-id="10B.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="সিনেমা",Enter 10 Bangla
 https://itvoign.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="সিনেম",Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
@@ -89,8 +89,8 @@ https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0800/c.m3u8
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gstv.in/wp-content/uploads/2019/03/cropped-cropped-logo-1.png" group-title="ગુજરાતી",GS TV
 https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="ગુજરાતી",CNBC Bajar 
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 tvg-id="CNB.IN" tvg-logo="https://static.epg.best/in/CNBCBajar.in.png" group-title="ગુજરાતી",CNBC Bajar 
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",VTV ગુજરાતી
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",Zee 24 Kalak
@@ -106,8 +106,8 @@ https://itvoign.multitvsolution.com/idvo/ddodia.m3u8
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kanaknews.com/wp-content/uploads/2015/11/kanak_logo11.png" group-title="ଓଡ଼ିଆ",Kanak News
 https://live.kanaknews.com:4443/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2018/08/Kalinga-TV-Logo-for-website.png" group-title="ଓଡ଼ିଆ",Kalinga TV
-https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Kag.IN" tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2018/08/Kalinga-TV-Logo-for-website.png" group-title="ଓଡ଼ିଆ",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.naxatranews.com/images/logos/logo.png" group-title="ଓଡ଼ିଆ",Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_400/https://nandighoshatv.com/wp-content/uploads/2020/07/Nandighosa-logo-2.png" group-title="ଓଡ଼ିଆ",Nandighosha
