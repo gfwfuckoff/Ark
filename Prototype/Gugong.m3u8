@@ -362,18 +362,18 @@ http://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@745543/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="GNT.IN" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="India",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="HAV.IN" tvg-logo="https://harvesttv.in/wp-content/uploads/2019/02/Harvest-ATE-121.png" group-title="India",Harvest
 https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-id="JAM.IN" tvg-logo="https://janamtv.com/wp-content/uploads/2021/05/janamtv-online-logo@2x.png" group-title="India",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="India",Jaihind
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="JAT.IN" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="न्यूज़",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="JEE.IN" tvg-logo="https://image3.mouthshut.com/images/imagesp/925856227s.png" group-title="India",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-id="KAU.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="India",Kaumudy
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-
 #EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",IBC 24
 https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
@@ -446,10 +446,6 @@ https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="SNN.IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/U30x7Y4.jpg" group-title="India",Sun TV (720p)
-#EXTVLCOPT:http-user-agent=stream
-http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
