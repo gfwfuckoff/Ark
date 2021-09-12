@@ -434,7 +434,7 @@ http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="KAG.IN" tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2018/08/Kalinga-TV-Logo-for-website.png" group-title="India",Kalinga TV
 https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="KAS.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Kasthuri-TV-logo.jpg" group-title="India",Kasthuri
+#EXTINF:-1 tvg-id="KAS.IN" tvg-logo="https://exchange4media.gumlet.io/news-photo/115092-pic41.jpg" group-title="India",Kasthuri
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
@@ -502,7 +502,7 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist.m3u8
 https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="PUM.IN" tvg-id="PRO.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="India",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 tvg-id="SRS.IN" tvg-logo="https://www.srisankaratv.com/img/logos/sankara-tv-logo-main.png" group-title="India",Sri Sankara
+#EXTINF:-1 tvg-id="SRS.IN" tvg-logo="https://www.srisankaratv.com/assets/images/logo.png group-title="India",Sri Sankara
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
