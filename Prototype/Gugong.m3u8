@@ -572,6 +572,8 @@ https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
 #EXTINF:-1 tvg-id="SHU.IN" tvg-logo="https://www.shubhtv.com/index_files/logo.png" group-title="India",Shubh TV
 https://d36pan7qptf8m6.cloudfront.net/out/v1/18d18862f40d41d1b2971653fcc194d8/index_4.m3u8
+#EXTINF:-1 tvg-id="SUB.IN" tvg-logo="https://www.subhavaarthatv.com/images/logo.png" group-title="India",Shubhavaarta TV
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="SVB.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/SVBCTVLogo.png/220px-SVBCTVLogo.png" group-title="India",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 #EXTINF:-1 tvg-id="THA.IN" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="India",Thanthi
