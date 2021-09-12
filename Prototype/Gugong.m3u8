@@ -364,6 +364,8 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
 #EXTINF:-1 tvg-ID="CAP.IN" tvg-logo="http://captainmedia.in/media/images/logo.png" group-title="India",Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 tvg-ID="CAK.IN" tvg-logo="https://www.ctvn.co.in/images/logos.gif" group-title="India",CTVN AKD Plus
+https://d2tpyc4tjwz6ij.cloudfront.net/app-21122-1100/ngrp:Obg94hum_all/playlist.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="India",Chardik Time
 https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
 #EXTINF:-1 tvg-id="CHW.IN" tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png" group-title="India",Channel Win
@@ -424,8 +426,10 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",IBC 24
 https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
-#EXTINF:-1 tvg-id="I27.IN" tvg-logo="http://inhnews.in/images/logos/logo.png" group-title="India",Inh 24
+#EXTINF:-1 tvg-id="I27.IN" tvg-logo="http://inhnews.in/images/logos/logo.png" group-title="India",INH 24
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="INA.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/India_Ahead_Logo.png" group-title="India",India Ahead
+https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INT.IN" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India",India Today
@@ -548,6 +552,8 @@ https://pcccw.github.io/Ark/M3U8/Token/IN/NSM.m3u8
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="PAR.IN" tvg-logo="https://www.parastvchannel.com/includes_new/paraslogo.png" group-title="India",Paras TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
+#EXTINF:-1 tvg-id="PRU.IN" tvg-logo="https://www.prudentmedia.in/assets/images/logo.png" group-title="India",Prudent
+https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 tvg-id="PRO.IN" tvg-logo="https://pratidintime.sgp1.digitaloceanspaces.com/2018/05/pratidin-time-logo.png" group-title="India",Protidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist.m3u8
 #EXTINF:-1 tvg-id="PUB.IN" tvg-logo="https://static.epg.best/in/PublicTV.in.png" group-title="India",Public TV Kannada
