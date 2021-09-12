@@ -417,8 +417,16 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="INP.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/PUNJAB_HIMACHAL_LOGO_300x150.png" group-title="India",India News Punjab
 https://itvoign.multitvsolution.com/hls/punjab_720p/index.m3u8
+#EXTINF:-1 tvg-id="INH.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/gujarat.png" group-title="India",India News Gujarat
+https://itvoign.multitvsolution.com/hls/gujarat_720p/index.m3u8
 #EXTINF:-1 tvg-id="INH.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" group-title="India",India News Haryana
 https://itvoign.multitvsolution.com/hls/haryana_720p/index.m3u8
+#EXTINF:-1 tvg-id="INR.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/rajasthan.png" group-title="India",India News Rajasthan
+https://itvoign.multitvsolution.com/hls/rajasthan_720p/index.m3u8
+#EXTINF:-1 tvg-id="INM.IN" tvg-logo="https://www.newsx.com/wp-content/uploads/2021/04/logo-01-192357-u8AcQupS.png" group-title="India",India News MPCG
+https://itvoign.multitvsolution.com/hls/mpcg_720p/index.m3u8
+#EXTINF:-1 tvg-id="INU.IN" tvg-logo="https://www.newsx.com/wp-content/uploads/2019/09/up-uk-6-104289-RhlOsVLc.png" group-title="India",India News UP
+https://itvoign.multitvsolution.com/hls/inup_720p/index.m3u8
 #EXTINF:-1 tvg-id="ISW.IN" tvg-logo="http://www.sadhna.com/images/2.jpg" group-title="India",Ishwar TV
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
@@ -451,6 +459,12 @@ https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NWL.IN" tvg-logo="https://newslivetv.com/wp-content/uploads/2019/04/logo-1-1-1.png" group-title="India",News Live
 https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="NNN.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/logo.png" group-title="India",News Nation
+https://pcccw.github.io/Ark/M3U8/Token/IN/NNN.m3u8
+#EXTINF:-1 tvg-id="NSU.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/og-up-uk.jpg" group-title="India",News State UP
+https://pcccw.github.io/Ark/M3U8/Token/IN/NSU.m3u8
+#EXTINF:-1 tvg-id="NSM.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/og-mp-cg.jpg" group-title="India",News State MPCG
+https://pcccw.github.io/Ark/M3U8/Token/IN/NSM.m3u8
 #EXTINF:-1 tvg-id="M1S.IN" tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2020/09/sharaddha-1.png" group-title="India",MH One Shraddha
 https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.m3u8
 #EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/16/Untitled-1_8.jpg" group-title="India",Manorama News
