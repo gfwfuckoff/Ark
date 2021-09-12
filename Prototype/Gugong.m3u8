@@ -502,10 +502,12 @@ https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/lin
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
 #EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://static.epg.best/in/SuryaMusic.in.png" group-title="India",Surya Music
-https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
 #EXTINF:-1 tvg-id="SUR.IN" tvg-logo="https://static.epg.best/in/Surya.in.png" group-title="India",Surya TV
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
+#EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://static.epg.best/in/SuryaMusic.in.png" group-title="India",Surya Music
+https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
+#EXTINF:-1 tvg-id="SHU.IN" tvg-logo="https://www.shubhtv.com/index_files/logo.png" group-title="India",Shubh TV
+https://d36pan7qptf8m6.cloudfront.net/out/v1/18d18862f40d41d1b2971653fcc194d8/index_4.m3u8
 #EXTINF:-1 tvg-id="SVB.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/SVBCTVLogo.png/220px-SVBCTVLogo.png" group-title="India",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 #EXTINF:-1 tvg-id="T9B.IN" tvg-logo="https://cdn1.tv9hindi.com/wp-content/themes/tv9bharavarsh/images/logo.png" group-title="India",TV9 Bharatvarsh
