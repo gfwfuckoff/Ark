@@ -444,8 +444,14 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Asian Movies",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZAT.IN" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/PORTRAIT/gZMfypMa.png" group-title="फ़िल्म",Zee Action
+https://f8e7y4c6.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-id="ZAC.IN" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Asian Movies",Zee Anmol Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:-1 tvg-id="ZBL.IN" tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="Asian Movies",Zee Bollywood
+https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:-1 tvg-id="ZCC.IN" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Asian Movies",Zee Classic 
+https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema Middle East
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Zee Cinema UK
