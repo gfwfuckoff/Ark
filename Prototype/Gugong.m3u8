@@ -351,8 +351,14 @@ https://abp-i.akamaihd.net/hls/live/796944/abpganga/master.m3u8
 http://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 #EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="India",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="ASI.IN" tvg-logo="https://static.epg.best/in/Asianet.in.png" group-title="India",Asianet
+https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8
+#EXTINF:-1 tvg-id="ASM.IN" tvg-logo="https://static.epg.best/in/AsianetMovies.in.png" group-title="India",Asianet Movies
+https://indo51.gcdn.co/MALYLAM-AsianetMovies/index.m3u8
+#EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://static.epg.best/in/AsianetPlus.in.png" group-title="India",Asianet Plus
+https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+https://indo51.gcdn.co/MALYLAM-Asianetnews/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/53/2e/b9/532eb9ab-e614-7972-8b4c-fc7726bd2f4d/source/512x512bb.jpg" group-title="India",Argus News
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF:-1 tvg-id="ANG.IN" tvg-logo="https://www.angeltv.org/images/logo.png" group-title="India",Angel TV India
