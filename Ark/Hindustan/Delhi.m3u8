@@ -100,6 +100,15 @@ https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2020/03/Hindi1.png" group-title="्यूज़",News 18 Jharkhand
 https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.bengali.news18.com/static-bengali/2020/03/bangla.png" group-title="খবর",News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.odia.news18.com/odia/uploads/2020/03/odia.png" group-title="ଓଡ଼ିଆ",News 18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" group-title="செய்தி",News 18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/tv9media/kannada/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="ಕನ್ನಡ",News 18 Kannda
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="्यूज़",Zee Rajasthan
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="न्यूज़",Zee News
