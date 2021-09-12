@@ -416,6 +416,8 @@ http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-ID="KAT.IN" tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="India",Khabarain Abhi Tak
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="KAG.IN" tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2018/08/Kalinga-TV-Logo-for-website.png" group-title="India",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="NTP.IN" tvg-logo="https://static.epg.best/in/NDTVPrime.in.png" group-title="India",NDTV Prime
