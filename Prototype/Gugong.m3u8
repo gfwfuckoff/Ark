@@ -352,6 +352,8 @@ https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="India",Chardik Time
 https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
+#EXTINF:-1 tvg-ID="CAZ.IN" tvg-logo="https://static.epg.best/in/CNBCAwaaz.in.png group-title="India",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="DAN.IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="India",Dangal TV
 https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
@@ -374,6 +376,8 @@ https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/inde
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="India",Jaihind
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="JNT.IN" tvg-logo="https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2020/03/jantantra-tv-new.png" group-title="India",Jantantra TV
+https://thelegitpro.in/hls8/jantantratv/index.m3u8
 #EXTINF:-1 tvg-id="JAT.IN" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="न्यूज़",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="JEE.IN" tvg-logo="https://image3.mouthshut.com/images/imagesp/925856227s.png" group-title="India",Jeevan TV
@@ -400,6 +404,8 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 #EXTINF:-1 tvg-ID="KAW.IN" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/kairali-1-1280x720.png" group-title="India",Kairali We
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-ID="KAT.IN" tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="India",Khabarain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
