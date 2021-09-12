@@ -328,6 +328,12 @@ https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
 
 #EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="9JW.IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="India",9X Jalwa
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
+#EXTINF:-1 tvg-id="9JK.IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="India",9X Jhakaas
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8
+#EXTINF:-1 tvg-id="9TA.IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="India",9X Tashan
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
 #EXTINF:-1 tvg-id="ABP.IN" tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="India",दिल्ली न्यूज़
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 #EXTINF:-1 tvg-id="AMR.IN" tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="India",Amrita
@@ -349,7 +355,7 @@ https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
 #EXTINF:-1 tvg-id="DAN.IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="India",Dangal TV
 https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/index.m3u8
 #EXTINF:-1 tvg-id="DDP.IN" tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="India",DD Punjabi
 https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 #EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
@@ -394,6 +400,8 @@ http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="M1S.IN" tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2020/09/sharaddha-1.png group-title="India",MH One Shraddha
+https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.ts
 #EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan
 https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/16/Untitled-1_8.jpg" group-title="India",Manorama News
