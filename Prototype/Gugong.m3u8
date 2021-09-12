@@ -420,6 +420,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://itvoign.multitvsolution.com/hls/punjab_720p/index.m3u8
 #EXTINF:-1 tvg-id="INH.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" group-title="India",India News Haryana
 https://itvoign.multitvsolution.com/hls/haryana_720p/index.m3u8
+#EXTINF:-1 tvg-id="ISW.IN" tvg-logo="http://www.sadhna.com/images/2.jpg" group-title="India",Ishwar TV
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-ID="KAP.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Kappa_TV.jpg/220px-Kappa_TV.jpg" group-title="India",Kappa TV
@@ -506,6 +508,10 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1 tvg-id="SAF.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
+#EXTINF:-1 tvg-id="SAP.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna Plus
+http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 tvg-id="SAF.IN" tvg-logo="https://www.safaritvchannel.com/img/logo_new_small.png" group-title="India",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg group-title="India",Sudarshan News
