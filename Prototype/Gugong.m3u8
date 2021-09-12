@@ -448,36 +448,34 @@ https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
 https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="KAS.IN" tvg-logo="https://exchange4media.gumlet.io/news-photo/115092-pic41.jpg" group-title="India",Kasthuri
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-logo-feb.png" group-title="India",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="MAL.IN" tvg-logo="https://www.malaimurasu.com/uploads/logo/logo_60abc7a318fb8.jpeg" group-title="India",Malaimurasu Seithigal
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="MAT.IN"  tvg-logo="https://www.malaimurasu.com/uploads/logo/logo_60abc7a318fb8.jpeg" group-title="India",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="MAS.IN" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="India",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="M1S.IN" tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2020/09/sharaddha-1.png" group-title="India",MH One Shraddha
+https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.m3u8
+#EXTINF:-1 tvg-id="MIR.IN" tvg-logo="https://static.epg.best/in/MirrorNow.in.png" group-title="India",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="NTP.IN" tvg-logo="https://static.epg.best/in/NDTVPrime.in.png" group-title="India",NDTV Prime
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-id="NK2.IN" tvg-logo="https://nktv24x7.com/wp-content/uploads/2021/04/NKtv_Logo_200x102-removebg-preview.png" group-title="India",NKTV 24
 https://rtmp.smartstream.video/nktvlive/nktvlive/chunklist.m3u8
-#EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="NAN.IN" tvg-logo="https://nandighoshatv.com/wp-content/uploads/2020/07/Nandighosa-logo-2.png" group-title="India",Nandighosha TV
 https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="NEL.IN" tvg-logo="https://prideeast.com/images/icon/client-1.png" group-title="India",North East Live
-https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="NWL.IN" tvg-logo="https://newslivetv.com/wp-content/uploads/2019/04/logo-1-1-1.png" group-title="India",News Live
-https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="NNN.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/logo.png" group-title="India",News Nation
-https://pcccw.github.io/Ark/M3U8/Token/IN/NNN.m3u8
-#EXTINF:-1 tvg-id="NSU.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/og-up-uk.jpg" group-title="India",News State UP
-https://pcccw.github.io/Ark/M3U8/Token/IN/NSU.m3u8
-#EXTINF:-1 tvg-id="NSM.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/og-mp-cg.jpg" group-title="India",News State MPCG
-https://pcccw.github.io/Ark/M3U8/Token/IN/NSM.m3u8
-#EXTINF:-1 tvg-id="M1S.IN" tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2020/09/sharaddha-1.png" group-title="India",MH One Shraddha
-https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.m3u8
-#EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/16/Untitled-1_8.jpg" group-title="India",Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 tvg-id="MAT.IN.IN"  tvg-logo="https://tv.mathrubhumi.com/polopoly_fs/7.309.1533966111!/image/image.png_gen/derivatives/default/image.png" group-title="India",Mathrubhumi News
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1 tvg-id="MAS.IN" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="India",Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-id="NAM.IN" tvg-logo="https://nambikkaitv.com/images/logo/New-Logo%20250X150.png" group-title="India",Nambikkai
 https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="NEX.IN" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India",News X
+https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
+#EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png" group-title="India",News 11 Bharat
+https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
 #EXTINF:-1 tvg-id="18L.IN"  tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="India",News18
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="18E.IN" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/nw18assam-new.gif" group-title="India",News18 Assam North East
@@ -506,14 +504,20 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="18P.IN" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-up-uk-for-web.gif" group-title="India",News18 Utaar Pradesh
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="NEX.IN" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India",News X
-https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="N24.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="NTB.BD" tvg-logo="https://static.epg.best/in/NewsTimeBangla.in.png" group-title="India",News Time Bangla
 https://itvoign.multitvsolution.com/idvo/newstimebangla.m3u8
-#EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png" group-title="India",News 11 Bharat
-https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 tvg-id="NWL.IN" tvg-logo="https://newslivetv.com/wp-content/uploads/2019/04/logo-1-1-1.png" group-title="India",News Live
+https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="NNN.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/logo.png" group-title="India",News Nation
+https://pcccw.github.io/Ark/M3U8/Token/IN/NNN.m3u8
+#EXTINF:-1 tvg-id="NSU.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/og-up-uk.jpg" group-title="India",News State UP
+https://pcccw.github.io/Ark/M3U8/Token/IN/NSU.m3u8
+#EXTINF:-1 tvg-id="NSM.IN" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/og-mp-cg.jpg" group-title="India",News State MPCG
+https://pcccw.github.io/Ark/M3U8/Token/IN/NSM.m3u8
+#EXTINF:-1 tvg-id="NEL.IN" tvg-logo="https://prideeast.com/images/icon/client-1.png" group-title="India",North East Live
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="PAR.IN" tvg-logo="https://www.parastvchannel.com/includes_new/paraslogo.png" group-title="India",Paras TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
 #EXTINF:-1 tvg-id="PRO.IN" tvg-logo="https://pratidintime.sgp1.digitaloceanspaces.com/2018/05/pratidin-time-logo.png" group-title="India",Protidin Time
@@ -522,8 +526,6 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist.m3u8
 https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="PUM.IN" tvg-id="PRO.IN" tvg-logo="https://static.epg.best/in/PublicMusic.in.png" group-title="India",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 tvg-id="MAL.IN" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="India",Malaimurasu Seithigal
-https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/malaimurasu/49992ade0624eda468a31e137996d044.sdp1/chunks.m3u8
 #EXTINF:-1 tvg-id="PUT.IN" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/04/Puthiya-thalaimurai.jpg" group-title="India",Puthiya Thalaimurai
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live3/chunks.m3u8
 #EXTINF:-1 tvg-id="GOA.IN" tvg-logo="http://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png" group-title="India",RDX Goa
