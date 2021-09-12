@@ -350,7 +350,7 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="BBW.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/170x120/09165booglebollywood.png" group-title="India",Boogle Bollywood 
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="10B.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="সিনেমা",Enter 10 Bangla
+#EXTINF:-1 tvg-id="10B.BD" tvg-logo="https://static.epg.best/in/Enterr10.in.png" group-title="India",Enter 10 Bangla
 https://itvoign.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="India",Chardik Time
 https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
@@ -368,7 +368,7 @@ https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="365.IN" tvg-logo="https://dy365.in/images/logo.png" group-title="India",DY 365
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/chunklist_w357114183.m3u8
-#EXTINF:-1 tvg-id="FAT.IN" tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/Untitled-3.gif" group-title="ਧਰਮ",Fateh TV 
+#EXTINF:-1 tvg-id="FAT.IN" tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/Untitled-3.gif" group-title="India",Fateh TV 
 https://rtmp.smartstream.video/fatehtv/fatehtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="FLO.IN" tvg-logo="https://static.epg.best/in/Flowers.in.png" group-title="India",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
@@ -388,7 +388,7 @@ https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1 tvg-id="JNT.IN" tvg-logo="https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2020/03/jantantra-tv-new.png" group-title="India",Jantantra TV
 https://thelegitpro.in/hls8/jantantratv/index.m3u8
-#EXTINF:-1 tvg-id="JAT.IN" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="न्यूज़",Janta TV
+#EXTINF:-1 tvg-id="JAT.IN" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="India",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="JEE.IN" tvg-logo="https://image3.mouthshut.com/images/imagesp/925856227s.png" group-title="India",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
