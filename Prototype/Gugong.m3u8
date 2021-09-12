@@ -409,6 +409,8 @@ http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",IBC 24
 https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
+#EXTINF:-1 tvg-id="I27.IN" tvg-logo="http://inhnews.in/images/logos/logo.png" group-title="India",Inh24
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INT.IN" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India",India Today
@@ -503,7 +505,7 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist.m3u8
 https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="PUM.IN" tvg-id="PRO.IN" tvg-logo="https://static.epg.best/in/PublicMusic.in.png" group-title="India",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 tvg-id="SRS.IN" tvg-logo="https://www.srisankaratv.com/assets/images/logo.png group-title="India",Sri Sankara
+#EXTINF:-1 tvg-id="SRS.IN" tvg-logo="https://www.srisankaratv.com/assets/images/logo.png" group-title="India",Sri Sankara
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
@@ -513,7 +515,7 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w3050640
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 tvg-id="SAF.IN" tvg-logo="https://www.safaritvchannel.com/img/logo_new_small.png" group-title="India",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg group-title="India",Sudarshan News
+#EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg" group-title="India",Sudarshan News
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w818597005.m3u8
 #EXTINF:-1 tvg-id="SHM.IN" tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="India",Shemaroo
 https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
@@ -559,7 +561,7 @@ https://f8e7y4c6.ssl.hwcdn.net/kalak/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-ID="ZHH.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-phh-45.png" group-title="India",Zee Punjab Haryana Himachal Pradesh
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-ID="ZRA.IN"  tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="India,Zee Rajasthan
+#EXTINF:-1 tvg-ID="ZRA.IN"  tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="India",Zee Rajasthan
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-ID="ZBJ.IN"  tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-bihar-jharkhand-45.png" group-title="India",Zee News Bihar Jharkhand
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
