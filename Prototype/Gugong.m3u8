@@ -480,9 +480,9 @@ https://see.lokshahi.live/live/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-logo-feb.png" group-title="India",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 tvg-id="MAL.IN" tvg-logo="https://www.malaimurasu.com/uploads/logo/logo_60abc7a318fb8.jpeg" group-title="India",Malaimurasu Seithigal
+#EXTINF:-1 tvg-id="MAL.IN" tvg-logo="https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg" group-title="India",Malaimurasu Seithigal
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="MAT.IN"  tvg-logo="https://www.malaimurasu.com/uploads/logo/logo_60abc7a318fb8.jpeg" group-title="India",Mathrubhumi News
+#EXTINF:-1 tvg-id="MAT.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mathrubhumi_News_Logo.jpg" group-title="India",Mathrubhumi News
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 tvg-id="MAS.IN" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="India",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
@@ -574,7 +574,7 @@ https://bnwdp4a6dp3a-hls-live.wmncdn.net/highnews/swaraj.stream/chunks.m3u8
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="RPH.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-#EXTINF:-1 tvg-id="RPL.IN" tvg-logo="http://rplus.rahul.ac.in/images/logo.png" group-title="India",R Plus News
+#EXTINF:-1 tvg-id="RPL.IN" tvg-logo="https://rplus.in/wp-content/uploads/2019/01/RPLUS-LOGO_SASP_small.png" group-title="India",R Plus News
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
 #EXTINF:-1 tvg-id="SAF.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
