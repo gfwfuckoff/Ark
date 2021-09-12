@@ -173,7 +173,7 @@ https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="ಕನ್ನಡ", TV9 Kannda
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/SVBCTVLogo.png/220px-SVBCTVLogo.png group-title="తెలుగు",SVBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/SVBCTVLogo.png/220px-SVBCTVLogo.png" group-title="తెలుగు",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="తెలుగు",TV9 Telugu News
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
