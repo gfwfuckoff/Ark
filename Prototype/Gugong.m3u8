@@ -366,18 +366,24 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan
 https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+#EXTINF:-1 tvg-id="MAS.IN" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="India",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-id="NEX.IN" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India",News X
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="N24.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg group-title="India",Sudarshan News
+https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w818597005.m3u8
 #EXTINF:-1 tvg-id="SHM.IN" tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="India",Shemaroo
 https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="SAD.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
 #EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="T9B.IN" tvg-logo="https://cdn1.tv9hindi.com/wp-content/themes/tv9bharavarsh/images/logo.png group-title="India",TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="India",TV9 Telugu News
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="UTG.IN" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="India",Utsav Gold
