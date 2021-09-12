@@ -782,8 +782,53 @@ https://i.mjh.nz/nz/tv.trackside1.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png" group-title="Sports",TAB Trackside 2
 https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
 
-#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Europe",ITV(UK)
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="Europe",BBC 1
+https://cdnuk001.broadcastcdn.net/KUK-BBC1-107/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="Europe",BBC 2
+https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="Europe",BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="Europe",Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBC.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="Europe",CBBC
+https://cdnuk001.broadcastcdn.net/KUK-CBBC/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="Europe",CBeebies
+https://cdnuk001.broadcastcdn.net/KUK-CBEEBIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="Europe",Flim 4
+https://cdnuk001.broadcastcdn.net/KUK-FILM4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4MU.UK" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="Europe",4 Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+#EXTINF:-1 tvg-id="E4.UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="Europe",E4
+https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4MO.UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="Europe",More 4
+https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="Europe",Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="5ST.UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="Europe",5 Star
+https://cdnuk001.broadcastcdn.net/KUK-5STAR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5US.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="Europe",5 USA
+https://cdnuk001.broadcastcdn.net/KUK-5USA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5SE.UK" tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="Europe",5 Select
+https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Europe",ITV
+https://cdnuk001.broadcastcdn.net/KUK-ITV-107/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="Europe",ITV2
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="Europe",ITV3
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="Europe",ITV4
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITB.UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" group-title="Europe",ITV Be
+https://cdnuk001.broadcastcdn.net/KUK-ITVBE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="Europe",CITV
+https://cdnuk001.broadcastcdn.net/KUK-CITV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DAV.UK" tvg-logo="https://static.epg.best/gb/Dave.uk.png" group-title="Europe",Dave HD
+https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DJV.UK" tvg-logo="https://static.epg.best/gb/DaveJaVu.uk.png" group-title="Europe",Dave JA Vu
+https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/tracks-v1a1/mono.m3u
+
 #EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Europe",France 3
