@@ -19,7 +19,7 @@ http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-logo="https://theboss.in/wp-content/uploads/2016/06/logo-1.png" group-title="பொழுதுபோக்கு",Boss TV
 http://bosstv4.chennaistream.net/live/bosstvlive/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://theboss.in/wp-content/uploads/2016/06/logo-1.png" group-title="பொழுதுபோக்கு",Captain TV
+#EXTINF:-1 tvg-logo="http://captainmedia.in/media/images/logo.png" group-title="பொழுதுபோக்கு",Captain TV
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3APPmFw.png" group-title="பொழுதுபோக்கு",CSK TV 
 http://185.105.4.244:1935/livesp/csktv1/playlist.m3u8
@@ -76,7 +76,7 @@ http://206.47.41.166:8080/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_lxlDzVuFMw/maxresdefault.jpg" group-title="பொழுதுபோக்கு",Thirumalai
 https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vasanth.tv/wp-content/uploads/2018/07/VASANTH-TV-LOGO-FINAL-1.png" group-title="தமிழ்",Vasanth TV
-http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.velichamtv.org/velicham/wp-content/uploads/2018/04/Velicham-WEb.png" group-title="தமிழ்",Velicham
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="தமிழ்",Vendharm
@@ -136,7 +136,7 @@ https://ibcsiluvai-origin.ibctamil.com/transcode/ibcsiluvai_mid.m3u8
 #EXTINF:-1 tvg-logo="http://jeyamtv.in/wp-content/uploads/2020/01/jeyam-tv-logo-e1581244005299.png" group-title="மதம்",Jeyam TV
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 #EXTINF:-1 tvg-logo="https://www.madhatv.in/images/logo.png" group-title="மதம்",Madha
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/playlist.m3u8
+http://cdn.clive.in:1935/madhatv/madhatv.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.myjesus.tv/index_htm_files/596@2x.jpg" group-title="மதம்",My Jesus TV
 http://clicklivestream.net:1935/live/mjtv/mjtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nakkubetta.tv/wp-content/themes/nakkubetta/assets/img/nakkubetta-logo.png" group-title="மதம்",Nakkubetta tv
