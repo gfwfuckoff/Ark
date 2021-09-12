@@ -399,6 +399,9 @@ http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="India",Jaihind
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+
+http://103.199.161.254/Content/Thanthi/Live/Channel(Thanthi)/index.m3u8
+Thanthi
 #EXTINF:-1 tvg-id="JNT.IN" tvg-logo="https://d274vvfz1d36ey.cloudfront.net/wp-content/uploads/2020/03/jantantra-tv-new.png" group-title="India",Jantantra TV
 https://thelegitpro.in/hls8/jantantratv/index.m3u8
 #EXTINF:-1 tvg-id="JAT.IN" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="India",Janta TV
@@ -519,9 +522,17 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist.m3u8
 https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="PUM.IN" tvg-id="PRO.IN" tvg-logo="https://static.epg.best/in/PublicMusic.in.png" group-title="India",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="MAL.IN" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="India",Malaimurasu Seithigal
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/malaimurasu/49992ade0624eda468a31e137996d044.sdp1/chunks.m3u8
+#EXTINF:-1 tvg-id="PUT.IN" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/04/Puthiya-thalaimurai.jpg" group-title="India",Puthiya Thalaimurai
+https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live3/chunks.m3u8
+#EXTINF:-1 tvg-id="GOA.IN" tvg-logo="http://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png" group-title="India",RDX Goa
+http://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="SRS.IN" tvg-logo="https://www.srisankaratv.com/assets/images/logo.png" group-title="India",Sri Sankara
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
-#EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
+#EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:h-28/1614673994603df84a8c4d7.png" group-title="India",Republic Bangala
+https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="RPH.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="SAF.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist_w30506406.m3u8
@@ -545,6 +556,8 @@ https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8
 https://d36pan7qptf8m6.cloudfront.net/out/v1/18d18862f40d41d1b2971653fcc194d8/index_4.m3u8
 #EXTINF:-1 tvg-id="SVB.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/SVBCTVLogo.png/220px-SVBCTVLogo.png" group-title="India",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+#EXTINF:-1 tvg-id="THA.IN" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="India",Thanthi
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="T9B.IN" tvg-logo="https://cdn1.tv9hindi.com/wp-content/themes/tv9bharavarsh/images/logo.png" group-title="India",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="TV9.IN" tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="India",TV9 Telugu News
