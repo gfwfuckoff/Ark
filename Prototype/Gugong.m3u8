@@ -384,6 +384,8 @@ http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 tvg-id="MAS.IN" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="India",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="18K.IN" tvg-logo="https://static.malayalam.news18.com/malayalam/uploads/2020/03/malyalam1.png" group-title="India",News18 Kerala
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="NEX.IN" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India",News X
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="N24.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
