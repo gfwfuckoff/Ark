@@ -553,7 +553,7 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
 #EXTINF:-1 tvg-id="ZZK.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-24-kalak-small-97x45.png" group-title="ગુજરાતી",Zee 24 Kalak
 https://f8e7y4c6.ssl.hwcdn.net/kalak/index.m3u8
 #EXTINF:-1 tvg-ID="ZKE.IN" tvg-logo="https://zeekeralam.zee5.com/wp-content/uploads/sites/29/2020/07/zee-kerlam-1.png" group-title="India",Zee Keralam
-https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/index.m3u8
+#https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 #EXTINF:-1 tvg-ID="ZMR.IN" tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="India ",Zee Marathi
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-ID="ZHH.IN" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-phh-45.png" group-title="India",Zee Punjab Haryana Himachal Pradesh
