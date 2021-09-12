@@ -172,7 +172,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="संगीत",Big Magic
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="संगीत",Big Ganga
+#EXTINF:-1 tvg-id="BGG.IN" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="संगीत",Big Ganga
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
@@ -193,8 +193,6 @@ https://live.hungama.com/linear/artist-aloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WowMusic.in.png" group-title="संगीत",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://channeldivya.com/wp-content/uploads/2018/12/logo.png" group-title="धर्म",दिव्या
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/Hare_Krishna_TV_new_roku.jpg" group-title="धर्म",Hare Krshna
 http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
 #EXTINF:-1 tvg-logo="https://www.jusbroadcasting.com/wp-content/uploads/2016/09/JUS-HINDI-LOGO-WHITE-FINAL_4.png" group-title="धर्म",Jushindi
