@@ -383,6 +383,8 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="C18.IN" tvg-logo="https://static.epg.best/in/CNBCBajar.in.png" group-title="India",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="CBH.IN" tvg-logo="https://cnewsbharat.com/dist/img/cnews-logo.png" group-title="India",C News Bharat
+https://imagetv.in/hls10/cnews/index.m3u8
 #EXTINF:-1 tvg-id="DAN.IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="India",Dangal TV
 https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 tvg-ID="DDN.IN" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="India",DD National 
