@@ -376,6 +376,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/index.m3u
 https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 #EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="DIG.IN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dighvijay-tv-24x7-news-channel-logo-300x300.jpg" group-title="India",Dighvijay
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DSH.IN" tvg-logo="https://dishatv.com/img/logo.png" group-title="India",Disha TV
 https://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="365.IN" tvg-logo="https://dy365.in/images/logo.png" group-title="India",DY 365
