@@ -352,6 +352,8 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/53/2e/b9/532eb9ab-e614-7972-8b4c-fc7726bd2f4d/source/512x512bb.jpg" group-title="India",Argus News
 https://live.argusnews.in/hls/argustv.m3u8
+#EXTINF:-1 tvg-id="ANG.IN" tvg-logo="https://www.angeltv.org/images/logo.png" group-title="India",Angel TV India
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
 #EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="India",Balle Balle
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BIG.IN" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="India",Big Magic
