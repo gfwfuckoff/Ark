@@ -341,7 +341,9 @@ https://indo51.gcdn.co/MALYLAM-AsianetMovies/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://static.epg.best/in/AsianetPlus.in.png" group-title="India",Asianet Plus
 https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="India",Asianet News
-https://indo51.gcdn.co/MALYLAM-Asianetnews/index.m3u8
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
+#EXTINF:-1 tvg-id="ASS.IN" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="India",Asianet Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/53/2e/b9/532eb9ab-e614-7972-8b4c-fc7726bd2f4d/source/512x512bb.jpg" group-title="India",Argus News
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF:-1 tvg-id="ANG.IN" tvg-logo="https://www.angeltv.org/images/logo.png" group-title="India",Angel TV India
@@ -364,6 +366,8 @@ https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/in
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-ID="CHK.IN" tvg-logo="https://timetv.news/wp-content/uploads/2021/07/logo-272x90-1.png" group-title="India",Chardik Time
 https://443-1.autopo.st/100/ckmedia/TV2/chunks.m3u8
+#EXTINF:-1 tvg-id="CHW.IN" tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png" group-title="India",Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-ID="CAZ.IN" tvg-logo="https://static.epg.best/in/CNBCAwaaz.in.png" group-title="India",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="CNB.IN" tvg-logo="https://static.epg.best/in/CNBCBajar.in.png" group-title="India",CNBC Bajar 
@@ -420,7 +424,7 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",IBC 24
 https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
-#EXTINF:-1 tvg-id="I27.IN" tvg-logo="http://inhnews.in/images/logos/logo.png" group-title="India",Inh24
+#EXTINF:-1 tvg-id="I27.IN" tvg-logo="http://inhnews.in/images/logos/logo.png" group-title="India",Inh 24
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
@@ -464,6 +468,8 @@ http://live.agmediachandigarh.com/KRISHNAVAANI/cdb4d5121f9b2fa38a5e58ce4284414e.
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="KAH.IN" tvg-logo="https://www.kashishnews.com/front/images/logo-bg.png" group-title="India",Kashish News
 https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8
+#EXTINF:-1 tvg-id="LOK.IN" tvg-logo="https://www.lokshahi.live/wp-content/uploads/2020/12/logo-png-01.png" group-title="India",Lokshahi
+https://see.lokshahi.live/live/index.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-logo-feb.png" group-title="India",Manorama News
@@ -474,6 +480,8 @@ https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 tvg-id="MAS.IN" tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="India",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="MAD.IN" tvg-logo="https://www.madhatv.in/images/logo.png" group-title="India",Madha
+http://cdn.clive.in:1935/madhatv/madhatv.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-id="M1S.IN" tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2020/09/sharaddha-1.png" group-title="India",MH One Shraddha
 https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.m3u8
 #EXTINF:-1 tvg-id="MIR.IN" tvg-logo="https://static.epg.best/in/MirrorNow.in.png" group-title="India",Mirror Now
@@ -552,6 +560,8 @@ https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live3/chunks.m3u8
 http://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="SRS.IN" tvg-logo="https://www.srisankaratv.com/assets/images/logo.png" group-title="India",Sri Sankara
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 tvg-id="SWA.IN" tvg-logo="https://swarajdigital.in/themes/swaraj-angular/assets/assets/images/logos/logo.pngg" group-title="India",Swaraj Express SMBC
+https://bnwdp4a6dp3a-hls-live.wmncdn.net/highnews/swaraj.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:h-28/1614673994603df84a8c4d7.png" group-title="India",Republic Bangala
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="RPH.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
