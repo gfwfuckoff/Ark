@@ -354,17 +354,24 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 #EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="FLO.IN" tvg-logo="https://www.asianetmobiletv.com/channels/Flowers.png" group-title="India",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-id="GNT.IN" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="India",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
-#EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",इंडिया टीवी
+#EXTINF:-1 tvg-id="I24.IN" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="India",IBC 24
 https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
-    
 #EXTINF:-1 tvg-id="IND.IN" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="India",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INT.IN" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-ID="KAI.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png" group-title="India",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-ID="KNP.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Kairali_WE.jpg" group-title="India",Kairali People
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-ID="KAW.IN" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/kairali-1-1280x720.png" group-title="India",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-id="NDT.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
