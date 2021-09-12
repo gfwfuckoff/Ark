@@ -8,8 +8,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
-https://viacom-b.multitvsolution.com/viacomhls/ddnational_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="मनोरंजन",Dangal TV
@@ -17,9 +15,6 @@ https://itvoign.multitvsolution.com/idvo/dangal_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="मनोरंजन",Manoranjan Tv
 https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
-
-#EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title=""Hindustan(বাংলা)",Enter 10 আনন্দ
-https://itvoign.multitvsolution.com/idvo/enter10_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="मनोरंजन",Zee TV ME
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/index.m3u8
@@ -38,6 +33,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/medium_16_9.jpg" group-title="मनोरंजन",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
+https://cdn.live.shemaroome.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1631404992%7Eexp%3D1631415792%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dd39c595edf711071aab0340a0ef6b0a7c57dcb1ea2f40a40156daee253de6076
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
@@ -135,9 +132,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="फ़िल्म",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="फ़िल्म",Shemaroo
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="फ़िल्म",Shemaroo Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="फ़िल्म",Zee Anmol Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_819/PORTRAIT/gZMfypMa.png" group-title="फ़िल्म",Zee Action
@@ -251,7 +248,7 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 #EXTINF:-1 tvg-logo="http://www.punjabizindabad.com/images/logo.png" group-title="मनोरंजन".Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Punjabi/5bed7f1ca609d2ecf700001d/large_16_9.jpg" group-title="मनोरंजनShemaroo Punjabi TV
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="मनोरंजन",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="मनोरंजन", Lollywood
