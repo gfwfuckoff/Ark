@@ -590,8 +590,10 @@ https://vidcdn.vidgyor.com/tv9gujarati-origin/live/tv9gujarati-origin/live4/chun
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="T9M.IN" tvg-logo="https://images.tv9marathi.com/wp-content/themes/tv9marathi/images/TV9Marathi57x57.png" group-title="India",TV9 Kannda
 https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live3/chunks.m3u8
-#EXTINF:-1 tvg-id="UTG.IN" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="India",Utsav Gold
+#EXTINF:-1 tvg-id="UTG.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Utsav_Gold_Logo.jpg" group-title="India",Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-id="WAH.IN" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/678ea5b5-303a-4102-b1bc-fa75e0dba214.jpg" group-title="India",Wah Punjabi
+http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="VTV.IN" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="India",VTV Gujarati
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist.m3u8
 #EXTINF:-1 tvg-id="VAS.IN" tvg-logo="https://vasanth.tv/wp-content/uploads/2018/07/VASANTH-TV-LOGO-FINAL-1.png" group-title="India",Vasanth TV
