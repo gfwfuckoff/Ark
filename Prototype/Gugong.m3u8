@@ -336,6 +336,14 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
 #EXTINF:-1 tvg-id="ABP.IN" tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="India",दिल्ली न्यूज़
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
+#EXTINF:-1 tvg-id="ABM.IN" tvg-logo="https://static.abplive.com/frontend/images/nw-marathi.png" group-title="India",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:-1 tvg-id="ABA.IN" tvg-logo="https://static.abplive.com/frontend/images/nw-bengali.png" group-title="India",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 tvg-id="ABM.IN" tvg-logo="https://static.abplive.com/frontend/images/nw-gujarati.png" group-title="India",ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:-1 tvg-id="ABG.IN" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/08/abp.jpg" group-title="India",ABP Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/master.m3u8
 #EXTINF:-1 tvg-id="AMR.IN" tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="India",Amrita
 http://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 #EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://static.epg.best/in/AajTak.in.png" group-title="India",Aaj Tak
@@ -348,6 +356,8 @@ https://live.argusnews.in/hls/argustv.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BIG.IN" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="India",Big Magic
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="BGG.IN" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="India",Big Ganga
+https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="BBW.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/170x120/09165booglebollywood.png" group-title="India",Boogle Bollywood 
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="10B.BD" tvg-logo="https://static.epg.best/in/Enterr10.in.png" group-title="India",Enter 10 Bangla
