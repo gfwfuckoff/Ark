@@ -328,11 +328,11 @@ https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
 
 #EXTINF:-1 tvg-id="9XM.IN" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="India",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="9JW.IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="India",9X Jalwa
+#EXTINF:-1 tvg-id="9JW.IN" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="India",9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
-#EXTINF:-1 tvg-id="9JK.IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="India",9X Jhakaas
+#EXTINF:-1 tvg-id="9JK.IN" tvg-logo="https://static.epg.best/in/9XJhakaas.in.png" group-title="India",9X Jhakaas
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJhakaas/9XJhakaas.isml/index.m3u8
-#EXTINF:-1 tvg-id="9TA.IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="India",9X Tashan
+#EXTINF:-1 tvg-id="9TA.IN" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="India",9X Tashan
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
 #EXTINF:-1 tvg-id="ABP.IN" tvg-logo="https://static.epg.best/in/ABPNews.in.png" group-title="India",दिल्ली न्यूज़
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
