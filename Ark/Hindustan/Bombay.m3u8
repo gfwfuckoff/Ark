@@ -29,8 +29,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.bengali.news18.com/static-bengali/2020/03/bangla.png" group-title="খবর",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.independent24.com/assets/img/independent_tv.png" group-title="খবর",News 24
-https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/NewsTimeBangla.in.png" group-title="খবর",News Time Bangla
 https://itvoign.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://rplus.rahul.ac.in/images/logo.png" group-title="খবর",R Plus News
@@ -66,7 +64,7 @@ http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/khushboo-bangla-tv-channel-logo-150x150.jpg" group-title="বাংলা",Khusboo Bangla
 https://itvoign.multitvsolution.com/idvo/khushboo_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jadurbakso.com/wp-content/uploads/2019/03/ktv-croped.pngg" group-title="বাংলা",KTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jadurbakso.com/wp-content/uploads/2019/03/ktv-croped.png" group-title="বাংলা",KTV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://madanichannel.tv/img/logo.png" group-title="বাংলা",Madani TV Bengali
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
@@ -199,7 +197,7 @@ http://cdn2.jazztv.pk:8085/jazzauth/DawnNews-152/playlist.m3u8
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aryqtv.tv/wp-content/uploads/2018/04/ARY-QTV-Logo.jpg" group-title="مذہب",ARY QTV
 https://stream.arylive.com/QtvLive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png" group-title="مذہب",Channel Win
+#EXTINF:-1 tvg-id="CHW.IN" tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png" group-title="مذہب",Channel Win
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2004.png" group-title="مذہب",Imamhussein TV 4 (Urdu)
 https://ur.imamhusseintv.com/live/ih4.m3u8
