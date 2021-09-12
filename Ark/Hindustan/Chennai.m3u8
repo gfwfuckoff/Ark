@@ -149,8 +149,6 @@ https://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="மதம்",Sivan TV
 https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="மதம்",SVBC 2
-https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ayushtv.com/assets/images/ayush-tv-logo.png" group-title="ಕನ್ನಡ",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
@@ -175,7 +173,7 @@ https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="ಕನ್ನಡ", TV9 Kannda
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="తెలుగు",SVBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/SVBCTVLogo.png/220px-SVBCTVLogo.png group-title="తెలుగు",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/TV9.in.png" group-title="తెలుగు",TV9 Telugu News
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
@@ -194,8 +192,7 @@ http://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="മലയാളം",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="മലയാളം",Asianet News
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="മലയാളം",ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-rosbowl.png" group-title="മലയാളം",ACV Rosebowl
@@ -250,10 +247,8 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/16/Untitled-1_8.jpg" group-title="മലയാളം",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/news-photo/92907-MazhavilManorama.jpg" group-title="മലയാളം",Mazhavil Manorama
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Mediaone_Logo.png" group-title="മലയാളം",Media One
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MtktZBL.jpg" group-title="മലയാളം",Media Net Adimaly
 http://150.242.21.2/medianet.m3u8
 #EXTINF:-1 tvg-logo="https://static.malayalam.news18.com/malayalam/uploads/2020/03/malyalam1.png" group-title="മലയാളം",News18 Kerala
