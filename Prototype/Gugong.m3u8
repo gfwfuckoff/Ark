@@ -386,6 +386,10 @@ https://kmc.ibc24.in:8443/hlsme/livestream.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="INT.IN" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="India",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="INP.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/PUNJAB_HIMACHAL_LOGO_300x150.png" group-title="India",India News Punjab
+https://itvoign.multitvsolution.com/hls/punjab_720p/index.m3u8
+#EXTINF:-1 tvg-id="INH.IN" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" group-title="India",India News Haryana
+https://itvoign.multitvsolution.com/hls/haryana_720p/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-ID="KAP.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Kappa_TV.jpg/220px-Kappa_TV.jpg" group-title="India",Kappa TV
@@ -401,9 +405,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_
 #EXTINF:-1 tvg-id="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="M1S.IN" tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2020/09/sharaddha-1.png group-title="India",MH One Shraddha
-https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.ts
-#EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="India",Manoranjan
-https://itvoign.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/media_w1499850903_874.m3u8
 #EXTINF:-1 tvg-id="MOW.IN" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/16/Untitled-1_8.jpg" group-title="India",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 tvg-id="MAT.IN.IN"  tvg-logo="https://tv.mathrubhumi.com/polopoly_fs/7.309.1533966111!/image/image.png_gen/derivatives/default/image.png" group-title="India",Mathrubhumi News
@@ -416,6 +418,8 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="N24.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="India",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="NTB.BD" tvg-logo="https://static.epg.best/in/NewsTimeBangla.in.png" group-title="India",News Time Bangla
+https://itvoign.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png group-title="India",News 11 Bharat
 https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist_w7918377.m3u8
 #EXTINF:-1 tvg-id="RPB.IN" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="India",Republic Bharat
