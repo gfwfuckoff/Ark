@@ -454,6 +454,8 @@ https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u
 https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KAS.IN" tvg-logo="https://exchange4media.gumlet.io/news-photo/115092-pic41.jpg" group-title="India",Kasthuri
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="KRV.IN" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/fe50f8e6-91b8-4ece-b264-6d62360a6116.jpg" group-title="India",Krishna Vani
+http://live.agmediachandigarh.com/KRISHNAVAANI/cdb4d5121f9b2fa38a5e58ce4284414e.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="KAU.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="India",Kaumudy
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="KAH.IN" tvg-logo="https://www.kashishnews.com/front/images/logo-bg.png" group-title="India",Kashish News
