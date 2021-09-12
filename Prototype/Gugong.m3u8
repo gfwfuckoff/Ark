@@ -398,6 +398,8 @@ http://live.wmncdn.net/goodnesstv1/live1.stream/index.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@745543/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="GNT.IN" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="India",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="HAR.IN" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/ec141a41-4abd-4ef7-abe5-41ef3651139b.jpg" group-title="India",Hare Krsna
+https://rtmp.smartstream.video/HareKrsna/HareKrsna/chunklist.m3u8
 #EXTINF:-1 tvg-id="HAV.IN" tvg-logo="https://harvesttv.in/wp-content/uploads/2019/02/Harvest-ATE-121.png" group-title="India",Harvest
 https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HBT.IN" tvg-logo="http://www.hornbilltv.com/IMAGES/logo.png" group-title="India",Hornbill TV
