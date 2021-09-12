@@ -824,10 +824,26 @@ https://cdnuk001.broadcastcdn.net/KUK-ITVBE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="Europe",CITV
 https://cdnuk001.broadcastcdn.net/KUK-CITV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAV.UK" tvg-logo="https://static.epg.best/gb/Dave.uk.png" group-title="Europe",Dave HD
+#EXTINF:-1 tvg-id="DRA.UK" tvg-logo="https://static.epg.best/gb/Drama.uk.png group-title="Europe",Drama 
+https://cdnuk001.broadcastcdn.net/KUK-DRAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DAV.UK" tvg-logo="https://static.epg.best/gb/Dave.uk.png" group-title="Europe",Dave
 https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DJV.UK" tvg-logo="https://static.epg.best/gb/DaveJaVu.uk.png" group-title="Europe",Dave JA Vu
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/tracks-v1a1/mono.m3u
+#EXTINF:-1 tvg-id="FOD.UK" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="Europe",Food Network
+https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="QRU.UK" tvg-logo="https://static.epg.best/gb/QuestRed.uk.png" group-title="Europe",Quest Red
+https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RLY.UK" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="Europe",Really
+https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STV.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/150px-STV_logo_2014.png" group-title="Europe",STV
+https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FOR.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="Europe",Forces TV
+https://cdnuk001.broadcastcdn.net/KUK-FORCESTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="YES.UK" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png group-title="Europe",Yesterday
+https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SDh/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
