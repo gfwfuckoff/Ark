@@ -501,6 +501,8 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 https://itvoign.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1 tvg-id="N1B.IN" tvg-logo="https://www.news11.live/Image/logo_news11.png" group-title="India",News 11 Bharat
 https://cdn.smartstream.video/smartstream-us/news11/news11/chunklist.m3u8
+#EXTINF:-1 tvg-id="PAR.IN" tvg-logo="https://www.parastvchannel.com/includes_new/paraslogo.png" group-title="India",Paras TV
+https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
 #EXTINF:-1 tvg-id="PRO.IN" tvg-logo="https://pratidintime.sgp1.digitaloceanspaces.com/2018/05/pratidin-time-logo.png" group-title="India",Protidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/chunklist.m3u8
 #EXTINF:-1 tvg-id="PUB.IN" tvg-logo="https://static.epg.best/in/PublicTV.in.png" group-title="India",Public TV Kannada
