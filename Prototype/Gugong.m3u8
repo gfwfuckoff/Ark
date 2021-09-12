@@ -397,7 +397,7 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/nl/Zing.nl.png" group-title="India",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="SUN.IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/U30x7Y4.jpg" group-title="India",Sun TV (720p)
+#EXTINF:-1 tvg-id="SNN.IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/U30x7Y4.jpg" group-title="India",Sun TV (720p)
 #EXTVLCOPT:http-user-agent=stream
 http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 
