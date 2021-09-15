@@ -1108,3 +1108,5 @@ https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
 https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="ORB.BJ" tvg-logo="https://ortb.bj/storage/2020/02/logo2-1.png" group-title="Africa",ORTB
 https://edge3.vedge.infomaniak.com/livecast/ik:ortb/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORT.NE" tvg-logo="https://www.ortn.ne/wp-content/uploads/2019/12/LOGO-site-TS.png" group-title="Africa",ORTN
+http://iptv.repl.co/French/tele_sahel/
