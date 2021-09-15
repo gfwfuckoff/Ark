@@ -1110,3 +1110,5 @@ https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
 https://edge3.vedge.infomaniak.com/livecast/ik:ortb/chunklist.m3u8
 #EXTINF:-1 tvg-id="ORT.NE" tvg-logo="https://www.ortn.ne/wp-content/uploads/2019/12/LOGO-site-TS.png" group-title="Africa",ORTN
 http://iptv.repl.co/French/tele_sahel/
+#EXTINF:-1 tvg-id="CHA.TD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/td-tele-tchad-4848.jpg group-title="Africa",Télé Tchad
+https://strflasg.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
