@@ -1264,10 +1264,10 @@ http://41.213.129.46:8080/2.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.antenne.re/antenne/squelettes/assets/img/logo-ar2.png" group-title="Africa Islands",Antenne Réunion(La Réunion)
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="Burkina Faso",RTB
-https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgbin.com/17/7/25/imgbin-logo-television-channel-impact-tv-high-definition-television-others-BuT5pv2J8EZmD93DULrQjFpRk.jpg" group-title="Burkina Faso",Impac TV
-https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="Burkina Faso",RTB
+https://edge7.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.impacttele.tv/images/logo-impactv.jpg" group-title="Burkina Faso",Impac TV
+https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Cameroun",CRTV
 https://pcccw.github.io/IPTV/M3U8/Token/CRTV.m3u8
@@ -1391,6 +1391,8 @@ https://pcccw.github.io/IPTV/M3U8/Token/WFA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
 
+#EXTINF:-1 tvg-id="NCI.CI" tvg-logo="https://static.wixstatic.com/media/f8668c_8cf416367fb743378ec26c7e7978a318~mv2_d_1692_1295_s_2.png" group-title="Côte d’Ivoire",NCI
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d’Ivoire",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d’Ivoire",RTI 2
@@ -1466,11 +1468,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://chadatv.com/wp-content/themes/chadatv/images/logo.png" group-title="المغرب",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.medi1tv.com/ar/img/logo.gif" group-title="المغرب",Medi 1 Maghreb
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="المغرب",Medi 1 Maghreb
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.medi1tv.com/ar/img/logo.gif" group-title="المغرب",Medi 1 Afrique
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="المغرب",Medi 1 Afrique
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.medi1tv.com/ar/img/logo.gif" group-title="المغرب",Medi 1 Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="المغرب",Medi 1 Arabic
 https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telemaroc.tv/img/logo.png" group-title="المغرب",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
