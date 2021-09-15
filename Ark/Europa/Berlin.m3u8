@@ -351,7 +351,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Eurosport1.cz.png" group-title="Česká",Eurosport 1 Czech
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/DiscoveryChannel.cz.png group-title="Česká",Discovery
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/DiscoveryChannel.cz.png" group-title="Česká",Discovery
 http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Česká",FashionTV Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -1512,7 +1512,7 @@ https://n3.stv.livebox.sk/stv-tv/3b55cf6b9f2666f9be62f746654b9410/stv6.smil/chun
 http://nn1.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sk/JOJPlus.sk.png" group-title="Slovensko",Joj Plus
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Jojko.png group-title="Slovensko",TV Jojko
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Jojko.png" group-title="Slovensko",TV Jojko
 https://nn.geo.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Joj_Family_logo.png" group-title="Slovensko",Joj Family
 https://nn.geo.joj.sk/hls/family-540.m3u8
