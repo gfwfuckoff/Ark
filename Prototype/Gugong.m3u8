@@ -844,7 +844,7 @@ https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RLY.UK" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="UK",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STV.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/150px-STV_logo_2014.png" group-title="UK",STV
-https://cdnuk001.broadcastcdn.net/KUK-STV/tracks-v1a1/mono.m3u8
+https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="UK",Tiny Pop
 https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
