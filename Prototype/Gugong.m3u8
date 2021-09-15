@@ -86,8 +86,6 @@ http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="日韩",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="日韩",Chosun TV
-http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
 #EXTINF:-1 tvg-id="MBN.KR" tvg-logo="https://static.epg.best/kr/MBN.kr.png" group-title="日韩",MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 #EXTINF:-1 tvg-id="ONE.KR" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="日韩",One
