@@ -1096,3 +1096,5 @@ https://edge4.vedge.infomaniak.com/livecast/ik:eavsiontv/chunklist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-avc1_1200000=4-mp4a_65200_fra=1.m3u8
 #EXTINF:-1 tvg-id="KAL.GN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gn-kalac-tv-8933-768x576.jpg" group-title="Africa",Kalac TV
 https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/chunklist.m3u8
+#EXTINF:-1 tvg-id="CIS.GN" tvg-logo="https://www.cismedias.com/wp-content/uploads/2020/08/cropped-logo_Cismedias_ok-1-300x57.png" group-title="Africa",CIS TV
+http://senrtmp.dyndns.tv:1936/hls/cistv.m3u8
