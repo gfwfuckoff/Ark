@@ -1098,3 +1098,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espa
 https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CIS.GN" tvg-logo="https://www.cismedias.com/wp-content/uploads/2020/08/cropped-logo_Cismedias_ok-1-300x57.png" group-title="Africa",CIS TV
 http://senrtmp.dyndns.tv:1936/hls/cistv.m3u8
+#EXTINF:-1 tvg-id="RTB.BF" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="Africa",RTB
+https://edge7.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist.m3u8
+#EXTINF:-1 tvg-id="BF1.BF" tvg-logo="https://bf1.tv/images/logo-large.png" group-title="Africa",RTB
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
+#EXTINF:-1 tvg-id="IMP.BF" tvg-logo="https://www.impacttele.tv/images/logo-impactv.jpg" group-title="Africa",Impac TV
+https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="IMP.BF" tvg-logo="http://www.centraltv.fr/wp-content/uploads/savane-tv_logo.jpg" group-title="Africa",Savane TV
+https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
