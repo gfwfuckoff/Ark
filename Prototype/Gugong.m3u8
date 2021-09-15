@@ -15,7 +15,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="" group-title="Singapore",DD
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
 
-
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 #EXTINF:-1 tvg-id="CN.FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Français",CNews
 https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
 #EXTINF:-1 tvg-id="C8.FR" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
@@ -29,7 +36,11 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 #EXTINF:-1 tvg-id="GUI.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="EMC.FR" tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Français",TV5 Monde Asie
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 
 #EXTINF:-1 tvg-id="31.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8|X-Forwarded-For=212.102.42.207
@@ -807,18 +818,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
 #EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="Europe",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Europe",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="Europe",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="Europe",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
-https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
-#EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Europe",M6 International
-https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Europe",Channel One(Russia)
