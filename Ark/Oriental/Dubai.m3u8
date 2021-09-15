@@ -1435,7 +1435,7 @@ https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://libyaschannel.com/wp-content/uploads/2016/07/logo.png" group-title="ليبيا‎",Libya's Channel
 https://master.starmena-cloud.com/hls/libyas.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://libyaalhadath.net/wp-content/uploads/2019/08/logo-bart_00133.jpg group-title="ليبيا‎",Alhadath
+#EXTINF:-1 tvg-id="" tvg-logo="https://libyaalhadath.net/wp-content/uploads/2019/08/logo-bart_00133.jpg" group-title="ليبيا‎",Alhadath
 https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1216893369940676608/3uNY8_Bh_400x400.jpg" group-title="ليبيا‎",Libya Alaan
 http://82.212.74.5:8000/live/7727.m3u8
