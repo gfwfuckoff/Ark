@@ -1118,3 +1118,5 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision
 https://pcccw.github.io/IPTV/M3U8/Token/CRTV.m3u8
 #EXTINF:-1 tvg-id="CRN.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Africa",CRTV News
 https://pcccw.github.io/IPTV/M3U8/Token/CRTVN.m3u8
+#EXTINF:-1 tvg-id="GAB.GA" tvg-logo="https://gabontelevisions.ga/storage/ggtv-medias/icons/GabonPremiere.png" group-title="Africa",Gabon Premiere
+https://vps73918.serveur-vps.net/hls/ggtv.m3u8
