@@ -1082,7 +1082,7 @@ https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w178169595.m3u8
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV
 https://pcccw.github.io/Ark/M3U8/Token/SN/2ST.m3u8
-#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV
+#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://img.youtube.com/vi/0Inlllfnt3E/hqdefault.jpg" group-title="Africa",TFM
 https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
 #EXTINF:-1 tvg-id="SEN.SN" tvg-logo="https://sentv.acangroup.org/uploads/3406e15fca03408198976e3a076ff02b.png" group-title="Africa",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
@@ -1100,7 +1100,7 @@ https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/chunklist.m3u8
 http://senrtmp.dyndns.tv:1936/hls/cistv.m3u8
 #EXTINF:-1 tvg-id="RTB.BF" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="Africa",RTB
 https://edge7.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist.m3u8
-#EXTINF:-1 tvg-id="BF1.BF" tvg-logo="https://bf1.tv/images/logo-large.png" group-title="Africa",RTB
+#EXTINF:-1 tvg-id="BF1.BF" tvg-logo="https://bf1.tv/images/logo-large.png" group-title="Africa",BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="IMP.BF" tvg-logo="https://www.impacttele.tv/images/logo-impactv.jpg" group-title="Africa",Impac TV
 https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
