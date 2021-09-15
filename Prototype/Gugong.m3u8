@@ -14,33 +14,9 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Singapore",DD
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
+#EXTINF:-1 tvg-logo="" group-title="Singapore",Sun News
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
 
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1 tvg-id="CN.FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Français",CNews
-https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
-#EXTINF:-1 tvg-id="C8.FR" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
-https://pcccw.github.io/Ark/M3U8/Token/FR/C8.m3u8
-#EXTINF:-1 tvg-id="N12.FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ12
-https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
-#EXTINF:-1 tvg-id="LCP.FR" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
-https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
-#EXTINF:-1 tvg-id="TIJ.FR" tvg-logo="https://static.epg.best/fr/Tiji.fr.png" group-title="Français",Tiji
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 tvg-id="GUI.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="EMC.FR" tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6 International
-https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Français",TV5 Monde Asie
-https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 
 #EXTINF:-1 tvg-id="31.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8|X-Forwarded-For=212.102.42.207
@@ -881,6 +857,34 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Australia",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
+
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1 tvg-id="CN.FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Français",CNews
+https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
+#EXTINF:-1 tvg-id="C8.FR" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
+https://pcccw.github.io/Ark/M3U8/Token/FR/C8.m3u8
+#EXTINF:-1 tvg-id="N12.FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ12
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTINF:-1 tvg-id="LCP.FR" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
+https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-id="TIJ.FR" tvg-logo="https://static.epg.best/fr/Tiji.fr.png" group-title="Français",Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF:-1 tvg-id="GUI.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="EMC.FR" tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Français",TV5 Monde Asie
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AZ1.MX" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="Latino",Azteca Uno
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
