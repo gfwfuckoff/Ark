@@ -643,6 +643,11 @@ https://cdnuk001.broadcastcdn.net/CLOUDIETV-CAMPFIRETV/tracks-v1a1/mono.m3u8
 #EXTINF:1,Pub TV 
 https://cdnuk001.broadcastcdn.net/KUK-COZYPUBLOOP/tracks-v2a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR| FRANCE",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
 https://cdnuk001.broadcastcdn.net/KUK-BBC1-107/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 2
