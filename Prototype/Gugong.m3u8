@@ -1115,12 +1115,24 @@ https://strflasg.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="V4.CM" tvg-logo="https://www.vision4.tv/wp-content/uploads/2021/02/cropped-LOGO-VISION4-1536x1524.png" group-title="Africa",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision4.m3u8
 #EXTINF:-1 tvg-id="CRT.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Africa",CRTV
-https://pcccw.github.io/IPTV/M3U8/Token/CRTV.m3u8
+https://pcccw.github.io/IPTV/M3U8/Token/CM/CRTV.m3u8
 #EXTINF:-1 tvg-id="CRN.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Africa",CRTV News
-https://pcccw.github.io/IPTV/M3U8/Token/CRTVN.m3u8
+https://pcccw.github.io/IPTV/M3U8/Token/CM/CRTVN.m3u8
 #EXTINF:-1 tvg-id="GAB.GA" tvg-logo="https://gabontelevisions.ga/storage/ggtv-medias/icons/GabonPremiere.png" group-title="Africa",Gabon Premiere
 https://vps73918.serveur-vps.net/hls/ggtv.m3u8
 #EXTINF:-1 tvg-id="TVG.GG" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Africa",TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="RWA.RW" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Africa",Rwanda TV
 https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
+#EXTINF:-1 tvg-id="C2I.CM" tvg-logo="https://www.canal2international.net/images/logo.png" group-title="Africa",Canal 2 Internacional
+https://pcccw.github.io/IPTV/M3U8/Token/CM/C2I.m3u8
+#EXTINF:-1 tvg-id="10.CD" tvg-logo="https://i0.wp.com/10emeruetv.net/wp-content/uploads/2021/03/cropped-148226715_105731511553912_3814994172641617887_n.png" group-title="Africa",10 ème Rue
+http://ca.oraostream.com:8081/rdc-10emeruetv/ledirect/playlist.m3u8
+#EXTINF:-1 tvg-id="FLA.RW" tvg-logo="https://flash.rw/wp-content/uploads/2019/02/FLASH-BROADCASTING-BIG-LOGO.png" group-title="Africa",Flash TV
+http://80.241.215.175:1935/flashtv/flashtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TEL.RE" tvg-logo="http://files.gandi.ws/gandi77278/image/tvk.jpg" group-title="Africa",Télé Kréol
+https://pcccw.github.io/IPTV/M3U8/Token/RE/TEK.m3u8
+#EXTINF:-1 tvg-id="TES.CF" tvg-logo="https://www.telesud.com/og-image.jpg" group-title="Africa",Télésud
+https://pcccw.github.io/IPTV/M3U8/Token/CF/TES.m3u8
+#EXTINF:-1 tvg-id="TLS.TG" tvg-logo="https://tlsafrica.tg/wp-content/uploads/2020/11/TLS-Africa.png" group-title="Africa",TLS Africa
+https://pcccw.github.io/IPTV/M3U8/Token/TG/TLS.m3u8
