@@ -1072,9 +1072,9 @@ https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="RT1.CI" tvg-logo="https://www.rti.ci/_nuxt/img/21d594a.png" group-title="Africa",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NCI.CI" tvg-logo="http://pannelle.com/wp-content/uploads/2017/08/19023681_1911133029134418_6146583307942093104_o.jpg" group-title="Africa",NCI
+#EXTINF:-1 tvg-id="IVM.CI" tvg-logo="http://pannelle.com/wp-content/uploads/2017/08/19023681_1911133029134418_6146583307942093104_o.jpg" group-title="Africa",NCI
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8
-#EXTINF:-1 tvg-id="NOV.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/novelachannel.jpg" group-title="Africa",IVOIRE TV Music
+#EXTINF:-1 tvg-id="NOV.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/novelachannel.jpg" group-title="Africa",Novela
 https://video1.getstreamhosting.com:1936/8284/8284/chunklist_w1624520266.m3u8
 #EXTINF:-1 tvg-id="IVM.CI" tvg-logo="https://static.wixstatic.com/media/f8668c_8cf416367fb743378ec26c7e7978a318~mv2_d_1692_1295_s_2.png" group-title="Africa",IVOIRE TV Music
 https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w178169595.m3u8
