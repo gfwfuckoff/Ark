@@ -1104,5 +1104,7 @@ https://edge7.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="IMP.BF" tvg-logo="https://www.impacttele.tv/images/logo-impactv.jpg" group-title="Africa",Impac TV
 https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="IMP.BF" tvg-logo="http://www.centraltv.fr/wp-content/uploads/savane-tv_logo.jpg" group-title="Africa",Savane TV
+#EXTINF:-1 tvg-id="SAV.BJ" tvg-logo="http://www.centraltv.fr/wp-content/uploads/savane-tv_logo.jpg" group-title="Africa",Savane TV
 https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORB.BJ" tvg-logo="https://ortb.bj/storage/2020/02/logo2-1.png" group-title="Africa",ORTB
+https://edge3.vedge.infomaniak.com/livecast/ik:ortb/chunklist.m3u8
