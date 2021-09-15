@@ -784,76 +784,12 @@ https://i.mjh.nz/nz/tv.trackside1.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png" group-title="Sports",TAB Trackside 2
 https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
 
-#EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
-https://cdnuk001.broadcastcdn.net/KUK-BBC1-107/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 2
-https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBC.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
-https://cdnuk001.broadcastcdn.net/KUK-CBBC/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
-https://cdnuk001.broadcastcdn.net/KUK-CBEEBIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Flim 4
-https://cdnuk001.broadcastcdn.net/KUK-FILM4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="4MU.UK" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
+#EXTINF:-1 tvg-id="4MU.UK" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="Europe",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 tvg-id="E4.UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",E4
-https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="4MO.UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="UK",More 4
-https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="UK",Channel 5
-https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="5ST.UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="UK",5 Star
-https://cdnuk001.broadcastcdn.net/KUK-5STAR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5US.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",5 USA
-https://cdnuk001.broadcastcdn.net/KUK-5USA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5SE.UK" tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="UK",5 Select
-https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV
-https://cdnuk001.broadcastcdn.net/KUK-ITV-107/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="UK",ITV2
-https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="UK",ITV3
-https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV4
-https://cdnuk001.broadcastcdn.net/KUK-ITV4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ITB.UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" group-title="UK",ITV Be
-https://cdnuk001.broadcastcdn.net/KUK-ITVBE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UK",CITV
-https://cdnuk001.broadcastcdn.net/KUK-CITV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBR.UK" tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="UK",CBS Reality
-https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBJ.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CBS_Justice_2018.svg/1280px-CBS_Justice_2018.svg.png" group-title="UK",CBS Justice
-https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DRA.UK" tvg-logo="https://static.epg.best/gb/Drama.uk.png group-title="UK",Drama 
-https://cdnuk001.broadcastcdn.net/KUK-DRAMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DAV.UK" tvg-logo="https://static.epg.best/gb/Dave.uk.png" group-title="UK",Dave
-https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DJV.UK" tvg-logo="https://static.epg.best/gb/DaveJaVu.uk.png" group-title="UK",Dave JA Vu
-https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/tracks-v1a1/mono.m3u
-#EXTINF:-1 tvg-id="FOD.UK" tvg-logo="https://static.epg.best/gb/FoodNetwork.uk.png" group-title="UK",Food Network
-https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FOR.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="UK",Forces TV
-https://cdnuk001.broadcastcdn.net/KUK-FORCESTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="UK",POP Max
-https://cdnuk001.broadcastcdn.net/KUK-POPMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="QRU.UK" tvg-logo="https://static.epg.best/gb/QuestRed.uk.png" group-title="UK",Quest Red
-https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RLY.UK" tvg-logo="https://static.epg.best/gb/Really.uk.png" group-title="UK",Really
-https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STV.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/150px-STV_logo_2014.png" group-title="UK",STV
+#EXTINF:-1 tvg-id="STV.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/150px-STV_logo_2014.png" group-title="Europe",STV
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
-#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="UK",Tiny Pop
-https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
+#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="Europe",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="YES.UK" tvg-logo="https://static.epg.best/gb/Yesterday.uk.png group-title="UK",Yesterday
-https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Europe",France 3
@@ -930,8 +866,6 @@ https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For
 
 #EXTINF:-1 tvg-id="AZ1.MX" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="Latino",Azteca Uno
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="AZ7.MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="Latino",Azteca 7
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="Latino",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Latino",LA 1
@@ -942,8 +876,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-id="TLS.ES" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Latino",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-ID="TVN.CL" tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="Latino",TVN Chile
-http://unlimited1-cl.dps.live/tvn/tvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Latino",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="Latino",Globo
