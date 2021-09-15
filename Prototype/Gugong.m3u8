@@ -12,11 +12,6 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Singapore",DD
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
-#EXTINF:-1 tvg-logo="" group-title="Singapore",Sun News
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
-
 
 #EXTINF:-1 tvg-id="31.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8|X-Forwarded-For=212.102.42.207
@@ -51,7 +46,7 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TSX.TW" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="台湾",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png" group-title="台湾",華視新聞資訊
-http://seb.sason.top/sc/hsxw_fhd.m3u8
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCA_hK5eRICBdSOLlXKESvEg/live
 #EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="台湾",TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾",中天新聞
@@ -392,6 +387,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/index.m3u
 https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 #EXTINF:-1 tvg-id="DDS.IN" tvg-logo="https://static.epg.best/in/DDSports.in.png" group-title="India",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo=DDN.IN"" tvg-logo="https://static.epg.best/in/DDNews.in.png" group-title="India",DD News
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
 #EXTINF:-1 tvg-id="DIG.IN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dighvijay-tv-24x7-news-channel-logo-300x300.jpg" group-title="India",Dighvijay
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DSH.IN" tvg-logo="https://dishatv.com/img/logo.png" group-title="India",Disha TV
@@ -590,6 +587,8 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://8ovgdkm5rmpw-hls-live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="SUD.IN" tvg-logo="https://www.sudarshannews.in/images/logo.jpg" group-title="India",Sudarshan News
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w818597005.m3u8
+#EXTINF:-1 tvg-logo="SUN.IN" tvg-logo="https://static.epg.best/in/SunNews.in.png group-title="India",Sun News
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
 #EXTINF:-1 tvg-id="SHM.IN" tvg-logo="https://www.shemarooent.com/images/shemaroo-me.png" group-title="India",Shemaroo
 https://livechannel.shemaroome.com/linearplayout/linearplayout/linearplayout/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="SAD.IN" tvg-logo="http://www.sadhna.com/images/sadhnanew.gif" group-title="India",Sadhna
