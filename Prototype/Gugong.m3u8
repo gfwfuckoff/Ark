@@ -1027,6 +1027,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-id="MED.SA" tvg-logo="https://static.epg.best/sa/SaudiQuran.sa.png" group-title="Middle East",Medina TV(Saudi Arabia)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-id="IQR.SA" tvg-logo="https://static.epg.best/sa/IqraaTV.sa.png" group-title="Middle East",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Middle East",TRT 1(Turkey)
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -1066,8 +1068,6 @@ https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8|X-For
 
 #EXTINF:-1 tvg-id="MED.MA" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="Africa",Medi 1 Afrique
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="IQR.SA" tvg-logo="https://static.epg.best/sa/IqraaTV.sa.png" group-title="Africa",Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KTO.FR" tvg-logo="https://static.epg.best/fr/KTO.fr.png" group-title="Africa",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="RT1.CI" tvg-logo="https://www.rti.ci/_nuxt/img/21d594a.png" group-title="Africa",RTI 1
