@@ -755,7 +755,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://eu1-prod-images.disco-api.com/2020/11/30/0b0e0310-dd3a-47bf-a00d-1842b6124589.png" group-title="Documentary",Discovery+
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
-#EXTINF:-1 tvg-ID="L4K.Int" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png" group-title="Documentary",Love Nature
+#EXTINF:-1 tvg-ID="L4K.Int" tvg-logo="https://static.epg.best/nl/LoveNature.nl.png" group-title="Documentary",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
@@ -763,8 +763,10 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="Documentary",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TXP.Int" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png" group-title="Documentary",TravelXP
+#EXTINF:-1 tvg-id="TXP.Int" tvg-logo="https://static.epg.best/de/TravelXP.de.png" group-title="Documentary",TravelXP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TRU.Fr" tvg-logo="https://static.epg.best/mu/TraceUrban.mu.png" group-title="Documentary",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="111.PL" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png" group-title="Sports",Eleven Sports Polandia
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -1061,3 +1063,36 @@ https://livetv.farsiland.com/varzesh.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
 #EXTINF:-1 tvg-id="12.IL" tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="Middle East",Channel 12(Israel)
 https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8|X-Forwarded-For=87.239.255.120
+
+#EXTINF:-1 tvg-id="MED.MA" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="Africa",Medi 1 Afrique
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="IQR.SA" tvg-logo="https://static.epg.best/sa/IqraaTV.sa.png" group-title="Africa",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTO.FR" tvg-logo="https://static.epg.best/fr/KTO.fr.png" group-title="Africa",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="RT1.CI" tvg-logo="https://www.rti.ci/_nuxt/img/21d594a.png" group-title="Africa",RTI 1
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NCI.CI" tvg-logo="http://pannelle.com/wp-content/uploads/2017/08/19023681_1911133029134418_6146583307942093104_o.jpg" group-title="Africa",NCI
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8
+#EXTINF:-1 tvg-id="NOV.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/novelachannel.jpg" group-title="Africa",IVOIRE TV Music
+https://video1.getstreamhosting.com:1936/8284/8284/chunklist_w1624520266.m3u8
+#EXTINF:-1 tvg-id="IVM.CI" tvg-logo="https://static.wixstatic.com/media/f8668c_8cf416367fb743378ec26c7e7978a318~mv2_d_1692_1295_s_2.png" group-title="Africa",IVOIRE TV Music
+https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w178169595.m3u8
+#EXTINF:-1 tvg-id="VOX.CI" tvg-logo="https://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="Africa",VOX Africa
+https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV
+https://pcccw.github.io/Ark/M3U8/Token/SN/2ST.m3u8
+#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV
+https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
+#EXTINF:-1 tvg-id="SEN.SN" tvg-logo="https://sentv.acangroup.org/uploads/3406e15fca03408198976e3a076ff02b.png" group-title="Africa",Sen TV
+https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TFM.SN" tvg-logo="https://www.musicinafrica.net/sites/default/files/styles/profile_photo/public/images/music_professional_profile/201407/tfm.jpg" group-title="Africa",TFM
+https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
+#EXTINF:-1 tvg-id="TM1.ML" tvg-logo="https://www.tm1tv.com/wp-content/themes/tm1-tv/assets/img/logo.png" group-title="Africa",TM1
+https://pcccw.github.io/Ark/M3U8/Token/ML/TM1.m3u8
+#EXTINF:-1 tvg-id="EVA.GN" tvg-logo="https://groupeevasionguinee.info/wp-content/uploads/2021/04/LOGO-MASTER.png" group-title="Africa",Evasion TV
+https://edge4.vedge.infomaniak.com/livecast/ik:eavsiontv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ESP.GN" tvg-logo="https://www.espacetvguinee.info/wp-content/uploads/2020/06/TV-5-ANS%404x-3-2-1.png" group-title="Africa",Espace TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-avc1_1200000=4-mp4a_65200_fra=1.m3u8
+#EXTINF:-1 tvg-id="KAL.GN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gn-kalac-tv-8933-768x576.jpg" group-title="Africa",Kalac TV
+https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/chunklist.m3u8
