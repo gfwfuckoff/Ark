@@ -1088,8 +1088,6 @@ https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TFM.SN" tvg-logo="https://www.musicinafrica.net/sites/default/files/styles/profile_photo/public/images/music_professional_profile/201407/tfm.jpg" group-title="Africa",TFM
 https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
-#EXTINF:-1 tvg-id="TM1.ML" tvg-logo="https://www.tm1tv.com/wp-content/themes/tm1-tv/assets/img/logo.png" group-title="Africa",TM1
-https://pcccw.github.io/Ark/M3U8/Token/ML/TM1.m3u8
 #EXTINF:-1 tvg-id="EVA.GN" tvg-logo="https://groupeevasionguinee.info/wp-content/uploads/2021/04/LOGO-MASTER.png" group-title="Africa",Evasion TV
 https://edge4.vedge.infomaniak.com/livecast/ik:eavsiontv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ESP.GN" tvg-logo="https://www.espacetvguinee.info/wp-content/uploads/2020/06/TV-5-ANS%404x-3-2-1.png" group-title="Africa",Espace TV
