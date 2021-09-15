@@ -331,22 +331,17 @@ https://dcunilive139-lh.akamaihd.net/i/dclive_1@73131/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/CT1.cz.png" group-title="Česká",CT1
 http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaInternational.cz.png" group-title="Česká",Nova
-https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Nova2.cz.png" group-title="Česká",Nova 2
-https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/cze.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaGold.cz.png" group-title="Česká",Nova Gold
-https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaCinema.cz.png" group-title="Česká",Nova Cinema
-https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/NovaAction.cz.png" group-title="Česká",Nova Action
-https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_hq.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Ocko.cz.png" group-title="Česká",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/OckoExpres.cz.png" group-title="Česká",Ocko Express
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/OckoStar.cz.png" group-title="Česká",Ocko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/cz/OckoStar.cz.png" group-title="Česká",Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Filmbox.cz.png" group-title="Česká",FilmBox
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cz/Eurosport1.cz.png" group-title="Česká",Eurosport 1 Czech
@@ -423,8 +418,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6149/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6150/index.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" group-title="Français",France Info
-https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="Français",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RTFrance.fr.png" group-title="Français",RT Français
@@ -433,12 +426,12 @@ http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="Français",BFM 
-https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/profile_0/c0c2c096586f40bdbf2a1f518f2da1cc/chunklist_ssaiV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" group-title="Français",BFM Business
-https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&rebase=on
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Français",BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Français",BFM Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w689856501_b1464000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Français",BFM Littoral
@@ -479,26 +472,18 @@ https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Français",L'Equipe 21
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RMCdecouverte.fr.png" group-title="Français",RMC Decouverte
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ12
 https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ 12
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJHits.fr.png" group-title="Français",NRJ Hits
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/NRJHits.fr.png" group-title="Français",NRJ Hits
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 
@@ -536,38 +521,16 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.lci.fr/assets/images/logo_lci.png" group-title="Français",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="Français",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Français",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="Français",TF1 Séries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TFX.fr.png" group-title="Français",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
 https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Français",KTO
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/KTO.fr.png" group-title="Français",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
 https://pcccw.github.io/Ark/M3U8/Token/PSenat.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/6ter.fr.png" group-title="",6ter
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://photos.abweb.com/shared_ressources/logos/logo-rtl9.png" group-title="",RTL9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/W9.fr.png" group-title="Français",W9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Tiji.fr.png" group-title="Français",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/aerostar-tv.jpg" group-title="Français",Aerostar TV
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/aerostar-14365561/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.animauxtv.fr/images/logo.png" group-title="Français",Animaux
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.webmaster-gratuit.com/pict/tele-artpla.gif" group-title="Français",ArtPla TV
 http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
 
