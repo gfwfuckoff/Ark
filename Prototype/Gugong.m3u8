@@ -918,6 +918,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/CBSSports.ca.png" group-title="USA",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1 tvg-ID="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="USA",Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="USA",CMT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
@@ -934,26 +936,32 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="USA",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="USA",Newsmax
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="USA",Newsy
+https://newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/MAVTV.us.png" group-title="USA",MavTV
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-ID="My9.US" tvg-logo="https://static.epg.best/us/My9WWOR.us.png" group-title="USA",My9 TV
+https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="USA",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="USA",MTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/MAVTV.us.png" group-title="USA",MavTV
-https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-ID="SYF.US" tvg-logo="https://static.epg.best/us/Syfy.us.png" group-title="USA",SYFY
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=fals
 #EXTINF:-1 tvg-ID="OVA.US" tvg-logo="https://static.epg.best/us/Ovation.us.png" group-title="USA",Ovation
 https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
 #EXTINF:-1 tvg-ID="TLC.US" tvg-logo="https://static.epg.best/us/Revolt.us.png" group-title="USA",Revolt
 https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
+#EXTINF:-1 tvg-id="STA.us" tvg-logo="https://s23455.pcdn.co/wp-content/themes/stadium/static/images/stadium-logo-600.png" group-title="USA",Stadium
+https://stadium.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-ID="SYF.US" tvg-logo="https://static.epg.best/us/Syfy.us.png" group-title="USA",SYFY
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:-1 tvg-ID="TLC.US" tvg-logo="https://static.epg.best/us/TLC.us.png" group-title="USA",TLC
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
-#EXTINF:-1 tvg-ID="OVA.US" tvg-logo="https://static.epg.best/us/My9WWOR.us.png" group-title="USA",My9 TV
-https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA",WPSU-TV
 https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
-#EXTINF:-1 tvg-ID="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="USA",Channel [V]
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="WER.US" tvg-logo="https://static.epg.best/us/WeatherNation.us.png" group-title="USA",Weather Nation
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="Canada",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
