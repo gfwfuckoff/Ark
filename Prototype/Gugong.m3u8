@@ -820,8 +820,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Europe",ETV(Estonia)
 https://sb.err.ee/live/etv.m3u8
-#EXTINF:-1 tvg-id="RTL.HU" tvg-logo="https://static.epg.best/hu/RTLKlub.hu.png" group-title="Europe",RTL Klub(Hungary)
-https://stream.y5.hu/stream/stream_rtlklub/stream.m3u8
 #EXTINF:-1 tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="Europe",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="Europe",NRK 1(Norway)
