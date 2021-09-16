@@ -1030,61 +1030,61 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 #EXTINF:-1 tvg-id="12.IL" tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="Middle East",Channel 12(Israel)
 https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8|X-Forwarded-For=87.239.255.120
 
-#EXTINF:-1 tvg-id="MED.MA" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="Africa",Medi 1 Afrique
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="RT1.CI" tvg-logo="https://www.rti.ci/_nuxt/img/21d594a.png" group-title="Africa",RTI 1
+#EXTINF:-1 tvg-id="CRT.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Africa",CRTV(Cameroon)
+https://pcccw.github.io/IPTV/M3U8/Token/CM/CRTV.m3u8
+#EXTINF:-1 tvg-id="CRN.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Africa",CRTV News(Cameroon)
+https://pcccw.github.io/IPTV/M3U8/Token/CM/CRTVN.m3u8
+#EXTINF:-1 tvg-id="RT1.CI" tvg-logo="https://www.rti.ci/_nuxt/img/21d594a.png" group-title="Africa",RTI 1(Ivory Coast)
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NCI.CI" tvg-logo="https://static.wixstatic.com/media/f8668c_8cf416367fb743378ec26c7e7978a318~mv2_d_1692_1295_s_2.png" group-title="Africa",NCI
-https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
-#EXTINF:-1 tvg-id="NOV.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/novelachannel.jpg" group-title="Africa",Novela
-https://video1.getstreamhosting.com:1936/8284/8284/chunklist_w1624520266.m3u8
-#EXTINF:-1 tvg-id="IVM.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/ivoire-channel_logo.jpg" group-title="Africa",Ivorie Channel
-https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w178169595.m3u8
+#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV(Senegal)
+https://pcccw.github.io/Ark/M3U8/Token/SN/2ST.m3u8
+#EXTINF:-1 tvg-id="ORB.BJ" tvg-logo="https://ortb.bj/storage/2020/02/logo2-1.png" group-title="Africa",ORTB(Benin)
+https://edge3.vedge.infomaniak.com/livecast/ik:ortb/chunklist.m3u8
+#EXTINF:-1 tvg-id="CHA.TD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/td-tele-tchad-4848.jpg" group-title="Africa",Télé Tchad(Chad)
+https://strflasg.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="GAB.GA" tvg-logo="https://gabontelevisions.ga/storage/ggtv-medias/icons/GabonPremiere.png" group-title="Africa",Gabon 1(Gabon)
+https://vps73918.serveur-vps.net/hls/ggtv.m3u8
+#EXTINF:-1 tvg-id="TVG.GG" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Africa",TVGE(Equatorial Guinea)
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="RWA.RW" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Africa",Rwanda TV(Rwanda)
+https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
+#EXTINF:-1 tvg-id="RTB.BF" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="Africa",RTB(Burkina Faso)
+https://edge7.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist.m3u8
+#EXTINF:-1 tvg-id="TES.CF" tvg-logo="https://www.telesud.com/og-image.jpg" group-title="Africa",Télésud
+https://pcccw.github.io/IPTV/M3U8/Token/CF/TES.m3u8
 #EXTINF:-1 tvg-id="VOX.CI" tvg-logo="https://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="Africa",VOX Africa
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV
-https://pcccw.github.io/Ark/M3U8/Token/SN/2ST.m3u8
-#EXTINF:-1 tvg-id="SEN.SN" tvg-logo="https://sentv.acangroup.org/uploads/3406e15fca03408198976e3a076ff02b.png" group-title="Africa",Sen TV
-https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TFM.SN" tvg-logo="https://www.musicinafrica.net/sites/default/files/styles/profile_photo/public/images/music_professional_profile/201407/tfm.jpg" group-title="Africa",TFM
-https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
+
+#EXTINF:-1 tvg-id="BF1.BF" tvg-logo="https://bf1.tv/images/logo-large.png" group-title="Africa",BF1
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="EVA.GN" tvg-logo="https://groupeevasionguinee.info/wp-content/uploads/2021/04/LOGO-MASTER.png" group-title="Africa",Evasion TV
 https://edge4.vedge.infomaniak.com/livecast/ik:eavsiontv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ESP.GN" tvg-logo="https://www.espacetvguinee.info/wp-content/uploads/2020/06/TV-5-ANS%404x-3-2-1.png" group-title="Africa",Espace TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-avc1_1200000=4-mp4a_65200_fra=1.m3u8
-#EXTINF:-1 tvg-id="KAL.GN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gn-kalac-tv-8933-768x576.jpg" group-title="Africa",Kalac TV
-https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CIS.GN" tvg-logo="https://www.cismedias.com/wp-content/uploads/2020/08/cropped-logo_Cismedias_ok-1-300x57.png" group-title="Africa",CIS TV
 http://senrtmp.dyndns.tv:1936/hls/cistv.m3u8
-#EXTINF:-1 tvg-id="RTB.BF" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" group-title="Africa",RTB
-https://edge7.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist.m3u8
-#EXTINF:-1 tvg-id="BF1.BF" tvg-logo="https://bf1.tv/images/logo-large.png" group-title="Africa",BF1
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
-#EXTINF:-1 tvg-id="IMP.BF" tvg-logo="https://www.impacttele.tv/images/logo-impactv.jpg" group-title="Africa",Impac TV
-https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="SAV.BJ" tvg-logo="http://www.centraltv.fr/wp-content/uploads/savane-tv_logo.jpg" group-title="Africa",Savane TV
-https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="ORB.BJ" tvg-logo="https://ortb.bj/storage/2020/02/logo2-1.png" group-title="Africa",ORTB
-https://edge3.vedge.infomaniak.com/livecast/ik:ortb/chunklist.m3u8
-#EXTINF:-1 tvg-id="CHA.TD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/td-tele-tchad-4848.jpg" group-title="Africa",Télé Tchad
-https://strflasg.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="V4.CM" tvg-logo="https://www.vision4.tv/wp-content/uploads/2021/02/cropped-LOGO-VISION4-1536x1524.png" group-title="Africa",Vision 4
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision4.m3u8
-#EXTINF:-1 tvg-id="CRT.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Africa",CRTV
-https://pcccw.github.io/IPTV/M3U8/Token/CM/CRTV.m3u8
-#EXTINF:-1 tvg-id="CRN.CM" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Africa",CRTV News
-https://pcccw.github.io/IPTV/M3U8/Token/CM/CRTVN.m3u8
-#EXTINF:-1 tvg-id="GAB.GA" tvg-logo="https://gabontelevisions.ga/storage/ggtv-medias/icons/GabonPremiere.png" group-title="Africa",Gabon Premiere
-https://vps73918.serveur-vps.net/hls/ggtv.m3u8
-#EXTINF:-1 tvg-id="TVG.GG" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Africa",TVGE
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="RWA.RW" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Africa",Rwanda TV
-https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
 #EXTINF:-1 tvg-id="FLA.RW" tvg-logo="https://flash.rw/wp-content/uploads/2019/02/FLASH-BROADCASTING-BIG-LOGO.png" group-title="Africa",Flash TV
 http://80.241.215.175:1935/flashtv/flashtv/playlist.m3u8
+#EXTINF:-1 tvg-id="IVM.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/ivoire-channel_logo.jpg" group-title="Africa",Ivorie Channel
+https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w178169595.m3u8
+#EXTINF:-1 tvg-id="IMP.BF" tvg-logo="https://www.impacttele.tv/images/logo-impactv.jpg" group-title="Africa",Impac TV
+https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="KAL.GN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gn-kalac-tv-8933-768x576.jpg" group-title="Africa",Kalac TV
+https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/chunklist.m3u8
+#EXTINF:-1 tvg-id="MED.MA" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="Africa",Medi 1 Afrique
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="NCI.CI" tvg-logo="https://static.wixstatic.com/media/f8668c_8cf416367fb743378ec26c7e7978a318~mv2_d_1692_1295_s_2.png" group-title="Africa",NCI
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
+#EXTINF:-1 tvg-id="NOV.CI" tvg-logo="http://www.centraltv.fr/wp-content/uploads/novelachannel.jpg" group-title="Africa",Novela
+https://video1.getstreamhosting.com:1936/8284/8284/chunklist_w1624520266.m3u8
+#EXTINF:-1 tvg-id="SEN.SN" tvg-logo="https://sentv.acangroup.org/uploads/3406e15fca03408198976e3a076ff02b.png" group-title="Africa",Sen TV
+https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SAV.BJ" tvg-logo="http://www.centraltv.fr/wp-content/uploads/savane-tv_logo.jpg" group-title="Africa",Savane TV
+https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="TEL.RE" tvg-logo="http://files.gandi.ws/gandi77278/image/tvk.jpg" group-title="Africa",Télé Kréol
 https://pcccw.github.io/IPTV/M3U8/Token/RE/TEK.m3u8
-#EXTINF:-1 tvg-id="TES.CF" tvg-logo="https://www.telesud.com/og-image.jpg" group-title="Africa",Télésud
-https://pcccw.github.io/IPTV/M3U8/Token/CF/TES.m3u8
+#EXTINF:-1 tvg-id="TFM.SN" tvg-logo="https://www.musicinafrica.net/sites/default/files/styles/profile_photo/public/images/music_professional_profile/201407/tfm.jpg" group-title="Africa",TFM
+https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
 #EXTINF:-1 tvg-id="TLS.TG" tvg-logo="https://tlsafrica.tg/wp-content/uploads/2020/11/TLS-Africa.png" group-title="Africa",TLS Africa
-https://pcccw.github.io/IPTV/M3U8/Token/TG/TLS.m3u8
+https://pcccw.github.io/IPTV/M3U8/Token/TG/TLS.m3u8#EXTINF:-1 tvg-id="V4.CM" tvg-logo="https://www.vision4.tv/wp-content/uploads/2021/02/cropped-LOGO-VISION4-1536x1524.png" group-title="Africa",Vision 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision4.m3u8
