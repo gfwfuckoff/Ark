@@ -870,18 +870,20 @@ http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
 #EXTINF:-1 tvg-id="C8.FR" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
 https://pcccw.github.io/Ark/M3U8/Token/FR/C8.m3u8
-#EXTINF:-1 tvg-id="N12.FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ12
-https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
-#EXTINF:-1 tvg-id="LCP.FR" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
-https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
-#EXTINF:-1 tvg-id="TIJ.FR" tvg-logo="https://static.epg.best/fr/Tiji.fr.png" group-title="Français",Tiji
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 tvg-id="GUI.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="EMC.FR" tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-id="GUI.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="LCP.FR" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
+https://pcccw.github.io/Ark/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-id="KTO.FR" tvg-logo="https://static.epg.best/fr/KTO.fr.png" group-title="Français",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="M6I.Int" tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="N12.FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ12
+https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTINF:-1 tvg-id="TIJ.FR" tvg-logo="https://static.epg.best/fr/Tiji.fr.png" group-title="Français",Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Français",TV5 Monde Asie
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 
@@ -1030,8 +1032,6 @@ https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8|X-For
 
 #EXTINF:-1 tvg-id="MED.MA" tvg-logo="http://img.medi1tv.com/logo-notif.png" group-title="Africa",Medi 1 Afrique
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTO.FR" tvg-logo="https://static.epg.best/fr/KTO.fr.png" group-title="Africa",KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="RT1.CI" tvg-logo="https://www.rti.ci/_nuxt/img/21d594a.png" group-title="Africa",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NCI.CI" tvg-logo="https://static.wixstatic.com/media/f8668c_8cf416367fb743378ec26c7e7978a318~mv2_d_1692_1295_s_2.png" group-title="Africa",NCI
@@ -1044,8 +1044,6 @@ https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w178169595.m3u8
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-2stv-4194-300x225.jpg" group-title="Africa",2STV
 https://pcccw.github.io/Ark/M3U8/Token/SN/2ST.m3u8
-#EXTINF:-1 tvg-id="2ST.SN" tvg-logo="https://img.youtube.com/vi/0Inlllfnt3E/hqdefault.jpg" group-title="Africa",TFM
-https://pcccw.github.io/Ark/M3U8/Token/SN/TFM.m3u8
 #EXTINF:-1 tvg-id="SEN.SN" tvg-logo="https://sentv.acangroup.org/uploads/3406e15fca03408198976e3a076ff02b.png" group-title="Africa",Sen TV
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TFM.SN" tvg-logo="https://www.musicinafrica.net/sites/default/files/styles/profile_photo/public/images/music_professional_profile/201407/tfm.jpg" group-title="Africa",TFM
@@ -1068,8 +1066,6 @@ https://edge3.vedge.infomaniak.com/livecast/ik:impacttv_1/chunklist.m3u8
 https://edge3.vedge.infomaniak.com/livecast/ik:savanetv_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="ORB.BJ" tvg-logo="https://ortb.bj/storage/2020/02/logo2-1.png" group-title="Africa",ORTB
 https://edge3.vedge.infomaniak.com/livecast/ik:ortb/chunklist.m3u8
-#EXTINF:-1 tvg-id="ORT.NE" tvg-logo="https://www.ortn.ne/wp-content/uploads/2019/12/LOGO-site-TS.png" group-title="Africa",ORTN
-http://iptv.repl.co/French/tele_sahel/
 #EXTINF:-1 tvg-id="CHA.TD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/td-tele-tchad-4848.jpg" group-title="Africa",Télé Tchad
 https://strflasg.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="V4.CM" tvg-logo="https://www.vision4.tv/wp-content/uploads/2021/02/cropped-LOGO-VISION4-1536x1524.png" group-title="Africa",Vision 4
@@ -1084,10 +1080,6 @@ https://vps73918.serveur-vps.net/hls/ggtv.m3u8
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="RWA.RW" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Africa",Rwanda TV
 https://1600706787.rsc.cdn77.org/1600706787/index.m3u8
-#EXTINF:-1 tvg-id="C2I.CM" tvg-logo="https://www.canal2international.net/images/logo.png" group-title="Africa",Canal 2 Internacional
-https://pcccw.github.io/IPTV/M3U8/Token/CM/C2I.m3u8
-#EXTINF:-1 tvg-id="10.CD" tvg-logo="https://i0.wp.com/10emeruetv.net/wp-content/uploads/2021/03/cropped-148226715_105731511553912_3814994172641617887_n.png" group-title="Africa",10 ème Rue
-http://ca.oraostream.com:8081/rdc-10emeruetv/ledirect/playlist.m3u8
 #EXTINF:-1 tvg-id="FLA.RW" tvg-logo="https://flash.rw/wp-content/uploads/2019/02/FLASH-BROADCASTING-BIG-LOGO.png" group-title="Africa",Flash TV
 http://80.241.215.175:1935/flashtv/flashtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TEL.RE" tvg-logo="http://files.gandi.ws/gandi77278/image/tvk.jpg" group-title="Africa",Télé Kréol
