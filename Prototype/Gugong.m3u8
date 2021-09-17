@@ -43,43 +43,14 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="108.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/108.png" group-title="香港",有線財經資訊
 https://www.navchina.cf/IPTV/icable.php?id=38
+#EXTINF:-1 tvg-id="108.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/109.png" group-title="香港",有線新闻台
+https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 tvg-id="108.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/110.png" group-title="香港",有線直播新聞台
+https://www.navchina.cf/IPTV/icable.php?id=39
 #EXTINF:-1 tvg-id="002.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/002.png" group-title="香港",香港国际經資
 https://www.navchina.cf/IPTV/icable.php?id=76
-
-
-🇹🇼台湾频道,#genre#
-有线 SPORTS 1,rtmp://161.202.204.248/sat/hk011
-有线18台,rtmp://161.202.204.248/sat/hk042
-台视,rtmp://161.202.204.248/sat/tv071
-中视,rtmp://161.202.204.248/sat/tv091
-華视,rtmp://161.202.204.248/sat/tv111
-TVBS·欢乐台,rtmp://161.202.204.248/sat/tv421
-纬来日本,rtmp://161.202.204.248/sat/tv521
-纬来育乐,rtmp://161.202.204.248/sat/tv701
-纬来体育,rtmp://161.202.204.248/sat/tv721
-ELEVEN1体育,rtmp://161.202.204.248/sat/tv731
-ELEVEN2体育,rtmp://161.202.204.248/sat/tv741
-MoMo综合台,rtmp://161.202.204.248/sat/tv761
-东森超视,rtmp://161.202.204.248/sat/tv771
-爱尔达体育Ⅰ,rtmp://161.202.204.248/sat/md011
-博斯网球,rtmp://161.202.204.248/sat/md021
-博斯魅力,rtmp://161.202.204.248/sat/md031
-爱尔达奥运Ⅰ,rtmp://161.202.204.248/sat/md041
-爱尔达体育Ⅰ,rtmp://161.202.204.248/sat/md051
-日本MLB,rtmp://161.202.204.248:1935/sat/jp071
-CBS2 720,rtmp://161.202.204.248:1935/sat/us011
-CBS2 480,rtmp://161.202.204.248:1935/sat/us012
-FS1 480,rtmp://161.202.204.248:1935/sat/us031
-FS1 352,rtmp://161.202.204.248:1935/sat/us032
-
-翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
-ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线直播台,https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-id="618.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/618.png" group-title="香港",有線18台
+rtmp://161.202.204.248/sat/hk042
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
