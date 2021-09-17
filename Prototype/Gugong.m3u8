@@ -237,12 +237,13 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-480.m3u8
 #EXTINF:-1 tvg-ID="TV6.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia",TV 6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-720.m3u8
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02-720.m3u8
 #EXTINF:-1 tvg-id="RTS.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="Malaysia",RTM Sports
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8
