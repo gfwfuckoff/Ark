@@ -109,13 +109,13 @@ https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225692/index.m3u8
 #EXTINF:-1 tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="中国",东方卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225682/index.m3u8
 #EXTINF:-1 tvg-id="ZJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="JSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中国",江苏卫视
-http://39.135.33.12/PLTV/77777777/224/3221226558/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="CT2.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
 http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
 #EXTINF:-1 tvg-id="CT3.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3 文艺
@@ -150,17 +150,17 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m
 http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 
 #EXTINF:-1 tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="BTV.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视
-http://103.71.70.76/0618/yangzhou.php?id=bjws
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="GDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中国",兵团卫视
 http://39.134.168.76/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视
-http://39.135.33.12/PLTV/77777777/224/3221226586/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8
 #EXTINF:-1 tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国",东南卫视
-http://39.135.33.12/PLTV/77777777/224/3221226588/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-id="GZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国",贵州卫视
 http://39.134.39.39/PLTV/88888888/224/3221226276/index.m3u8
 #EXTINF:-1 tvg-id="GSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="中国",甘肃卫视
@@ -174,15 +174,15 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="HNX.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国",河南卫视
 http://39.134.168.76/PLTV/1/224/3221225584/index.m3u8
 #EXTINF:-1 tvg-id="HLJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8
 #EXTINF:-1 tvg-id="HUB.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="JLW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="中国",吉林卫视
 http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国",辽宁卫视
-http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="NNN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="中国",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="中国",宁夏卫视
@@ -192,15 +192,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="SIC.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国",四川卫视
 http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="SZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225691/index.m3u8
 #EXTINF:-1 tvg-id="SDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="中国",山东卫视 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="SXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="中国",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="SXS.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="中国",陕西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="TJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国",天津卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225694/index.m3u8
 #EXTINF:-1 tvg-id="YNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="中国",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="XZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="中国",西藏卫视
@@ -749,6 +749,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="Kids",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="ANI.Asia" tvg-logo="https://static.epg.best/ph/Animax.ph.pngg" group-title="Kids",Animax
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 tvg-id="ZOM.Int" tvg-logo="https://static.epg.best/ar/ZooMoo.ar.png" group-title="Kids",Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
