@@ -17,21 +17,69 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8|X-Forwarded-For=212.102.42.207
 #EXTINF:-1 tvg-id="32.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" group-title="香港",港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="301.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/301.png" group-title="香港",有線綜合娛樂
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
-#EXTINF:-1 tvg-id="108.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/108.png" group-title="香港",有線財經資訊
-https://www.navchina.cf/IPTV/icable.php?id=38
-#EXTINF:-1 tvg-id="002.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/002.png" group-title="香港",香港国际經資
-https://www.navchina.cf/IPTV/icable.php?id=76
-#EXTINF:-1 tvg-id="TVB.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/319_300.png" group-title="香港",TVB 星河台  
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="香港",TVB Pearl
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="TVB.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/319_300.png" group-title="香港",TVB 星河台  
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_80viutv_six.jpg" group-title="香港",ViuTVsix
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="154.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/154.png" group-title="香港",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 tvg-id="113.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/113.png" group-title="香港",凤凰资讯
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="304.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/304.png" group-title="香港",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="108.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/108.png" group-title="香港",有線財經資訊
+https://www.navchina.cf/IPTV/icable.php?id=38
+#EXTINF:-1 tvg-id="002.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/002.png" group-title="香港",香港国际經資
+https://www.navchina.cf/IPTV/icable.php?id=76
 
+
+🇹🇼台湾频道,#genre#
+有线 SPORTS 1,rtmp://161.202.204.248/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk042
+台视,rtmp://161.202.204.248/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091
+華视,rtmp://161.202.204.248/sat/tv111
+TVBS·欢乐台,rtmp://161.202.204.248/sat/tv421
+纬来日本,rtmp://161.202.204.248/sat/tv521
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来体育,rtmp://161.202.204.248/sat/tv721
+ELEVEN1体育,rtmp://161.202.204.248/sat/tv731
+ELEVEN2体育,rtmp://161.202.204.248/sat/tv741
+MoMo综合台,rtmp://161.202.204.248/sat/tv761
+东森超视,rtmp://161.202.204.248/sat/tv771
+爱尔达体育Ⅰ,rtmp://161.202.204.248/sat/md011
+博斯网球,rtmp://161.202.204.248/sat/md021
+博斯魅力,rtmp://161.202.204.248/sat/md031
+爱尔达奥运Ⅰ,rtmp://161.202.204.248/sat/md041
+爱尔达体育Ⅰ,rtmp://161.202.204.248/sat/md051
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+CBS2 480,rtmp://161.202.204.248:1935/sat/us012
+FS1 480,rtmp://161.202.204.248:1935/sat/us031
+FS1 352,rtmp://161.202.204.248:1935/sat/us032
+
+翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J2 1080P,https://cdn.hkdtmb.com/hls/82/index.m3u8
+ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播台,https://api.leonardpark.dev/live/icable/110
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
@@ -155,8 +203,6 @@ http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225671/index.m3u8
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="GDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中国",兵团卫视
-http://39.134.168.76/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8
 #EXTINF:-1 tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国",东南卫视
@@ -209,6 +255,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 tvg-id="XMW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="中国",厦门卫视
 http://39.135.33.12/PLTV/77777777/224/3221226856/index.m3u8
+#EXTINF:-1 tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中国",兵团卫视
+http://39.134.168.76/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="中国",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
