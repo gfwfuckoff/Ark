@@ -602,47 +602,6 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="Oceania",Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
-#EXTINF:1,Dave HD
-https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
-#EXTINF:1,Dave JA Vu
-https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/tracks-v1a1/mono.m3u8
-#EXTINF:1,Only Motors TV HD
-https://lineartv001.broadcastcdn.net/liveuk/CLOUDIETV-OMTVUK/index.m3u8
-#EXTINF:1,Quest Red
-https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/tracks-v1a1/mono.m3u8
-#EXTINF:1,Really
-https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
-#EXTINF:1,Yanga! HD
-https://gpuserver002.broadcastcdn.net/CLOUDIETV-YANGA/tracks-v1a1/mono.m3u8
-#EXTINF:1,Court TV
-https://cdnuk001.broadcastcdn.net/KUK-COURTTV/tracks-v1a1/mono.m3u8
-#EXTINF:1,Horror Channel
-https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF:1,Brit Asia TV
-https://cdnuk001.broadcastcdn.net/KUK-BRITASIA/tracks-v1a1/mono.m3u8
-#EXTINF:1,Vintage Music TV
-https://cdnuk001.broadcastcdn.net/CLOUDIETV-VINTAGEMUSICTVUK/tracks-v1a1/mono.m3u8
-#EXTINF:1,Yesterday
-https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
-#EXTINF:1,Food Network
-https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:1,Together TV
-https://cdnuk001.broadcastcdn.net/KUK-TOGETHER/tracks-t1/mono.m3u8
-#EXTINF:1,Forces TV
-https://cdnuk001.broadcastcdn.net/KUK-FORCESTV/tracks-v1a1/mono.m3u8
-#EXTINF:1,Trace Hits
-https://cdnuk001.broadcastcdn.net/KUK-TRACEHITS/tracks-v1a1/mono.m3u8
-#EXTINF:1,Now 80s
-https://cdnuk001.broadcastcdn.net/KUK-NOW80S/tracks-v1a1/mono.m3u8
-#EXTINF:1,Rathergood LOL
-https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODLOL-001/tracks-v1a1/mono.m3u8
-#EXTINF:1,Duel HD
-https://cdnuk001.broadcastcdn.net/CLOUDIETV-DUEL/tracks-v2a1/mono.m3u8
-#EXTINF:1,Rathergood Campfire
-https://cdnuk001.broadcastcdn.net/CLOUDIETV-CAMPFIRETV/tracks-v1a1/mono.m3u8
-#EXTINF:1,Pub TV 
-https://cdnuk001.broadcastcdn.net/KUK-COZYPUBLOOP/tracks-v2a1/mono.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR| FRANCE",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
