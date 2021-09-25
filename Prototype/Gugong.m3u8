@@ -881,14 +881,6 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Australia",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 #EXTINF:-1 tvg-id="CN.FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Français",CNews
 https://pcccw.github.io/Ark/M3U8/Token/FR/CNews.m3u8
 #EXTINF:-1 tvg-id="C8.FR" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
