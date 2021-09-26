@@ -20,7 +20,7 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊
