@@ -45,8 +45,6 @@ https://www.navchina.cf/IPTV/icable.php?id=37
 https://www.navchina.cf/IPTV/icable.php?id=39
 #EXTINF:-1 tvg-id="002.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/002.png" group-title="香港",香港国际經資
 https://www.navchina.cf/IPTV/icable.php?id=76
-#EXTINF:-1 tvg-id="618.HK" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/618.png" group-title="香港",有線18台
-rtmp://161.202.204.248/sat/hk042
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
@@ -131,7 +129,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文 tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/154.png" group-title="中国",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/154.png" group-title="中国",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/113.png" group-title="中国",凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
